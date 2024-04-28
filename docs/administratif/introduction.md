@@ -10,6 +10,6 @@ sidebar_position: 1
 - Lire annexe île + vie en société
 - Lire les lignées
 - Lire comment construire mon personnage
-- Lire les expéditions
 - Lire la chronologie
 - Lire les intrigues
+
