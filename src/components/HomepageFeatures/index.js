@@ -7,7 +7,7 @@ const FeatureList = [
         description: (
             <>
                 <p>
-                    Personne ne connaît les prémices de cette histoire ; ils sont flous, incertains, autrefois posés à l’encre sur papier pour être brûlé. Des
+                    Personne ne connaît les prémices de cette histoire ; ils sont flous, incertains, autrefois posés à l’encre sur papier pour être brûlés. Des
                     origines d’une histoire répandue dans le monde, dans des lieux que personne n’a plus visités depuis des temps qu’il est même compliqué
                     d’imaginer.
                 </p>
