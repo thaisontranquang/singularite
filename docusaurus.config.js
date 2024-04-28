@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Singularité - Guide',
-  tagline: 'Dinosaurs are cool',
+  title: 'Singularité',
+  tagline: 'Guide de jeu',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -69,7 +69,7 @@ const config = {
             docId: 'administratif/introduction',
             sidebarId: 'administratifSidebar',
             position: 'left',
-            label: 'Guide',
+            label: 'Administratif',
           },
           {
             type: 'doc',
@@ -95,11 +95,11 @@ const config = {
             items: [
               {
                 label: 'Forum',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: '/',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: '/',
               },
             ],
           },
