@@ -104,7 +104,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Singularité, built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Singularité`,
       },
       prism: {
         theme: prismThemes.github,
