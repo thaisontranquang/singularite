@@ -6,7 +6,7 @@ const FeatureList = [
   {
     description: (
       <>
-      <div className='container hero-container'>
+      <div className='hero-container'>
         <Heading as="h1" className="hero__title">
           Singularité
         </Heading>
@@ -15,7 +15,6 @@ const FeatureList = [
           steampunk. Vos choix façonnent l’histoire dans un cadre semi-évolutif : les grandes lignes de l’intrigue sont déjà tracées mais malléables, et c’est à
           vous de déterminer la direction qui vous plaît, à travers vos actions et votre engagement. Quelques points-clés de notre vision du jeu :
         </p>
-
         <ul>
           <li>
             Des personnages non-jouables faillibles pour les figures clés au lancement du forum, pour vous et nous assurer de l’élan de l’intrigue, avec la
