@@ -27,3 +27,47 @@
   --ifm-color-primary-lighter: #fad16e;
   --ifm-color-primary-lightest: #fcdf9b;
 }
+
+/* HERO */
+
+.hero {
+  align-items: center;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.hero-title {
+  left: 50%;
+  max-width: 700px;
+  margin-top: -2rem;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  z-index: 1;
+}
+
+.hero-title svg {
+  width: 100%;
+}
+
+.hero img {
+  max-width: 650px;
+  position: relative;
+  top: 14rem;
+  width: 100%;
+  z-index: 2;
+}
+
+.hero-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.hero__title {
+  text-align: center;
+}

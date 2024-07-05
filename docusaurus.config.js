@@ -80,10 +80,22 @@ const config = {
           },
           {
             type: 'doc',
+            docId: 'mecaniques/humeurs',
+            sidebarId: 'mecaniquesSidebar',
+            position: 'left',
+            label: 'Mécaniques',
+          },
+          {
+            type: 'doc',
             docId: 'intrigues/introduction',
             sidebarId: 'intriguesSidebar',
             position: 'left',
             label: 'Intrigues',
+          },
+          {
+            href: '/',
+            label: 'Retourner au forum',
+            position: 'right',
           },
         ],
       },
