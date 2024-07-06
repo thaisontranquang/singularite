@@ -11,12 +11,13 @@ sidebar_position: 3
 <img src="/img/administratif/riseha.png" alt="Photo staff Riseha" width="200"/>
   </Column>
   <Column>
-Curabitur commodo rutrum dui. Curabitur luctus neque in ipsum pellentesque, id faucibus quam posuere. Duis consectetur tortor ultricies sagittis sagittis. Nulla gravida purus a mollis varius. Nulla non est non purus auctor cursus. Vivamus eget fringilla ipsum, sit amet auctor nunc.
+Co-fondatrice et chargée de JavaScript (tout du moins jusqu’à la rupture inéluctable de son CDD).
 
 ### Missions
 
-- Les Lignées des Rédemptions et des Parangons
-- Mécaniques de jeux
+- Tout ce qui est relatif à la gestion des lignées des Rédemptions et des Parangons
+- Mécaniques de jeux (propositions, questions)
+- Aide à l'intégration, mise en contact, etc.
 
 ### Emploi du temps
 
@@ -33,13 +34,13 @@ Curabitur commodo rutrum dui. Curabitur luctus neque in ipsum pellentesque, id f
 <img src="/img/administratif/son.png" alt="Photo staff Sonylle" width="200"/>
   </Column>
   <Column>
-Curabitur commodo rutrum dui. Curabitur luctus neque in ipsum pellentesque, id faucibus quam posuere. Duis consectetur tortor ultricies sagittis sagittis. Nulla gravida purus a mollis varius. Nulla non est non purus auctor cursus. Vivamus eget fringilla ipsum, sit amet auctor nunc.
+Co-fondateur à l’origine de tout, graphiste, développeur, maquettiste, rédacteur en chef — il y a-t-il une chose qu’il ne sait pas faire, et est-ce que j’ai écrit ce message sous la contrainte ?
 
 ### Missions
 
-- Les Lignées des Volontés et des Équilibres
-- Toute l'intégration visuelle du forum (compatibilité navigateur, comportement de la version mobile, problème d'accessibilité, etc.)
-- Vous aider avec vos codes RP
+- Tout ce qui est relatif à la gestion des lignées des Volontés et des Équilibres
+- L'intégration visuelle du forum (compatibilité navigateur, version mobile, accessibilité, etc.)
+- Aide pour les codes RP (les nôtres et les vôtres)
 
 ### Emploi du temps
 

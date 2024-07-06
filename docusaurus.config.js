@@ -66,7 +66,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'administratif/introduction',
+            docId: 'administratif/reglement',
             sidebarId: 'administratifSidebar',
             position: 'left',
             label: 'Administratif',
@@ -87,7 +87,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'intrigues/introduction',
+            docId: 'intrigues/chronologie',
             sidebarId: 'intriguesSidebar',
             position: 'left',
             label: 'Intrigues',

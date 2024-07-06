@@ -14,15 +14,15 @@ Répondre à cette question vous aidera sans doute à définir des ambitions rai
 
 ## Vous renseigner sur la communauté présente
 
-:::note
+:::info
 Ces conseils reflètent notre vision d'un jeu juste et équitable — libre à vous de ne pas être d’accord, mais attendez-vous à ce que nous prêtions attention à ces points lors de la validation de votre fiche.
 :::
 
 La richesse d’une communauté réside dans la diversité et la complémentarité des personnages. Pour cela, il est essentiel de faire preuve de mesure et de prudence. Par exemple, en évitant de créer un personnage trop similaire à un·e membre récemment validé·e, que ce soit en termes de qualités, d’objectifs ou même de traumatismes.
 
-— **Prenez le temps de lire les fiches déjà validées**, même en les survolant, pour éviter les redondances. Oui, cela peut prendre un peu de temps : le même que les anciens prendront pour vous lire à leur tour. Il est fort probable que vous aimeriez jouer un personnage qui se démarque des autres, avec ses particularités bien à ellui. Eh bien, c’est aussi le cas de vos pairs d’écriture !
+- **Prenez le temps de lire les fiches déjà validées**, même en les survolant, pour éviter les redondances. Oui, cela peut prendre un peu de temps : le même que les anciens prendront pour vous lire à leur tour. Il est fort probable que vous aimeriez jouer un personnage qui se démarque des autres, avec ses particularités bien à ellui. Eh bien, c’est aussi le cas de vos pairs d’écriture !
 
-— **Soyez mesuré·e dans la caractérisation de votre personnage.**
+- **Soyez mesuré·e dans la caractérisation de votre personnage.**
 Avez-vous vraiment besoin d’être un·e violoniste de renom, un·e artiste-peintre incompris·e, un·e ancien·ne championıe du Colisée et lae référent·e psychologique actuel·le de l’Enclave ? Peut-être pas tout à la fois. Laissez un peu d’exclusivité aux autres.
 
 Nous ne ferons pas la police, cet effort vous incombe mais nous vous demandons de ne pas devenir des sources de frustrations pour vos pairs en les ignorant consciemment (ou non) ou en vous appropriant tout ce qu'il a de possible à prendre.
@@ -31,13 +31,13 @@ Nous ne ferons pas la police, cet effort vous incombe mais nous vous demandons d
 
 Créer un personnage est une expérience profondément personnelle ; nous ne sommes pas là pour vous dire comment vous y prendre. Voilà toutefois ce que nous conseillerons à quiconque nous demanderait un peu d’aide :
 
-— Peut-être pouvez-vous partir d’un trait négatif ou un trait positif comme base du développement de votre personnage.
+- Peut-être pouvez-vous partir d’un trait négatif ou un trait positif comme base du développement de votre personnage.
 
-— Nuancer un archétype prévisible. Inversez les attentes : un guerrier poétique et doux plutôt que téméraire et fougueux, un érudit bienveillant et sociable plutôt que renfermé et distant, etc.
+- Nuancer un archétype prévisible. Inversez les attentes : un guerrier poétique et doux plutôt que téméraire et fougueux, un érudit bienveillant et sociable plutôt que renfermé et distant, etc.
 
-— Introduisez des contradictions, des conflits qui les opposent aux autres, des peurs : un soldat plus préoccupé par ses faits d’armes que par la sécurité de ses concitoyens, une figure publique profondément misanthrope et qui le masque à grand-peine, etc.
+- Introduisez des contradictions, des conflits qui les opposent aux autres, des peurs : un soldat plus préoccupé par ses faits d’armes que par la sécurité de ses concitoyens, une figure publique profondément misanthrope et qui le masque à grand-peine, etc.
 
-— Justifiez les attitudes de votre personnage : changé par des traumatismes, marqué par des blessures intérieures, ou au contraire, désireux de faire ses preuves suite à une réalisation positive, etc.
+- Justifiez les attitudes de votre personnage : changé par des traumatismes, marqué par des blessures intérieures, ou au contraire, désireux de faire ses preuves suite à une réalisation positive, etc.
 
 Créer un personnage cohérent ne suffit pas toujours pour susciter l’envie de le jouer ; n’oubliez pas de lui donner des objectifs à diverses échelles pour vous motiver et le développer. Ils peuvent découler de sa personnalité et de son histoire (ex. : une victime d’injustice cherche la vengeance) ou évoluer parallèlement à l’intrigue.
 
@@ -45,11 +45,11 @@ Dans les deux cas, il vous faudra impérativement créer des liens avec d’autr
 
 ## Quelques ressources à consulter pour l’inspiration
 
-[Character Writing: Complete Guide to Creating Your Cast - NN](https://www.nownovel.com/blog/creating-character/)
+- [Character Writing: Complete Guide to Creating Your Cast - NN](https://www.nownovel.com/blog/creating-character/)
 
-[Creating Characters](https://youtube.com/playlist?list=PLV6pMftb_QTmu8v1NALV8chfJyZGLxX9o&si=s3qdF00pVtrVpO-o)
+- [Creating Characters](https://youtube.com/playlist?list=PLV6pMftb_QTmu8v1NALV8chfJyZGLxX9o&si=s3qdF00pVtrVpO-o)
 
-[Enneagram Type Descriptions](https://www.enneagraminstitute.com/type-descriptions/)
+- [Enneagram Type Descriptions](https://www.enneagraminstitute.com/type-descriptions/)
 
 ## Rechercher des pré-liens, penser au futur
 
