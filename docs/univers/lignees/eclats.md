@@ -43,7 +43,7 @@ Transports, logistique, machinerie, construction, milice intérieure
 <Columns>
   <Column className='col--4'>
 
-    <img src="/img/lignees/pnj/frya.png" alt="Frya icon" width="250"/>
+    <img src="/img/lignees/pnj/andraste.png" alt="Andraste" width="250"/>
     *Himeko - HSR*
 
   </Column>

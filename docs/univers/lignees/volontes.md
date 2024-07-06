@@ -41,7 +41,7 @@ Santé, pharmaceutique, banques & assurances, commerce, ???
   <Column className='col--4'>
 
     <img src="/img/lignees/pnj/frya.png" alt="Frya icon" width="250"/>
-    *Mei Mei - JJK*
+    *Ningguang - Genshin Impact*
 
   </Column>
   <Column>

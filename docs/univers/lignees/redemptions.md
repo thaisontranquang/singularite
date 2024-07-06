@@ -40,7 +40,7 @@ Religion, ésotérisme, philosophie, ???, ???
 <Columns>
   <Column className='col--4'>
 
-    <img src="/img/lignees/pnj/frya.png" alt="Frya icon" width="250"/>
+    <img src="/img/lignees/pnj/rannie.png" alt="Rannie" width="250"/>
     *Columbina - Genshin Impact*
 
   </Column>

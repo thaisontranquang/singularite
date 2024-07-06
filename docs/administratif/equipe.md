@@ -15,7 +15,7 @@ Co-fondatrice et chargée de JavaScript (tout du moins jusqu’à la rupture in�
 
 ### Missions
 
-- Tout ce qui est relatif à la gestion des lignées des Rédemptions et des Parangons
+- Tout ce qui est relatif à la gestion des lignées des Rédemptions, des Parangons & des Éclats.
 - Mécaniques de jeux (propositions, questions)
 - Aide à l'intégration, mise en contact, etc.
 

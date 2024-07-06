@@ -53,7 +53,7 @@ Il est assez courant d’en faire partie, mais ces groupes ayant des règles par
 
 Grâce aux Parangons, l’Arceau a connu un soubresaut technologique depuis ces dernières années. L’île est entrée dans une phase de révolution industrielle depuis déjà une dizaine d’années. Iels accordent aujourd’hui différents types d’expertises selon les besoins des populations, contribuant à une segmentation de cette dernière dans des quartiers qui se retrouvent à porter des esthétiques parfois très hétéroclites.
 
-Selon Ludovica, tout est fait pour optimiser la satisfaction des habitant·es de l’Arceau compte-tenu des ressources limitées à leur disposition, mais certain·es lui suspectent surtout de jouer dangereusement avec les cadres de vie des habitant·es et de les influencer.
+Selon Eleane, tout est fait pour optimiser la satisfaction des habitant·es de l’Arceau compte-tenu des ressources limitées à leur disposition, mais certain·es lui suspectent surtout de jouer dangereusement avec les cadres de vie des habitant·es et de les influencer.
 
 À titre d’exemples :
 

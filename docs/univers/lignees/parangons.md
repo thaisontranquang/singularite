@@ -40,18 +40,18 @@ Enseignement, recherche, ingénierie, énergie, ???
 <Columns>
   <Column className='col--4'>
 
-    <img src="/img/lignees/pnj/frya.png" alt="Frya icon" width="250"/>
-    *Jade - HSR*
+    <img src="/img/lignees/pnj/eleane.png" alt="Eleane" width="250"/>
+    *Ruan Mei - HSR*
 
   </Column>
   <Column>
 
-**Prénom** : Ludovica
+**Prénom** : Eleane
 
 **Titre** : La Doyenne
 
 **Âge** : 37 ans
 
-**Description** : La doyenne actuelle est une femme au sourire léger et à l’air généralement absent, qui s’éclipse plus souvent que nécessaire dans les confins de son laboratoire. On la suspecte de conduire des expériences étrange, ce qu’elle réfute généralement dans le rire. Les différentes prouesses des dix dernières années faites par les Parangons ont été initiées et coordonnées par ses soins. En effet, Ludovica est convaincue qu’il est nécessaire pour le bien de toustes de faire des avancées techniques et technologiques.
+**Description** : La doyenne actuelle est une femme au sourire léger et à l’air généralement absent, qui s’éclipse plus souvent que nécessaire dans les confins de son laboratoire. On la suspecte de conduire des expériences étrange, ce qu’elle réfute généralement dans le rire. Les différentes prouesses des dix dernières années faites par les Parangons ont été initiées et coordonnées par ses soins. En effet, Eleane est convaincue qu’il est nécessaire pour le bien de toustes de faire des avancées techniques et technologiques.
 </Column>
 </Columns>

@@ -10,9 +10,11 @@ sidebar_position: 1
 
 ### Âge de l’Harmonie (-290 — -10)
 
-Période de paix et de prospérité remarquable, cette ère commence après un conflit prolongé qui aurait opposé deux puissantes factions de l’Arceau. La signature du traité de paix, suite à une série d’éclipses solaires et lunaires interprétées par les prêtres de Bashnör comme un signe divin, marque la fin d’un conflit de plusieurs décennies qui a menacé le tissu social et culturel de l’île.
+- Période de paix qui fait suite à de nombreux conflits entre deux puissantes factions.
+- Développement de nouvelles technologies : agriculture, navigation, astronomie.
+- Fondation de l'Académie des Arts et des Lettres.
+- Nombreuses réformes sociales pour atteindre des droits égaux entre toustes.
 
-Durant cette période, l’Arceau voit le développement de nouvelles technologies dans les domaines de l’agriculture, la navigation et l’astronomie. La fondation de l’Académie des Arts et des Lettres est également à l’origine d’un renouveau artistique et culturel. Des réformes sociales profondes sont initiés par le Gouvernement pour établir des droits égaux pour tous les citoyens indépendamment de leur faction d’origine.
 </TimelineItem>
 <TimelineItem align='left'>
 

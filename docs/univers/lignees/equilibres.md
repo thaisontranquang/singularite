@@ -41,7 +41,7 @@ Institutions, gouvernement, justice, communication, patrimoine
 <Columns>
   <Column className='col--4'>
 
-    <img src="/img/lignees/pnj/frya.png" alt="Frya icon" width="250"/>
+    <img src="/img/lignees/pnj/gabriel.png" alt="Gabriel" width="250"/>
     *Sunday - HSR*
 
   </Column>
