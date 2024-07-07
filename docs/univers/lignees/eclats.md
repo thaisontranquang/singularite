@@ -54,6 +54,6 @@ Transports, logistique, machinerie, construction, milice intérieure
 
 **Âge** : 34 ans
 
-**Description** : Une jeune femme dont la droiture bienveillante et une générosité sans fin inspirent toustes les Éclats. Sous des airs raffinés, Andraste cache cependant un penchant pour le combat. À la tête du Colisée, elle orchestre cependant des spectacles de brutalité où les champions s’affrontent dans des duels épiques, cherchant à surpasser les limites de l’horreur pour gagner sa faveur.
+**Description** : Une jeune femme dont la droiture bienveillante et une générosité sans fin inspirent toustes les Éclats. Sous des airs raffinés, Andraste cache cependant un penchant pour le combat. À la tête du Colisée, elle orchestre des spectacles de brutalité où les champions s’affrontent dans des duels épiques, cherchant à surpasser les limites de l’horreur pour gagner sa faveur.
 </Column>
 </Columns>
