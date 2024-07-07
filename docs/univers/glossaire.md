@@ -30,11 +30,6 @@ sidebar_position: 7
 
 ## M
 
-<dl>
-  <dt>**Mania**</dt>
-  <dd>Définition</dd>
-</dl>
-
 ## N
 
 ## O

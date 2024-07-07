@@ -45,7 +45,7 @@ Cette mer mortelle est également à l’origine des contes que l’on raconte a
 
 ## Les Lignées
 
-L’Arceau se compose aujourd’hui de cinq grandes Lignées, ou maisons, qui cohabitent dans l’île et exercent chacune des activités différentes. Elles semblent exister depuis toujours et personne n’a jamais réellement remis en question leur raison d’être.
+L’Arceau se compose aujourd’hui de cinq grandes Lignées, ou maisons, qui cohabitent dans l’île et exercent chacune des activités différentes. Elles semblent exister depuis toujours, dans des formes diverses ou sous des noms différents que ceux connus à ce jour, et personne n’a jamais réellement remis en question leur raison d’être et leurs formations naturelles
 
 Il est assez courant d’en faire partie, mais ces groupes ayant des règles parfois strictes beaucoup d’Arcéen·nes font le choix de ne pas s’en mêler, préférant rester sans aucune affiliation.
 
