@@ -41,7 +41,7 @@ Enseignement, recherche, ingénierie, énergie, ???
   <Column className='col--4'>
 
     <img src="/img/lignees/pnj/eleane.png" alt="Eleane" width="250"/>
-    *Ruan Mei - HSR*
+    *Jade - HSR*
 
   </Column>
   <Column>
