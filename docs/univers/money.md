@@ -6,11 +6,11 @@ sidebar_position: 5
 
 Le système monétaire mis en place nous permet de valoriser votre engagement, de faciliter votre intégration et de vous garantir une expérience de jeu relativement équitable — même si vos disponibilités sont limitées. Il est perfectible, mais facultatif, puisque son importance peut être minime en jeu.
 
-## L’argent au sein de l’Enclave : la « Vivia »
+## L’argent au sein de l'Arceau : la « Vivia »
 
 La Vivia est l'unité monétaire officielle en circulation dans le monde de Singularité. Ces pièces sont frappées à partir de fragments de Vivianite, un minéral rare d’une couleur proche de celle de la jade, d’origine inconnue, dont de rares filons peuvent être trouvées dans des souterrains situés au-delà des frontières connues. La Vivianite contiendrait une propriété particulière, un élément qui confère aux pièces transformées une fluorescence particulière.
 
-En raison de leur rareté et de leurs propriétés uniques, les Vivias ont acquis une valeur significative au fil du temps. Elles sont devenues le moyen d'échange standard pour l'acquisition de biens, de denrées alimentaires et de services dans l'ensemble de l’Enclave.
+En raison de leur rareté et de leurs propriétés uniques, les Vivias ont acquis une valeur significative au fil du temps. Elles sont devenues le moyen d'échange standard pour l'acquisition de biens, de denrées alimentaires et de services dans l'ensemble de l'Arceau.
 
 Quelques personnes, particulièrement sensibles à l’énergie qui émanent de ces richesses, sont persuadés qu’elles possèdent d’autres vertus… une croyance particulièrement prévalante parmi les membres de la lignée des Volontés, au grand amusement de la population générale.
 
