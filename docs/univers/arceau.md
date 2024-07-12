@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 ---
 
 # L'Arceau et vie en société
@@ -13,6 +13,11 @@ L’Arceau est une île isolée du reste du monde, s’il existe seulement. Sans
 S’étendant sur une superficie d’environ 1600km2, l’île semble s’élever au-dessus d’une mer de brume, telle une colline. **Depuis l’île, il est possible de voir six grandes pierres qui percent les nuages,** donnant une vision assez menaçante de cette mer dont peu de choses sont connues aujourd’hui.
 
 Si la vie sur l’Arceau était compliquée il y a de ça des siècles, l’île est aujourd’hui parfaitement adaptée à une vie tranquille pour son million d’habitants. En effet, de nombreuses zones de l’île ont été allouées à l’agriculture et à la pêche afin qu’elle soit autosuffisante et les espaces forestiers contiennent de nombreuses ressources végétales riches en nutriments pour les Arcéen·nes. De nombreux animaux sont également trouvables à l’état sauvage dans les différents espaces de l’île, mais il est pourtant très rare de trouver de la viande issue de la chasse dans les étalages des marchés, pratique très peu ancrée dans les moeurs de l’Arceau.
+
+## Gouvernement
+
+L'Arceau repose sur un système démocratique avec des élections qui ont lieu tous les 10 ans. Les élections se font par vote des citoyen·nes pour des candidat·es qui se présentent lors d'une campagne électorale.
+Le président de l'Arceau est alors en charge de présidée sur une assemblée, elle aussi élue par vote. Il est courant que l'assemblée soit constituée de groupes formée et élue par scrutin proportionnel.
 
 ## Saisons
 

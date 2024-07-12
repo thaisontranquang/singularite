@@ -66,7 +66,14 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'administratif/reglement',
+            docId: 'preambule/reglement',
+            sidebarId: 'preambuleSidebar',
+            position: 'left',
+            label: 'Préambule',
+          },
+          {
+            type: 'doc',
+            docId: 'administratif/listings/faceclaim',
             sidebarId: 'administratifSidebar',
             position: 'left',
             label: 'Administratif',

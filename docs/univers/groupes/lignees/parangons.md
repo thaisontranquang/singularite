@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Parangons
@@ -21,7 +21,11 @@ S’iels sont des individus passionné·es par la connaissance, il est souvent d
 
 ## Fonctionnement
 
-La lignée des Parangons fonctionne comme une université, avec ses diverses facultés qui se dédient à de nombreux domaines de recherche et une doyenne désignée sur le vote d’éminents professeurs pour les représenter en dehors.
+Cette lignée, en charge du Collegius Arcania, est essentiellement dirigée par des personnes haut placées chez les Parangons. Ils se dédient ainsi à de nombreux domaines de recherche et une doyenne est désignée sur le vote de ces éminent·es professeur·es pour les représenter en dehors.
+
+## Méthodes de recrutement
+
+Dès lors qu'un individu s'illustre dans les domaines de la recherche, de la technologie, du savoir, etc., iel se voit proposer une intégration au sein de la lignée. Ce processus est d'ailleurs une obligation pour quiconque souhaiterait rester dans les bonnes moeurs du corps professoral de l'académie. Autrement, il est su que certain·es membres de la lignée sauraient empêcher toute évolution professionnelle des individus qui ne se conformeraient pas à cette tradition. Les Parangons possèdent en effet de nombreux moyens d'empêcher un individu de poursuivre ses projets.
 
 ## Domaines
 

@@ -8,7 +8,7 @@ sidebar_position: 3
 
 <Columns>
   <Column className='col--3'>
-<img src="/img/administratif/riseha.png" alt="Photo staff Riseha" width="200"/>
+<img src="/img/preambule/riseha.png" alt="Photo staff Riseha" width="200"/>
   </Column>
   <Column>
 Co-fondatrice et chargée de JavaScript (tout du moins jusqu’à la rupture inéluctable de son CDD).
@@ -31,7 +31,7 @@ Co-fondatrice et chargée de JavaScript (tout du moins jusqu’à la rupture in�
 
 <Columns>
   <Column className='col--3'>
-<img src="/img/administratif/son.png" alt="Photo staff Sonylle" width="200"/>
+<img src="/img/preambule/son.png" alt="Photo staff Sonylle" width="200"/>
   </Column>
   <Column>
 Co-fondateur à l’origine de tout, graphiste, développeur, maquettiste, rédacteur en chef — il y a-t-il une chose qu’il ne sait pas faire, et est-ce que j’ai écrit ce message sous la contrainte ?

@@ -33,7 +33,7 @@ Merci de respecter l’équipe administrative qui organise ce forum de manière 
 
 ### Emploi du temps
 
-Un emploi du temps a été mis en place et est consultable à l’adresse suivante : [www](/docs/administratif/equipe).
+Un emploi du temps a été mis en place et est consultable à l’adresse suivante : [www](/docs/preambule/equipe).
 
 En dehors des créneaux indiqués, merci de ne pas solliciter le staff pour des tâches administratives (questions, modération de fiches, gestion de la boutique, etc.) — cela s’applique d’autant plus si vous savez comment nous joindre par des canaux de communication en dehors du forum.
 

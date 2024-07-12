@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # Rédemptions
@@ -22,6 +22,10 @@ La lignée des Rédemptions porte dans son sang une terrible souillure commise �
 ## Fonctionnement
 
 Cette lignée fonctionne par une assemblée où chacun de ses constituants peut apporter sa voix aux décisions prises ou à prendre. L’ambition individuelle est le fléau de cette lignée. Cependant les décisions prises sont annoncées par l’intermédiaire de leur Voix, un rôle qui est relayé périodiquement entre plusieurs figures féminines de la lignée.
+
+## Méthodes de recrutement
+
+Les méthodes des Rédemptions sont inconnues. Vous trouverez cependant parfois des tracts pour des églises ou des lieux reculés de l'Arceau.
 
 ## Domaines
 

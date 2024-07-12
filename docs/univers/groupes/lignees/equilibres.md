@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Équilibres
@@ -21,9 +21,15 @@ Les Équilibres se doivent d’être les guides de l’Arceau, celleux qui insta
 
 ## Fonctionnement
 
-Les Équilibres s’organisent de manière assez démocratique avec des votes pour déterminer qui sera le Gouverneur pour le prochain mandat (généralement de 7 ans, sans condition de renouvellement).
+Les Équilibres s’organisent de manière semi-démocratique par scrutin pour déterminer qui sera lae nouvelleau Gouverneur·se. Un·e nouvelleau Gouverneur·se est élu·e à la mort du·de la précédent·e.
 
-Récemment élu pour un premier mandat, Gabriel est le nouveau Gouverneur des Équilibres.
+Récemment élu, Gabriel est le nouveau Gouverneur des Équilibres.
+
+## Méthodes de recrutement
+
+Les Équilibres ne recrutent pas activement, cependant de nombreux·ses civils gagnant en pouvoir dans les institutions gouvernementales se voient proposer d'intégrer la lignée.
+
+Également, et de manière plus officieuse, cette lignée est connu·e pour recruter des personnes peu fréquentables afin de surveiller les différents quartiers de la ville. Si beaucoup appelle ces individus des *taupes*, les Équilibres préfèrent les appeler des *agents*.
 
 ## Domaines
 
@@ -53,6 +59,6 @@ Institutions, gouvernement, justice, communication, patrimoine
 
 **Âge** : 28 ans
 
-**Description** : Charismatique, souriant, intelligent, Gabriel sait plaire aux foules aussi bien par ses traits physiques presque angéliques que par ses qualités humaines. Gabriel semble juste, droit et capable de diriger les Équilibres avec impartialité. Si toustes les habitant·es de l’Arceau ne sont pas convaincu·es par son image presque parfaite, personne n’ose remettre en doute sa capacité à maintenir l’ordre d’une main de fer.
+**Description** : Charismatique, souriant, intelligent, Gabriel sait plaire aux foules aussi bien par ses traits physiques presque angéliques que par ses qualités humaines. D'extérieur, Gabriel semble juste, droit et capable de diriger les Équilibres avec impartialité. Pourtant, malgré cette image presque parfaite, sa filiation avec l'ancienne Gouverneuse fait douter certain·es Équilibres de sa capacité de leader.
 </Column>
 </Columns>

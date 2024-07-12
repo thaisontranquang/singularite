@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 # Volontés
@@ -24,6 +24,12 @@ Ils s’organisent comme une immense toile qui se tisse à chaque instant. Les V
 ## Fonctionnement
 
 Les Volontés sont régi·es par la Maîtresse de Lignée. Si elle sait s’entourer de personnes de confiance à qui reléguer les tâches les plus sensibles, c’est pourtant bien elle qui a le dernier mot et personne n’oserait s’opposer à sa décision. Des réunions auxquelles elle et ses conseiller·ères sont présent·es sont régulièrement tenues afin de se concerter sur les décisions à prendre.
+
+## Méthodes de recrutement
+
+Opportunistes, les Volontés savent comment se présenter à vous lorsque vous êtes dans le besoin d'un soutien financier, d'un apport, d'un patron ... Cette aide est souvent accompagnée d'une entrée dans la lignée.
+
+Les individus les plus proches des secrets de la lignée sont souvent des personnes recrutées très jeunes dans des orphelinats.
 
 ## Domaines
 

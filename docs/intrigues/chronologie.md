@@ -10,8 +10,9 @@ sidebar_position: 1
 
 ### Âge de l’Harmonie (-290 — -10)
 
-- Période de paix qui fait suite à de nombreux conflits entre deux puissantes factions.
-- Développement de nouvelles technologies : agriculture, navigation, astronomie.
+- Période de paix qui a permis d'aboutir à l'autosuffisance de l'Arceau suite à des siècles de conflits dont l'histoire est aujourd'hui perdue.
+- Début de l'agriculture sous-sol.
+- Mise en place d'un réseau sous-terrain de transports de ressources naturelles.
 - Fondation de l'Académie des Arts et des Lettres.
 - Nombreuses réformes sociales pour atteindre des droits égaux entre toustes.
 

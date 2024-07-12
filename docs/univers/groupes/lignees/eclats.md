@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Éclats
@@ -25,6 +25,12 @@ Fougueux·ses et très droit·es, iels sont parfois rangé·es dans une case de 
 Les Éclats sont dirigé·es par le Conseil des Conducteurs, lui-même au service du·de la Champion·ne d’Ignisentus. N’importe quel individu est en mesure d’obtenir ce rôle, à condition de défier dans un affrontement mortel la personne dont le rôle est convoité.
 
 Aujourd’hui, Andraste est celle qui dirige d'une main de fer la lignée des Éclats. Cependant, c'est les membres du « Conseil des Conducteurs » qui exécutent sa volonté en supervisant les domaines clés de la Maison.
+
+## Méthodes de recrutement
+
+Un individu faisant preuve de prouesses physiques lors de combats dans l'arène peut se voir proposer de rejoindre la lignée des Éclats.
+
+Il s'agit aujourd'hui de la lignée ayant le plus de membres, mais qui connaît également de nombreux *malheureux accidents*, en faisant celle qui a le plus haut taux de mortalité.
 
 ## Domaines
 
