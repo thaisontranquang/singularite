@@ -21,7 +21,7 @@ S’iels sont des individus passionné·es par la connaissance, il est souvent d
 
 ## Fonctionnement
 
-Cette lignée, en charge du Collegius Arcania, est essentiellement dirigée par des personnes haut placées chez les Parangons. Ils se dédient ainsi à de nombreux domaines de recherche et une doyenne est désignée sur le vote de ces éminent·es professeur·es pour les représenter en dehors.
+Cette lignée, en charge du Collégium Arcania, est essentiellement dirigée par des personnes haut placées chez les Parangons. Ils se dédient ainsi à de nombreux domaines de recherche et une doyenne est désignée sur le vote de ces éminent·es professeur·es pour les représenter en dehors.
 
 ## Méthodes de recrutement
 
