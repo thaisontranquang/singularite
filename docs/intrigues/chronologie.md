@@ -10,11 +10,11 @@ sidebar_position: 1
 
 ### Âge de l’Harmonie (-290 — -10)
 
-- Période de paix qui a permis d'aboutir à l'autosuffisance de l'Arceau suite à des siècles de conflits dont l'histoire est aujourd'hui perdue.
-- Début de l'agriculture sous-sol.
-- Mise en place d'un réseau sous-terrain de transports de ressources naturelles.
-- Fondation de l'Académie des Arts et des Lettres.
-- Nombreuses réformes sociales pour atteindre des droits égaux entre toustes.
+Période de paix prolongée qui conduira l’Arceau à un stade d’autosuffisance, après des siècles de tensions et d’insuffisances dont les détails historiques se sont en grande majorité perdus.
+- Début de l’agriculture souterraine.
+- Mise en place de réseaux logistiques souterrains pour les acheminements des ressources.
+- Fondation du Collégium Arcana.
+- Mise en œuvre de réformes égalitaristes (adoption de législations interdisant toute forme de discrimination, instauration d’un système éducatif obligatoire, introduction de politiques visant à garantir la sécurité alimentaire et l’accès aux nécessités de base comme un abri contre les intempéries).
 
 </TimelineItem>
 <TimelineItem align='left'>
@@ -40,7 +40,8 @@ Disparition entière d'une partie de l'île. Les habitant·es n’ont jamais ét
 
 ### Âge du Renouveau (??? — 500)
 
-Création des lignées, segmentation des ressources, des pouvoirs & des domaines d'activités.
+— Les lignées, telles qu’elles sont aujourd’hui définies, sont mentionnées pour la première fois dans des répertoires administratifs.
+— Début de la transition énergétique de l’Arceau vers des énergies propres, permettant l’exploitation scrupuleuse du Soleil de minuit.
 
 </TimelineItem>
 

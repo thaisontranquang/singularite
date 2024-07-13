@@ -28,9 +28,7 @@ Aujourd’hui, Andraste est celle qui dirige d'une main de fer la lignée des É
 
 ## Méthodes de recrutement
 
-Un individu faisant preuve de prouesses physiques lors de combats dans l'arène peut se voir proposer de rejoindre la lignée des Éclats.
-
-Il s'agit aujourd'hui de la lignée ayant le plus de membres, mais qui connaît également de nombreux *malheureux accidents*, en faisant celle qui a le plus haut taux de mortalité.
+À l’image de leur nom, les recruteur·es des Éclats se rapprocheront promptement des personnalités flamboyantes — par le prestige de leur réputation ou la splendeur de leur force — pour les inciter à se joindre à elleux dans le culte du Dieu de la Flamme, Ignisentus, et d’approcher de la promesse de l’immortalité. On compte ainsi dans leurs rangs autant de combattant·es anonymes désireux·ses de s’illustrer que de célébrités faisant quotidiennement la une des journaux. La figure de la lignée elle-même est souvent confondue pour celle de l’administration du réseau des arènes réparties dans le quartier du divertissement de l’Arceau. Un grand nombre de leurs membres rejoignent donc les Éclats avec beaucoup de légèreté, en pensant qu’il s’agit simplement d’une association d’aficionado de beaux spectacles, où il est normal de régulièrement rendre service à son prochain par le don de soi.
 
 ## Domaines
 

@@ -27,9 +27,8 @@ Récemment élu, Gabriel est le nouveau Gouverneur des Équilibres.
 
 ## Méthodes de recrutement
 
-Les Équilibres ne recrutent pas activement, cependant de nombreux·ses civils gagnant en pouvoir dans les institutions gouvernementales se voient proposer d'intégrer la lignée.
-
-Également, et de manière plus officieuse, cette lignée est connu·e pour recruter des personnes peu fréquentables afin de surveiller les différents quartiers de la ville. Si beaucoup appelle ces individus des *taupes*, les Équilibres préfèrent les appeler des *agents*.
+Les Équilibres ne recrutent pas activement, cependant de nombreux·ses civil·es gagnant en influence dans les institutions gouvernementales se verront proposer d’intégrer la lignée. Une personne qui refuserait cette adhésion ou qui n’est pas estimée comme une personne de confiance suite à un premier contact constatera rapidement un tournant négatif dans ses desseins professionnels, sans jamais parvenir à faire le lien entre les deux.
+Également, et de manière plus officieuse, cette lignée est connu·e pour recruter des personnes aux profils hétérogènes pour patrouiller et veiller sur les différents groupuscules de pouvoir établis à travers tout le domaine de l’Arceau. Les plus calomniateur·trices appellent ces individu·es des « taupes », mais elleux préfèrent les appeler des inspecteur·trices presque indépendant·es.
 
 ## Domaines
 

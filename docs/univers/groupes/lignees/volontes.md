@@ -27,9 +27,7 @@ Les Volontés sont régi·es par la Maîtresse de Lignée. Si elle sait s’ento
 
 ## Méthodes de recrutement
 
-Opportunistes, les Volontés savent comment se présenter à vous lorsque vous êtes dans le besoin d'un soutien financier, d'un apport, d'un patron ... Cette aide est souvent accompagnée d'une entrée dans la lignée.
-
-Les individus les plus proches des secrets de la lignée sont souvent des personnes recrutées très jeunes dans des orphelinats.
+Les Volontés apparaissent devant celleux qui se retrouvent soudainement dans le besoin. Qu’il s’agisse d’un apport financier, d’une lettre de recommandation, ou d’une autorisation exceptionnelle, iels ne demandent généralement qu’une seule contrepartie à l’accès à leur réseau de contacts : votre allégeance, sous la forme de la signature d’un contrat long de quatorze pages. Nonobstant la forme très discutable de cette transaction à caractère définitif, force est de constater que les personnes rejoignant leurs rangs connaissent fréquemment de grands succès dans leurs entreprises, bien que personne ne sache réellement qui possède un ascendant sur qui ou qui obéit à qui. Depuis son investiture à la tête de la lignée, à une date incertaine, Frya a fourni des financements substantiels aux orphelinats localisés aux périphéries de l’Arceau, et les membres des Volontés jouissent par conséquent d’une popularité record auprès de ces enfants laissés-pour-compte.
 
 ## Domaines
 

@@ -25,7 +25,7 @@ Cette lignée fonctionne par une assemblée où chacun de ses constituants peut 
 
 ## Méthodes de recrutement
 
-Les méthodes des Rédemptions sont inconnues. Vous trouverez cependant parfois des tracts pour des églises ou des lieux reculés de l'Arceau.
+Si le processus de recrutement demeure, en lui-même, particulièrement obscur — notamment sur les prérequis et les critères recherchés —, il est courant de tomber sur des tracts négligemment collés derrière des panneaux, aux murs, à des marches d’escalier ou d’être abordé·e par des personnes désireuses de vous partager leurs convictions les plus sincères sur le sort du monde et de vos adelphes. Être réceptif·ve et aspirer à votre tour à l’abnégation est suffisant pour rencontrer des recruteur·euses (ne vous inquiétez pas, iels vous trouveront d’elleux-mêmes) et être ensuite admis·e parmis leurs rangs. Le recrutement par filiation, directe ou par alliance, demeure le mode d'accès principal à leurs rangs.
 
 ## Domaines
 

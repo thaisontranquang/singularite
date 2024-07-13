@@ -25,7 +25,7 @@ Cette lignée, en charge du Collegius Arcania, est essentiellement dirigée par 
 
 ## Méthodes de recrutement
 
-Dès lors qu'un individu s'illustre dans les domaines de la recherche, de la technologie, du savoir, etc., iel se voit proposer une intégration au sein de la lignée. Ce processus est d'ailleurs une obligation pour quiconque souhaiterait rester dans les bonnes moeurs du corps professoral de l'académie. Autrement, il est su que certain·es membres de la lignée sauraient empêcher toute évolution professionnelle des individus qui ne se conformeraient pas à cette tradition. Les Parangons possèdent en effet de nombreux moyens d'empêcher un individu de poursuivre ses projets.
+Tout·e individu·e qui s’illustre dans un domaine particulier de la science ou de la technologie — de l’utile, diront certain·es avec une suffisance marquée — rejoindra les rangées des Parangons à une étape ou à une autre de son existence, par le biais d’un courrier de convocation. Libre à celleux qui veulent conjuguer goût de la liberté et goût de la découverte de s’entêter à faire cavalier·ère seul·e, mais les opportunités et les financements seront bien limitées sans les subventions et l’accès aux laboratoires privés du Collégium, réservés jalousement aux élites des Parangons.
 
 ## Domaines
 
