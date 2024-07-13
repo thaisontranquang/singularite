@@ -56,6 +56,6 @@ Enseignement, recherche, ingénierie, énergie, ???
 
 **Âge** : 37 ans
 
-**Description** : La doyenne actuelle est une femme au sourire léger et à l’air généralement absent, qui s’éclipse plus souvent que nécessaire dans les confins de son laboratoire. On la suspecte de conduire des expériences étrange, ce qu’elle réfute généralement dans le rire. Les différentes prouesses des dix dernières années faites par les Parangons ont été initiées et coordonnées par ses soins. En effet, Eleane est convaincue qu’il est nécessaire pour le bien de toustes de faire des avancées techniques et technologiques.
+**Description** : La doyenne actuelle est une femme au sourire léger et à l’air généralement absent, qui s’éclipse plus souvent que nécessaire dans les confins de son laboratoire. On la suspecte de conduire des expériences étrange, ce qu’elle réfute généralement dans le rire. Figure discrète même auprès de ses collaborateurices les plus proches, ces dernier·ères ne lui connaissent pas de prétention particulière, tout du moins pas à l’échelle de l’Arceau en lui-même.
 </Column>
 </Columns>
