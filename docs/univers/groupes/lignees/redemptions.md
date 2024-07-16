@@ -9,7 +9,7 @@ sidebar_position: 6
     <img src="/img/lignees/redemptions.png" alt="Symbole Rédemptions" width="200"/>
   </Column>
   <Column>
-> Il brûla les êtres, les rongea de l’intérieur : ce feu des fiels qui se consuma pendant des millénaires. De l’absence naquît un enfant, désigné par l’Humanité comme incarnation de l’injustice. Avant même qu’il n’ait ouvert les yeux, sa chair succomba aux supplices de la haine. Ahriman était né martyr.
+> Il brûla les êtres, les rongea de l’intérieur : ce feu des fiels qui se consuma pendant des millénaires. De l’absence naquît un enfant, désigné par l’Humanité comme incarnation de l’injustice. Avant même qu’il n’ait ouvert les yeux, sa chair succomba aux supplices de la haine. Bäshnor était né martyr.
   </Column>
 </Columns>
 
@@ -17,7 +17,7 @@ sidebar_position: 6
 
 Les Rédemptions sont mystérieux·ses. Iels se dérobent aux regards du monde pour rêver, vénérer, prédire, accueillir. Iels sont les devins de cette époque et se targuent de connaître la vérité divine.
 
-La lignée des Rédemptions porte dans son sang une terrible souillure commise à l’égard de la figure séraphique d’Ahriman en des temps immémoriaux. Les Rédemptions se consacrent naturellement et de manière absolue à veiller sur leurs adelphes, sur les angoisses de ce monde. Quiconque cherchera la rédemption saura trouver son chemin chez elleux. Les Rédemptions guident, absolvent les péchés et permettent à tout et chacun de transcender sa condition de simple brebis égarée.
+La lignée des Rédemptions porte dans son sang une terrible souillure commise à l’égard de la figure séraphique Bäshnor en des temps immémoriaux. Les Rédemptions se consacrent naturellement et de manière absolue à veiller sur leurs adelphes, sur les angoisses de ce monde. Quiconque cherchera la rédemption saura trouver son chemin chez elleux. Les Rédemptions guident, absolvent les péchés et permettent à tout et chacun de transcender sa condition de simple brebis égarée.
 
 ## Fonctionnement
 

@@ -2,7 +2,6 @@ import React,  { CSSProperties } from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
-
 const TimeLine = ({
   className, // Custom classes for the button
   style, // Custom styles for the button
