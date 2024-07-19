@@ -27,7 +27,7 @@ All images on the forum are used only for non-commercial purposes and with full 
 
 掲示板で使用されている画像は、商業目的ではなく、著作権を尊重して使用されています。画像やコンテンツの使用について懸念がある場合は、管理チームにご連絡ください。ご対応いたします。
 
-Mail : [mail@mail.com](mail)
+Mail :
 
 - Image de bannière : [@Jyusan99](https://x.com/Jyusan99)
 - Images d’illustration des catégories : [@ying0yi](https://x.com/ying0yi)
