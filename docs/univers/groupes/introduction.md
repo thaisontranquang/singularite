@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Les lignées
+# Introduction
 
 ![Les lignées](/img/univers/lignees.png)
 

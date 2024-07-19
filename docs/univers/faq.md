@@ -40,10 +40,6 @@ Non.
 
 Même si notre univers est un monde de fiction, et que les annexes entendent une certaine acceptation sur ces sujets, les concepts de minorités de genres, de religions, d’orientations sexuelles et de classes demeurent cependant en vigueur (validisme, hétérosexualité prédominante, cisidentité en norme sociale dominante, concentration des pouvoirs aux mains d'une élite riche et peu nombreuse, conflits de croyances portant sur des valeurs ou des philosophies, discrimination physique, etc.). Vous êtes libres de traiter de ces sujets au travers de vos personnages en les transposant à notre contexte, en vous disant qu’il existe forcément des esprits malintentionnés prompts au jugement et à l’animosité au sein de l’Arceau — nonobstant les lois et les discours politiques — et qu’une grande majorité des habitants restera globalement indifférente à ce qu'elle ne vit pas personnellement.
 
-> — Je suis un expert dans un certain domaine d’études, et je peux affirmer avec certitude que ce que vous dîtes dans telle annexe de l’univers, ne fait pas sens !
-
-Venez nous en parler si jamais vous pensez qu’il y a une aberration qui peut conduire à l’implosion du forum, mais sachez que l’histoire que nous voulons vivre avec vous n’implique probablement pas la faisabilité du système économique, agronomique, géographique, etc. de l’Arceau. (Déjà qu'on marche sur des nuages...)
-
 ### Est-ce que l'Arceau est le nom de l'île ou de la ville ?
 
 L'Arceau correspond à l'île entière, mais la ville en elle-même n'a jamais été nommée par les habitant·es.
@@ -64,7 +60,7 @@ Impossible de s'y aventurer. Un jour, peut-être (sûrement) !
 
 ### Y a-t-il des maladies au sein de l'Arceau ?
 
-Il est très rare de tomber malade sur l'Arceau, si bien qu'il n'existe pas d'hôpitaux mais simplement une clinique pour les blessures plus ou moins graves. Tomber malade sur l'Arceau est souvent synonyme de fin de vie.
+Il arrive de tomber malade oui. Il existe donc des hôpitaux, cliniques privées ou publiques, etc.
 
 ### Et on peut avoir des animaux de compagnie ?
 
@@ -88,6 +84,10 @@ Ce sont des nuages ... Donc non.
 [Comme ça](https://www.youtube.com/watch?v=26R8mn7HNCM&t=104s)
 
 ## Autre
+
+### Je suis un expert dans un certain domaine d’études, et je peux affirmer avec certitude que ce que vous dites dans telle annexe de l’univers ne fait pas sens !
+
+Venez nous en parler si jamais vous pensez qu’il y a une aberration qui peut conduire à l’implosion du forum, mais sachez que l’histoire que nous voulons vivre avec vous n’implique probablement pas la faisabilité du système économique, agronomique, géographique, etc. de l’Arceau. (Déjà qu'on marche sur des nuages...)
 
 ### Quelle justification pour les noms dans cet univers ?
 
