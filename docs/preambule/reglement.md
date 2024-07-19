@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Disclaimer
 
-Singularité est une plateforme d’écriture fantastique. Des sujets sensibles et durs peuvent être abordés dans les écrits des membres de la plateforme.
+Singularité est une plateforme d’écriture fantastique et futuriste. Des sujets sensibles et durs peuvent être abordés dans les écrits des membres de la plateforme.
 
 Les moins de 18 ans ne sont pas autorisé·es à s’inscrire.
 
@@ -23,7 +23,7 @@ Faites preuve de respect, de tolérance et de patience envers les autres. Atomes
 
 ### Propos discriminants
 
-- L’équipe administrative sera intransigeante face aux propos discriminants : xénophobie, racisme, misogynie, concernant l’orientation sexuelle/romantique, l’identité de genre, la psychophobie, l’hostilité envers les religions, etc. Cette liste est non exhaustive.
+- L’équipe administrative sera intransigeante face aux propos discriminants : xénophobie, racisme, misogynie, concernant l’orientation sexuelle/romantique, l’identité de genre, la psychophobie, l'antisémitisme, l'islamophobie, etc. Cette liste est non exhaustive.
 
 ## Staff
 
@@ -49,7 +49,7 @@ Si vous souhaitez quitter le forum ou que vous n’avez pas le temps de vous y c
 
 ## Inscriptions
 
-- Le forum ouvrira avec une limite d’inscriptions pour éviter de nous surcharger.
+- Si nous en ressentons le besoin, nous cloitrons les inscriptions pour éviter de nous surcharger.
 - Les inscriptions seront ensuite ouvertes de manière ponctuelle, pour un nombre limité de places : nous ne ferons aucune annonce particulière en amont, cela sera annoncé le jour J.
 - A l’inscription, enregistrez votre compte sous un **pseudonyme** ou un **prénom**.
 
@@ -60,7 +60,10 @@ Si vous souhaitez quitter le forum ou que vous n’avez pas le temps de vous y c
 - À compter de votre inscription, vous aurez 2 semaines pour remplir complètement votre fiche de présentation. Si vous avez besoin d’un délai, merci de le demander à l’équipe administrative.
 - Votre personnage devra être âgé d’au moins 18 ans. Nous n’accepterons aucun personnage mineur.
 - Faites preuve de fair-play, de cohérence et d’humilité lors de la création de votre personnage.
-- Le contenu +18 est strictement interdit s’il est explicite. Nous vous invitons à faire preuve d’imagerie abstraite si vous devez parler de sujets sensibles.
+- Le contenu +18 est strictement interdit s’il est explicite. Nous vous encourageons à utiliser une imagerie abstraite lorsque vous abordez des sujets sensibles. En règle générale, nous vous invitons à faire preuve de bon sens pour garantir que le contenu soit approprié pour un large public. À titre indicatif, sont considérés comme étant +18 les rp :
+  - À caractère sexuels
+  - Gore (torture, déshumanisation, etc.)
+  - Actes de violences s'ils sont détaillés (meurtres, viols, etc.)
 - Nous vous invitons à construire des personnages pouvant facilement se lier aux autres pour vous permettre le plus grand nombre d’interactions possibles avec les créations de chacun·e, en particulier à destination de nouveaux arrivants.
 
 ### Avatar

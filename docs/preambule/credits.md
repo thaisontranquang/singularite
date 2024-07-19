@@ -10,18 +10,24 @@ Toutes les productions écrites et graphiques présentes sur le forum Singularit
 
 Liste non exhaustive de nos sources d’inspirations et nos références :
 
-- Shadow Slave (light novel)
-- Lord of the mysteries (light novel)
-- Dragon Age (JV)
-- Honkai Star Rail (JV)
-- Nier (JV)
-- Solo Leveling (webtoon)
-- Fate (anime)
-- Divers légendes & mythes
+Shadow Slave (Light Novel)
+- Lord of the Mysteries (Light Novel)
+- Dragon Age: Inquisition (Jeu vidéo)
+- Honkai : Star Rail (Jeu vidéo)
+- Path to Nowhere (Jeu vidéo)
+- Nier: Automata & Nier: Replicant (Jeux vidéo)
+- Solo Leveling (Webtoon)
+- Nasuverse (travaux de Type-Moon)
 - Les Absolus (roman)
-- Path to nowhere (JV)
+- Légendes & mythes divers
 
 Toutes les images utilisées sur le forum sont utilisées exclusivement à des fins non commerciales et dans le respect scrupuleux des droits d’auteur. Si vous avez des préoccupations concernant l’utilisation de certaines images ou contenus, n’hésitez pas à contacter l’équipe administrative pour que nous puissions agir.
+
+All images on the forum are used only for non-commercial purposes and with full respect for copyright. If you have any concerns about the use of certain images or content, please contact the admin team so we can address the issue.
+
+掲示板で使用されている画像は、商業目的ではなく、著作権を尊重して使用されています。画像やコンテンツの使用について懸念がある場合は、管理チームにご連絡ください。ご対応いたします。
+
+Mail : [mail@mail.com](mail)
 
 - Image de bannière : [@Jyusan99](https://x.com/Jyusan99)
 - Images d’illustration des catégories : [@ying0yi](https://x.com/ying0yi)

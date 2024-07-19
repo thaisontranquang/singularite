@@ -38,7 +38,7 @@ Disparition entière d'une partie de l'île. Les habitant·es n’ont jamais ét
 
 <TimelineItem align='left'>
 
-### Âge du Renouveau (??? — 500)
+### Âge du Renouveau (??? — 540)
 
 - Les lignées, telles qu’elles sont aujourd’hui définies, sont mentionnées pour la première fois dans des répertoires administratifs.
 - Début de la transition énergétique de l’Arceau vers des énergies propres, permettant l’exploitation scrupuleuse du Soleil de minuit.
@@ -47,9 +47,9 @@ Disparition entière d'une partie de l'île. Les habitant·es n’ont jamais ét
 
 <TimelineItem align='right'>
 
-### Âge de l'Entente (600)
+### Âge de l'Entente (541 - Aujourd'hui, an 600)
 
-Il s'agit de votre époque ; à vous d'écrire l'histoire.
+Il s'agit de votre époque, caractérisée par une certaine forme de paix et de satisfaction générale. Les bonnes choses ne durent jamais bien longtemps.
 
 </TimelineItem>
 </Timeline>

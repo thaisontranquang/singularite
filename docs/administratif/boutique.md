@@ -50,6 +50,7 @@ Pas d’inquiétudes, il y a d’autres choses à faire avec !
 ### Pour vous
 
 - Créer un compte supplémentaire : 500 pièces (et minimum 1 mois d’ancienneté & 1 rp clôturé).
+- Créer un lieu : 300 pièces. Pour cet achat, merci de nous indiquer si d'autres membres sont intéressé·es par ce lieu et s'il est important pour le développement de votre personnage. Nous nous réservons le droit de refuser le lieu si nous jugeons qu'il ne correspond pas assez à l'univers.
 
 ## Cet argent est-il lié à la condition sociale de mon personnage ?
 

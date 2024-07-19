@@ -11,7 +11,7 @@ const FeatureList = [
             Singularité
           </Heading>
           <p>
-            Singularité est un forum dystopique et fantastique, dans un univers de notre conception à l’ambiance « art déco moderne » (formes géométriques, métal, verre, glamour et grandes arches).
+            Singularité est un forum dystopique, fantastique et futuriste, dans un univers de notre conception à l’ambiance « art déco moderne » (formes géométriques, métal, verre, glamour et grandes arches).
             <br />
             Les grandes lignes de l’intrigue sont déjà tracées, mais malléables : le cadre est semi-évolutif.
             <br />
@@ -22,7 +22,6 @@ const FeatureList = [
               Des personnages non jouables pour incarner les figures clés au lancement du forum : influencez-les, ou faites-vous influencer, au travers de vos
               interactions.
             </li>
-            <li>Un univers sans prétention de réalisme, ni de masterclass.</li>
             <li>De nombreux rebondissements prévus pour bousculer l’évolution et la construction des personnages.</li>
             <li>
               Une volonté d’écrire de l’horreur, du suspense, de vous confronter aux conséquences de vos choix pour du drama bien croustillant — mais sans
