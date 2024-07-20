@@ -19,21 +19,21 @@ Faites preuve de respect, de tolérance et de patience envers les autres. Atomes
 ### Intégration
 
 - Souhaitez la bienvenue aux nouvelles·aux arrivant·e·s et prenez le temps d’apprendre à les connaître. Ne vous enfermez pas dans la bulle de l’indifférence sous prétexte de manque de temps.
-- Nous aimerions créer un espace bienveillant dans lequel tout le monde se sent à son aise, mais cette définition de la bienveillance n’est pas la même pour tous·tes. Comportez-vous avec les autres de la manière dont vous aimeriez être traité·e, et ne craignez pas de désamorcer intelligemment les conflits.
+- Nous aimerions créer un espace bienveillant dans lequel tout le monde se sente à son aise, mais cette définition de la bienveillance n’est pas la même pour tous·tes. Comportez-vous avec les autres de la manière dont vous aimeriez être traité·e, et ne craignez pas de désamorcer intelligemment les conflits.
 
-### Propos discriminants
+### Propos & actes discriminants
 
-- L’équipe administrative sera intransigeante face aux propos discriminants : xénophobie, racisme, misogynie, concernant l’orientation sexuelle/romantique, l’identité de genre, la psychophobie, l'antisémitisme, l'islamophobie, etc. Cette liste est non exhaustive.
+- L’équipe administrative sera intransigeante face aux propos et actes discriminants : xénophobie, racisme, misogynie, concernant l’orientation sexuelle/romantique, l’identité de genre, la psychophobie, l'antisémitisme, l'islamophobie, etc. Cette liste est non exhaustive.
 
 ## Staff
 
 ### Bénévolat
 
-Merci de respecter l’équipe administrative qui organise ce forum de manière totalement bénévole. Nous ne cherchons pas votre adoration inconditionnelle pour autant, mais d’être considéré à notre juste valeur.
+Merci de respecter l’équipe administrative qui organise ce forum de manière totalement bénévole. Nous ne cherchons pas votre adoration inconditionnelle pour autant, mais d’être considéré·es à notre juste valeur.
 
 ### Emploi du temps
 
-Un emploi du temps a été mis en place et est consultable à l’adresse suivante : [www](/docs/preambule/equipe).
+Un emploi du temps a été mis en place et est consultable à l’adresse suivante : [Page équipe](/docs/preambule/equipe).
 
 En dehors des créneaux indiqués, merci de ne pas solliciter le staff pour des tâches administratives (questions, modération de fiches, gestion de la boutique, etc.) — cela s’applique d’autant plus si vous savez comment nous joindre par des canaux de communication en dehors du forum.
 
@@ -51,7 +51,7 @@ Si vous souhaitez quitter le forum ou que vous n’avez pas le temps de vous y c
 
 - Si nous en ressentons le besoin, nous cloitrons les inscriptions pour éviter de nous surcharger.
 - Les inscriptions seront ensuite ouvertes de manière ponctuelle, pour un nombre limité de places : nous ne ferons aucune annonce particulière en amont, cela sera annoncé le jour J.
-- A l’inscription, enregistrez votre compte sous un **pseudonyme** ou un **prénom**.
+- À l’inscription, enregistrez votre compte sous un **pseudonyme** ou un **prénom**.
 
 ## Construction du personnage
 
@@ -64,7 +64,7 @@ Si vous souhaitez quitter le forum ou que vous n’avez pas le temps de vous y c
   - À caractère sexuels
   - Gore (torture, déshumanisation, etc.)
   - Actes de violences s'ils sont détaillés (meurtres, viols, etc.)
-- Nous vous invitons à construire des personnages pouvant facilement se lier aux autres pour vous permettre le plus grand nombre d’interactions possibles avec les créations de chacun·e, en particulier à destination de nouveaux arrivants.
+- Nous vous invitons à construire des personnages pouvant facilement se lier aux autres pour vous permettre le plus grand nombre d’interactions possibles avec les créations de chacun·e.
 
 ### Avatar
 
@@ -79,7 +79,7 @@ Si vous souhaitez quitter le forum ou que vous n’avez pas le temps de vous y c
 ### Activité
 
 - Pas de minimum d’activité. En revanche, merci de nous signaler vos longues absences !
-- Plusieurs champs sont à remplir dans votre profil concernant votre type d’activité et votre disponibilité. Ils sont obligatoires et permettent à tout le monde de mieux comprendre quel type de joueur·euse vous êtes, et à quel point le staff peut compter sur vous pour orienter et développer des intrigues. Par exemple, si nous constatons que peu de personnes souhaitent s’investir dans ces dernières, nous adapterons notre modération en conséquences pour ne submerger personne !
+- Plusieurs champs sont à remplir dans votre profil concernant votre type d’activité et votre disponibilité. Ils sont obligatoires et permettent à tout le monde de mieux comprendre quel type de joueur·euse vous êtes, et à quel point le staff peut compter sur vous pour orienter et développer des intrigues. Par exemple, si nous constatons que peu de personnes souhaitent s’investir dans ces dernières, nous adapterons notre modération en conséquence pour ne submerger personne !
 - Il est possible d’avoir plusieurs comptes. Les conditions pour avoir un nouveau compte se trouvent dans la boutique (www).
 
 ### Écriture
@@ -93,5 +93,5 @@ Si vous souhaitez quitter le forum ou que vous n’avez pas le temps de vous y c
 
 ### Esthétisme
 
-- Nous nous sommes efforcé·e·s de penser le forum de la manière la plus responsive possible, pour que la navigation soit agréable indépendamment de votre support d’écriture. Nous vous demandons donc de respecter ce travail en utilisant des codes de RP qui maintiennent la lisibilité de vos écrits sur les résolutions d’écrans les plus courantes.
+- Nous nous sommes efforcé·es de penser le forum de la manière la plus responsive possible, pour que la navigation soit agréable indépendamment de votre support d’écriture. Nous vous demandons donc de respecter ce travail en utilisant des codes de RP qui maintiennent la lisibilité de vos écrits sur les résolutions d’écrans les plus courantes.
 - Pour les codeurs hobbyistes et les non-codeurs, vous pouvez demander (poliment) de l’aide à Son.

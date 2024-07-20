@@ -16,19 +16,19 @@ Et, dans son nouveau règne, Il attendit. Il attendit le jour où un descendant 
 
 ## Description
 
-Impétueux·ses, gai·es et ardent·es, les Éclats sont des piliers pour l’Arceau. Ils se mettent au service des différentes Lignées pour satisfaire leurs besoins et sont grandement apprécié·es par toustes. Les Éclats sont les moteurs de la cité et s’iels venaient à se retirer des domaines dans lesquels iels sont proéminent·es, l’Arceau s’écroulerait très rapidement.
+Impétueux·ses, gai·es et ardent·es, les Éclats sont des piliers pour l’Arceau. Iels se mettent au service des différentes Lignées pour satisfaire leurs besoins et sont grandement apprécié·es par toustes. Les Éclats sont les moteurs de la cité et s’iels venaient à se retirer des domaines dans lesquels iels sont proéminent·es, l’Arceau s’écroulerait très rapidement.
 
 Fougueux·ses et très droit·es, iels sont parfois rangé·es dans une case de brutes sans réflexion. Pourtant, les Éclats peuvent se montrer fins stratèges pour faire valoir leur parole.
 
 ## Fonctionnement
 
-Les Éclats sont dirigé·es par le Conseil des Conducteurs, lui-même au service du·de la Champion·ne d’Ignisentus. N’importe quel individu est en mesure d’obtenir ce rôle, à condition de défier dans un affrontement mortel la personne dont le rôle est convoité.
+Les Éclats sont dirigé·es par le Conseil des Conducteurs, lui-même au service du·de la Champion·ne d’Ignisentus. N’importe quel·le individu·e est en mesure d’obtenir ce rôle, à condition de défier dans un affrontement mortel la personne dont le rôle est convoité.
 
 Aujourd’hui, Andraste est celle qui dirige d'une main de fer la lignée des Éclats. Cependant, c'est les membres du « Conseil des Conducteurs » qui exécutent sa volonté en supervisant les domaines clés de la Maison.
 
 ## Méthodes de recrutement
 
-À l’image de leur nom, les recruteur·es des Éclats se rapprocheront promptement des personnalités flamboyantes — par le prestige de leur réputation ou la splendeur de leur force — pour les inciter à se joindre à elleux dans le culte du Dieu de la Flamme, Ignisentus, et d’approcher de la promesse de l’immortalité. On compte ainsi dans leurs rangs autant de combattant·es anonymes désireux·ses de s’illustrer que de célébrités faisant quotidiennement la une des journaux. La figure de la lignée elle-même est souvent confondue pour celle de l’administration du réseau des arènes réparties dans le quartier du divertissement de l’Arceau. Un grand nombre de leurs membres rejoignent donc les Éclats avec beaucoup de légèreté, en pensant qu’il s’agit simplement d’une association d’aficionado de beaux spectacles, où il est normal de régulièrement rendre service à son prochain par le don de soi.
+À l’image de leur nom, les recruteur·euses des Éclats se rapprocheront promptement des personnalités flamboyantes — par le prestige de leur réputation ou la splendeur de leur force — pour les inciter à se joindre à elleux dans le culte du Dieu de la Flamme, Ignisentus, et d’approcher de la promesse de l’immortalité. On compte ainsi dans leurs rangs autant de combattant·es anonymes désireux·ses de s’illustrer que de célébrités faisant quotidiennement la une des journaux. La figure de la lignée elle-même est souvent confondue pour celle de l’administration du réseau des arènes réparties dans le quartier du divertissement de l’Arceau. Un grand nombre de leurs membres rejoignent donc les Éclats avec beaucoup de légèreté, en pensant qu’il s’agit simplement d’une association d’aficionado de beaux spectacles, où il est normal de régulièrement rendre service à son prochain par le don de soi.
 
 ## Domaines
 
@@ -58,6 +58,6 @@ Transports, logistique, machinerie, construction, milice intérieure
 
 **Âge** : 34 ans
 
-**Description** : Une jeune femme dont la droiture bienveillante et une générosité sans fin inspirent toustes les Éclats. Sous des airs raffinés, Andraste cache cependant un penchant pour le combat. À la tête du Colisée, elle orchestre des spectacles de brutalité où les champions s’affrontent dans des duels épiques, cherchant à surpasser les limites de l’horreur pour gagner sa faveur.
+**Description** : Une jeune femme dont la droiture bienveillante et la générosité sans fin inspirent toustes les Éclats. Sous des airs raffinés, Andraste cache cependant un penchant pour le combat. À la tête du Colisée, elle orchestre des spectacles de brutalité où les champions s’affrontent dans des duels épiques, cherchant à surpasser les limites de l’horreur pour gagner sa faveur.
 </Column>
 </Columns>

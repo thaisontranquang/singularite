@@ -15,7 +15,7 @@ Afin de favoriser l'immersion dans l'univers de Singularité, nous avons dévelo
 
 ## Pour répondre à un message
 
-- Pour répondre à un message, remplissez le contenu que vous souhaitez écrire dans l'input "Envoyer un message", ainsi que l'heure que vous souhaitez voir afichées. Lorsque vous avez terminé d'écrire votre message, appuyez sur le bouton d'envoi symbolisé par une flèche.
+- Pour répondre à un message, remplissez le contenu que vous souhaitez écrire dans l'input "Envoyer un message", ainsi que l'heure que vous souhaitez voir affichée. Lorsque vous avez terminé d'écrire votre message, appuyez sur le bouton d'envoi symbolisé par une flèche.
 ![Message](/img/tutoriels/dyscord/message.png)
 :::info
 - Un retour à la ligne dans la zone de texte correspond à un saut de ligne simple.

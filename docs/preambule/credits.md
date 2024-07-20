@@ -29,5 +29,5 @@ All images on the forum are used only for non-commercial purposes and with full 
 
 Mail :
 
-- Image de bannière : [@Jyusan99](https://x.com/Jyusan99)
-- Images d’illustration des catégories : [@ying0yi](https://x.com/ying0yi)
+- Image de bannière : [Compte twitter @Jyusan99](https://x.com/Jyusan99)
+- Images d’illustration des catégories : [Compte twitter @ying0yi](https://x.com/ying0yi)

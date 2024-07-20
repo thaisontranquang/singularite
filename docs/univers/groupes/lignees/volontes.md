@@ -17,9 +17,9 @@ sidebar_position: 7
 
 Les Volontés sont les abandonné·es, les rejeté·es, celleux dont jamais personne n’a voulu ; iels sont celleux recueilli·es par la bonté de la Maîtresse de Lignée.
 
-Les Volontés sont déterminés, ils représentent ce qu’il y a de plus humain dans l’humanité. Ils sont imparfaits de défauts, peuvent se montrer trompeurs, sournois, vicieux. Ils auront ce qu’ils souhaitent, que le monde se ligue contre eux ou se soumette. Pourtant, les Volontés aiment, accueillent, apportent leur aide. Ils sont l’ambivalence d’une humanité qui tend à se perdre.
+Les Volontés sont déterminé·es, iels représentent ce qu’il y a de plus humain dans l’humanité. Iels sont imparfait·es de défauts, peuvent se montrer trompeur·euses, sournois·es, vicieux·euses. Iels auront ce qu’iels souhaitent, que le monde se ligue contre elleux ou se soumette. Pourtant, les Volontés aiment, accueillent, apportent leur aide. Iels sont l’ambivalence d’une humanité qui tend à se perdre.
 
-Ils s’organisent comme une immense toile qui se tisse à chaque instant. Les Volontés se glissent dans toutes les fissures de la société et prennent ce qu’ils veulent, donnent ce qu’ils peuvent.
+Iels s’organisent comme une immense toile qui se tisse à chaque instant. Les Volontés se glissent dans toutes les fissures de la société et prennent ce qu’iels veulent, donnent ce qu’iels peuvent.
 
 ## Fonctionnement
 

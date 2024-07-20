@@ -21,11 +21,11 @@ S’iels sont des individus passionné·es par la connaissance, il est souvent d
 
 ## Fonctionnement
 
-Cette lignée, à la charge du Collégium Arcania, est essentiellement dirigée par des personnes haut placées dans cette institution. Ils se dédient ainsi à de nombreux domaines de recherche et une doyenne est désignée sur le vote de ces éminent·es professeur·es pour les représenter en dehors.
+Cette lignée, à la charge du Collégium Arcania, est essentiellement dirigée par des personnes haut placées dans cette institution. Iels se dédient ainsi à de nombreux domaines de recherche et une doyenne est désignée sur le vote de ces éminent·es professeur·es pour les représenter en dehors.
 
 ## Méthodes de recrutement
 
-Tout·e individu·e qui s’illustre dans un domaine particulier de la science ou de la technologie — de l’utile, diront certain·es avec une suffisance marquée — rejoindra les rangées des Parangons à une étape ou à une autre de son existence, par le biais d’un courrier de convocation. Libre à celleux qui veulent conjuguer goût de la liberté et goût de la découverte de s’entêter à faire cavalier·ère seul·e, mais les opportunités et les financements seront bien limitées sans les subventions et l’accès aux laboratoires privés du Collégium, réservés jalousement aux élites des Parangons.
+Tout·e individu·e qui s’illustre dans un domaine particulier de la science ou de la technologie — de l’utile, diront certain·es avec une suffisance marquée — rejoindra les rangées des Parangons à une étape ou à une autre de son existence, par le biais d’un courrier de convocation. Libre à celleux qui veulent conjuguer goût de la liberté et goût de la découverte de s’entêter à faire cavalier·ère seul·e, mais les opportunités et les financements seront bien limités sans les subventions et l’accès aux laboratoires privés du Collégium, réservés jalousement aux élites des Parangons.
 
 ## Domaines
 
@@ -56,6 +56,6 @@ Enseignement, recherche, ingénierie, énergie, ???
 
 **Âge** : 37 ans
 
-**Description** : La doyenne actuelle est une femme au sourire léger et à l’air généralement absent, qui s’éclipse plus souvent que nécessaire dans les confins de son laboratoire. On la suspecte de conduire des expériences étrange, ce qu’elle réfute généralement dans le rire. Figure discrète même auprès de ses collaborateurices les plus proches, ces dernier·ères ne lui connaissent pas de prétention particulière, tout du moins pas à l’échelle de l’Arceau en lui-même.
+**Description** : La doyenne actuelle est une femme au sourire léger et à l’air généralement absent, qui s’éclipse plus souvent que nécessaire dans les confins de son laboratoire. On la suspecte de conduire des expériences étranges, ce qu’elle réfute généralement dans le rire. Figure discrète même auprès de ses collaborateurices les plus proches, ces dernier·ères ne lui connaissent pas de prétention particulière, tout du moins pas à l’échelle de l’Arceau en lui-même.
 </Column>
 </Columns>
