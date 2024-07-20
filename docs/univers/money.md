@@ -20,3 +20,9 @@ Quelques personnes, particulièrement sensibles à l’énergie qui émanent de 
     <img src="/img/univers/currency.png" alt="Monnaie" width="300"/>
   </Column>
 </Columns>
+
+:::tip[TLDR]
+
+La monnaie de l'Arceau est le Vivia, une pièce frappée à partir de la vivianite.
+
+:::

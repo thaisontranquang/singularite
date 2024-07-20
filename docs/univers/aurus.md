@@ -14,5 +14,3 @@ Parfois, ces entités affrontent directement les défenses de Arceau. Les combat
 Actuellement, vos personnages ne sont pas autorisés à quitter l'Arceau.
 Vous disposez d’informations limitées sur les monstres de l’extérieur.
 :::
-
-

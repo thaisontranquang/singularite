@@ -59,3 +59,11 @@ Religion, ésotérisme, philosophie, ???, ???
 **Description** : Rannie a su s’élever au rang de Voix des Rédemptions par sa droiture et sa volonté d’accompagner les Rédemptions dans leur quête de vérité. Dépourvue de toute malice, Rannie est l’épaule sur laquelle se reposent les Rédemptions, la caresse réconfortante, lorsque les angoisses se font trop grandes. Elle aime naïvement toustes celleux qui se présentent à elle et cherche constamment à révéler le bon en chacun·e.
 </Column>
 </Columns>
+
+:::tip[TLDR]
+
+- Les Rédemptions sont une Lignée guidée par Rannie.
+- Iels sont globalement tourné·es vers la religion et les préceptes.
+- Iels possèdent beaucoup d'influence par leur aspect religieux et leur impact sur les superstitions populaires.
+
+:::

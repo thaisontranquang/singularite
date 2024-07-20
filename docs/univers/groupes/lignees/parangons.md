@@ -59,3 +59,11 @@ Enseignement, recherche, ingénierie, énergie, ???
 **Description** : La doyenne actuelle est une femme au sourire léger et à l’air généralement absent, qui s’éclipse plus souvent que nécessaire dans les confins de son laboratoire. On la suspecte de conduire des expériences étranges, ce qu’elle réfute généralement dans le rire. Figure discrète même auprès de ses collaborateurices les plus proches, ces dernier·ères ne lui connaissent pas de prétention particulière, tout du moins pas à l’échelle de l’Arceau en lui-même.
 </Column>
 </Columns>
+
+:::tip[TLDR]
+
+- Les Parangons sont une Lignée dirigée par Eleane.
+- Iels sont globalement tourné·es vers le savoir et la recherche de connaissance.
+- Iels possèdent beaucoup d'influence dans les sphères universitaires, de recherche, etc.
+
+:::

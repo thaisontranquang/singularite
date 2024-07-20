@@ -61,3 +61,10 @@ Institutions, gouvernement, justice, communication, patrimoine
 **Description** : Charismatique, souriant, intelligent, Gabriel sait plaire aux foules aussi bien par ses traits physiques presque angéliques que par ses qualités humaines. D'extérieur, Gabriel semble juste, droit et capable de diriger les Équilibres avec impartialité. Pourtant, malgré cette image presque parfaite, sa filiation avec l'ancienne Gouverneuse fait douter certain·es Équilibres de sa capacité de leader.
 </Column>
 </Columns>
+
+:::tip[TLDR]
+
+- Les Équilibres sont une Lignée gouvernée par Gabriel.
+- Iels sont globalement tourné·es vers les institutions, la fonction publique et la vie politique, domaines dans lesquels iels possèdent beaucoup d'influence.
+
+:::

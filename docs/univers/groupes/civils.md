@@ -18,3 +18,8 @@ Jouer un personnage civil peut être idéal si vous ne souhaitez pas vous invest
 
 Les civil·es n'ont pas de fonctionnement en tant qu'entité puisqu'iels ne font pas partie d'un groupe organisé comme peuvent l'être les autres lignées.
 
+:::tip[TLDR]
+
+Les Civil·es sont le groupe majoritaire de l'Arceau mais ne connaissent pour la plupart pas les Lignées.
+
+:::

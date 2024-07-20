@@ -15,3 +15,9 @@ Texte d'intro
 ## Comment rejoindre une lignée ?
 
 ## Sont-elles connues du grand public ?
+
+:::tip[TLDR]
+
+
+
+:::

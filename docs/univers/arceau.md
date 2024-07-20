@@ -48,3 +48,11 @@ Cette mer mortelle est également à l’origine des contes que l’on raconte a
     Durant cette saison, le soleil ne se couche plus. Les teintes du ciel oscillent entre celles de l’aube et du crépuscules, parsemant le monde de couleurs uniques et changeantes selon les heures de la journée. C’est aussi durant cette période que l’on peut apercevoir dans le ciel des aurores nordiques : des vagues dansantes dans le ciel aux couleurs bleutées.
   </TabItem>
 </Tabs>
+
+:::tip[TLDR]
+
+- L'Arceau est une île isolée du reste du monde, entourée d'une mer de nuages qui n'est pour le moment pas explorable.
+- L'esthétique des bâtiments est très inspirée de l'art déco moderne.
+- Il existe 6 saisons sur l'Arceau.
+
+:::

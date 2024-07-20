@@ -59,3 +59,11 @@ Santé, pharmaceutique, banques & assurances, commerce, ???
 **Description** : Choisie car elle porterait la marque d’une déesse disparue, on la soupçonne d’être sa réincarnation et, en conséquence, tous les membres de cette lignée lui vouent une admiration sans faille. Frya inspire respect et mystère, personne n’oserait remettre en question ses paroles. Il y a quelque chose de presque divin en elle et pourtant, Frya est faillible. Son visage semble marqué d’une certaine mélancolie pour celleux qui sauront l’observer attentivement.
 </Column>
 </Columns>
+
+:::tip[TLDR]
+
+- Les Volontés sont une Lignée menée par Frya.
+- Iels évoluent dans de nombreux domaines divers et variés et exercent beaucoup d'influence dans les sphères économiques.
+- Les Volontés sont composé·es d'individu·es venant de toutes les classes sociales.
+
+:::
