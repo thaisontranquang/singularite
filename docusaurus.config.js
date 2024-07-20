@@ -134,6 +134,12 @@ const config = {
         disableSwitch: true,
         respectPrefersColorScheme: false,
       },
+      scripts: [
+        {
+          src: './src/scripts/custom.js',
+          async: true,
+        },
+      ],
     }),
 };
 
