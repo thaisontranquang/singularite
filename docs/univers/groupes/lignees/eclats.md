@@ -63,10 +63,10 @@ Transports, logistique, machinerie, construction, milice intérieure
 
 :::tip[TLDR]
 
-— Ignisentus, successeur de Sessilis, est le dieu de la Flamme.
-— Les Éclats valorisent le mérite et l’effort, s’opposent aux politiques conservatrices des Équilibres.
-— Iels sont dirigé·es par le Conseil des Conducteurs sous la direction d’Andraste.
-— Iels recrutent, en priorité, des individu·es brillant·es ou déterminé·es pour rejoindre leur cause. Seule une minorité de ces nouvelles recrues est réellement intégrée aux cercles décisionnaires des Éclats.
-— Iels sont en charge des transports, de la logistique, de la machinerie, de la construction et de la milice intérieure.
+- Ignisentus, successeur de Sessilis, est le dieu de la Flamme.
+- Les Éclats valorisent le mérite et l’effort, s’opposent aux politiques conservatrices des Équilibres.
+- Iels sont dirigé·es par le Conseil des Conducteurs sous la direction d’Andraste.
+- Iels recrutent, en priorité, des individu·es brillant·es ou déterminé·es pour rejoindre leur cause. Seule une minorité de ces nouvelles recrues est réellement intégrée aux cercles décisionnaires des Éclats.
+- Iels sont en charge des transports, de la logistique, de la machinerie, de la construction et de la milice intérieure.
 
 :::
