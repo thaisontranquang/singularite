@@ -27,7 +27,7 @@ Les Volontés sont régi·es par la Maîtresse de Lignée. Si elle sait s’ento
 
 ## Méthodes de recrutement
 
-Les Volontés apparaissent devant celleux qui se retrouvent soudainement dans le besoin. Qu’il s’agisse d’un apport financier, d’une lettre de recommandation, ou d’une autorisation exceptionnelle, iels ne demandent généralement qu’une seule contrepartie à l’accès à leur réseau de contacts : votre allégeance, sous la forme de la signature d’un contrat long de quatorze pages. Nonobstant la forme très discutable de cette transaction à caractère définitif, force est de constater que les personnes rejoignant leurs rangs connaissent fréquemment de grands succès dans leurs entreprises, bien que personne ne sache réellement qui possède un ascendant sur qui ou qui obéit à qui. Depuis son investiture à la tête de la lignée, à une date incertaine, Frya a fourni des financements substantiels aux orphelinats localisés aux périphéries de l’Arceau, et les membres des Volontés jouissent par conséquent d’une popularité record auprès de ces enfants laissés-pour-compte.
+Les Volontés apparaissent devant celleux qui se retrouvent soudainement dans le besoin. Qu’il s’agisse d’un apport financier, d’une lettre de recommandation, ou d’une autorisation exceptionnelle, iels ne demandent généralement qu’une seule contrepartie à l’accès à leur réseau de contacts : votre allégeance, sous la forme de la signature d’un contrat long de quatorze pages. Nonobstant la forme très discutable de cette transaction à caractère définitif, force est de constater que les personnes rejoignant leurs rangs connaissent fréquemment de grands succès dans leurs entreprises, bien que personne ne sache réellement qui possède un ascendant sur qui ou qui obéit à qui. Depuis son investiture à la tête de la Lignée, à une date incertaine, Frya a fourni des financements substantiels aux orphelinats localisés aux périphéries de l’Arceau, et les membres des Volontés jouissent par conséquent d’une popularité record auprès de ces enfants laissés-pour-compte.
 
 ## Domaines
 
@@ -52,11 +52,11 @@ Santé, pharmaceutique, banques & assurances, commerce, ???
 
 **Prénom** : Frya
 
-**Titre** : La Maîtresse de lignée
+**Titre** : La Maîtresse de Lignée
 
 **Âge** : ??? (personne n’ose lui demander)
 
-**Description** : Choisie car elle porterait la marque d’une déesse disparue, on la soupçonne d’être sa réincarnation et, en conséquence, tous les membres de cette lignée lui vouent une admiration sans faille. Frya inspire respect et mystère, personne n’oserait remettre en question ses paroles. Il y a quelque chose de presque divin en elle et pourtant, Frya est faillible. Son visage semble marqué d’une certaine mélancolie pour celleux qui sauront l’observer attentivement.
+**Description** : Choisie car elle porterait la marque d’une déesse disparue, on la soupçonne d’être sa réincarnation et, en conséquence, tous les membres de cette Lignée lui vouent une admiration sans faille. Frya inspire respect et mystère, personne n’oserait remettre en question ses paroles. Il y a quelque chose de presque divin en elle et pourtant, Frya est faillible. Son visage semble marqué d’une certaine mélancolie pour celleux qui sauront l’observer attentivement.
 </Column>
 </Columns>
 

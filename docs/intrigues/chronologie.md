@@ -40,7 +40,7 @@ Disparition entière d'une partie de l'île. Les habitant·es n’ont jamais ét
 
 ### Âge du Renouveau (??? — 540)
 
-- Les lignées, telles qu’elles sont aujourd’hui définies, sont mentionnées pour la première fois dans des répertoires administratifs.
+- Les Lignées, telles qu’elles sont aujourd’hui définies, sont mentionnées pour la première fois dans des répertoires administratifs.
 - Début de la transition énergétique de l’Arceau vers des énergies propres, permettant l’exploitation scrupuleuse du Soleil de minuit.
 
 </TimelineItem>

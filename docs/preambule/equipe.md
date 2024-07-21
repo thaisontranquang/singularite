@@ -15,7 +15,7 @@ Co-fondatrice et chargée de JavaScript (tout du moins jusqu’à la rupture in�
 
 ### Missions
 
-- Tout ce qui est relatif à la gestion des lignées des Rédemptions, des Parangons & des Éclats.
+- Tout ce qui est relatif à la gestion des Lignées des Rédemptions, des Parangons & des Éclats.
 - Mécaniques de jeux (propositions, questions)
 - Aide à l'intégration, mise en contact, etc.
 
@@ -38,7 +38,7 @@ Co-fondateur à l’origine de tout, graphiste, développeur, maquettiste, réda
 
 ### Missions
 
-- Tout ce qui est relatif à la gestion des lignées des Volontés et des Équilibres
+- Tout ce qui est relatif à la gestion des Lignées des Volontés et des Équilibres
 - L'intégration visuelle du forum (compatibilité navigateur, version mobile, accessibilité, etc.)
 - Aide pour les codes RP (les nôtres et les vôtres)
 

@@ -21,7 +21,7 @@ S’iels sont des individus passionné·es par la connaissance, il est souvent d
 
 ## Fonctionnement
 
-Cette lignée, à la charge du Collégium Arcania, est essentiellement dirigée par des personnes haut placées dans cette institution. Iels se dédient ainsi à de nombreux domaines de recherche et une doyenne est désignée sur le vote de ces éminent·es professeur·es pour les représenter en dehors.
+Cette Lignée, à la charge du Collégium Arcania, est essentiellement dirigée par des personnes haut placées dans cette institution. Iels se dédient ainsi à de nombreux domaines de recherche et une doyenne est désignée sur le vote de ces éminent·es professeur·es pour les représenter en dehors.
 
 ## Méthodes de recrutement
 
@@ -64,6 +64,6 @@ Enseignement, recherche, ingénierie, énergie, ???
 
 - Les Parangons sont une Lignée dirigée par Eleane.
 - Iels sont globalement tourné·es vers le savoir et la recherche de connaissance.
-- Iels possèdent beaucoup d'influence dans les sphères universitaires, de recherche, etc.
+- Iels possèdent beaucoup d'influence dans les sphères universitaires et n'hésitent pas à s'en servir.
 
 :::

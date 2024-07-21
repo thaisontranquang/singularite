@@ -27,12 +27,12 @@ Récemment élu, Gabriel est le nouveau Gouverneur des Équilibres.
 
 ## Méthodes de recrutement
 
-Les Équilibres ne recrutent pas activement, cependant de nombreux·ses civil·es gagnant en influence dans les institutions gouvernementales se verront proposer d’intégrer la lignée. Une personne qui refuserait cette adhésion ou qui ne serait pas estimée comme une personne de confiance suite à un premier contact constatera rapidement un tournant négatif dans ses desseins professionnels, sans jamais parvenir à faire le lien entre les deux.
-Également, et de manière plus officieuse, cette lignée est connue pour recruter des personnes aux profils hétérogènes pour patrouiller et veiller sur les différents groupuscules de pouvoir établis à travers tout le domaine de l’Arceau. Les plus calomniateur·trices appellent ces individu·es des « taupes », mais elleux préfèrent les appeler des inspecteur·trices presque indépendant·es.
+Les Équilibres ne recrutent pas activement, cependant de nombreux·ses civil·es gagnant en influence dans les institutions gouvernementales se verront proposer d’intégrer la Lignée. Une personne qui refuserait cette adhésion ou qui ne serait pas estimée comme une personne de confiance suite à un premier contact constatera rapidement un tournant négatif dans ses desseins professionnels, sans jamais parvenir à faire le lien entre les deux.
+Également, et de manière plus officieuse, cette Lignée est connue pour recruter des personnes aux profils hétérogènes pour patrouiller et veiller sur les différents groupuscules de pouvoir établis à travers tout le domaine de l’Arceau. Les plus calomniateur·trices appellent ces individu·es des « taupes », mais elleux préfèrent les appeler des inspecteur·trices presque indépendant·es.
 
 ## Domaines
 
-Institutions, gouvernement, justice, communication, patrimoine
+Institutions, gouvernement, justice, communication
 
 ## Rôles possibles
 
@@ -64,7 +64,8 @@ Institutions, gouvernement, justice, communication, patrimoine
 
 :::tip[TLDR]
 
-- Les Équilibres sont une Lignée gouvernée par Gabriel.
+- Les Équilibres sont gouverné·es par Gabriel.
 - Iels sont globalement tourné·es vers les institutions, la fonction publique et la vie politique, domaines dans lesquels iels possèdent beaucoup d'influence.
+- Les Équilibres cherchent une harmonie, ce qui peut parfois se traduire par une forme d'immobilisme de la société et des décisions prises.
 
 :::

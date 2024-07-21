@@ -15,19 +15,18 @@ Afin de favoriser l'immersion dans l'univers de Singularité, nous avons dévelo
 
 ## Pour répondre à un message
 
-- Pour répondre à un message, remplissez le contenu que vous souhaitez écrire dans l'input "Envoyer un message", ainsi que l'heure que vous souhaitez voir affichée. Lorsque vous avez terminé d'écrire votre message, appuyez sur le bouton d'envoi symbolisé par une flèche.
+- Pour répondre à un message, rendez-vous au dernier message envoyé.
+- Remplissez le contenu que vous souhaitez écrire dans l'input "Envoyer un message", ainsi que l'heure que vous souhaitez voir affichée (contenu non numérique autorisé).
+- Lorsque vous avez terminé d'écrire votre message, appuyez sur le bouton d'envoi symbolisé par une flèche.
 ![Message](/img/tutoriels/dyscord/message.png)
 :::info
 - Un retour à la ligne dans la zone de texte correspond à un saut de ligne simple.
 - Un double retour à la ligne créera un deuxième message. Vous pouvez donc envoyer plusieurs messages à la suite directement !
-
-![Message](/img/tutoriels/dyscord/message2.png)
 :::
 - Un code sera automatiquement généré dans la zone de réponse rapide en bas du forum. Plus qu'à envoyer !
-
-![Message](/img/tutoriels/dyscord/message3.png)
+![Message](/img/tutoriels/dyscord/message2.png)
 
 - Résultat :
 
-![Message](/img/tutoriels/dyscord/message4.png)
+![Message](/img/tutoriels/dyscord/message3.png)
 

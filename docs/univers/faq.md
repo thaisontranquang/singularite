@@ -10,17 +10,17 @@ sidebar_position: 9
 
 Bien sûr, à condition de faire preuve de cohérence. Votre personnage revient vraisemblablement en ville de temps à autre pour se ravitailler, commercer à son échelle, etc.
 
-### Est-ce que je peux quitter une lignée pour en rejoindre une autre ?
+### Est-ce que je peux quitter une Lignée pour en rejoindre une autre ?
 
-Oui, mais cela ne sera pas sans conséquence… Et pour rejoindre une autre lignée, il faut d’abord être repéré·e par cette dernière !
+Oui, mais cela ne sera pas sans conséquence… Et pour rejoindre une autre Lignée, il faut d’abord être repéré·e par cette dernière !
 
-### Est-il possible d’être infiltré·e au sein d’une lignée tout en servant les intérêts d’une autre ? De me faire passer pour un·e civil·e ?
+### Est-il possible d’être infiltré·e au sein d’une Lignée tout en servant les intérêts d’une autre ? De me faire passer pour un·e civil·e ?
 
 Oui, venez nous parler de votre projet si vous avez ces envies ou des idées semblables.
 
-### Puis-je rejoindre l’aventure en qualité de simple civil·e et rejoindre une lignée en cours de jeu ?
+### Puis-je rejoindre l’aventure en qualité de simple civil·e et rejoindre une Lignée en cours de jeu ?
 
-Oui, toute personne civile correspondant à des critères particuliers peut être contactée par les membres d’une lignée. Peut-être devriez-vous rester à l’écoute des opportunités.
+Oui, toute personne civile correspondant à des critères particuliers peut être contactée par les membres d’une Lignée. Peut-être devriez-vous rester à l’écoute des opportunités.
 
 ### Puis-je avoir un rôle important au sein de l’Arceau en étant un·e civil·e ?
 
@@ -30,7 +30,7 @@ De nombreux postes sont à pourvoir et nous sommes absolument ouvert·es à cett
 
 Bien sûr ! Encore une fois : proposez-nous ...
 
-### Est-ce que je peux vous proposer ma propre lignée ?
+### Est-ce que je peux vous proposer ma propre Lignée ?
 
 Non.
 
@@ -43,11 +43,6 @@ Même si notre univers est un monde de fiction, et que les annexes entendent une
 ### Le nom de l’« Arceau » correspond-il à celui l’île ou de la ville ?
 
 L’Arceau correspond à l’île entière, mais la ville en elle-même n’a jamais été nommée par les habitant·es : il n’en a toujours existé qu’une seule, après tout.
-
-### Pour bien récapituler, que savent les civil·es concernant les lignées ?
-
-La grande majorité des civil·es a une connaissance très sommaire des lignées et n’imagine pas la portée de leurs contributions dans les sphères du pouvoir et le développement de la société. Seule une poignée d’élites est au courant de leur influence réelle et préfère garder le silence à leurs sujets.
-À moins d’être confronté·e directement à un groupe entier, un·e civil·e mis·e au courant d’une quelconque manière serait plus tenté·e d’y voir soit des théories complotistes, soit des rassemblements sectaires convaincus de posséder un pouvoir qu’iels ne détiennent pas vraiment.
 
 ### Qu’en est-il des armes à feu dans ce monde ?
 

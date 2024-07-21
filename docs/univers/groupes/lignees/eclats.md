@@ -9,16 +9,15 @@ sidebar_position: 3
     <img src="/img/lignees/eclats.png" alt="Symbole Éclats" width="200"/>
   </Column>
   <Column>
-> Armé de son glaive, il interpella le Titan : « Pour quelle raison ai-je été créé ? Qu’attends-tu que j’accomplisse en ton nom ? » Mais le silence fut sa seule réponse ; Sessilis n’avait jamais posé son regard sur cette progéniture fortuite ni à sa naissance ni lorsqu’il vint lui demander son dessein. Sans formuler de résistance, le dieu de la stase s’évanouit dans la mort, et l’enfant prit sa place. Il devint Ignisentus.
-Et, dans son nouveau règne, Il attendit. Il attendit le jour où un descendant viendrait avec le même feu dans le cœur frapper à sa porte.
+> Armé de son glaive, il interpella le Titan : « Pour quelle raison ai-je été créé ? Qu’attends-tu que j’accomplisse en ton nom ? » Mais le silence fut sa seule réponse ; Sessilis n’avait jamais posé son regard sur cette progéniture fortuite ni à sa naissance ni lorsqu’il vint lui demander son dessein. Sans formuler de résistance, le dieu de la Stase s’évanouit dans la mort, et l’enfant prit sa place. L’enfant devint Ignisentus. Et, s’établissant ainsi dans la roche de son nouveau règne, Il attendit. Il attendit le jour où un descendant viendrait à son tour, avec un feu plus imposant encore dans le cœur, frapper à la porte des cieux.
   </Column>
 </Columns>
 
 ## Description
 
-Impétueux·ses, gai·es et ardent·es, les Éclats sont des piliers pour l’Arceau. Iels se mettent au service des différentes Lignées pour satisfaire leurs besoins et sont grandement apprécié·es par toustes. Les Éclats sont les moteurs de la cité et s’iels venaient à se retirer des domaines dans lesquels iels sont proéminent·es, l’Arceau s’écroulerait très rapidement.
+Passionné·es, gai·es, fougueux·euses ; les Éclats sont généralement des personnalités sûres d’elles, résolues, enclines à prendre des risques ou à faire la démonstration de leurs talents. Nombre de leurs membres rêvent de reconnaissance, de notoriété et sont des partisans de la rhétorique du mérite. Conformément aux valeurs prescrites par Ignisentus, la plupart d’entre elleux sont contre l’idée d’une société figée dans ses habitudes et son immobilisme, et s’opposent de ce fait aux politiques sécuritaires conduites par les Équilibres, la lignée gouvernante depuis à peu près un siècle, qui ne prépare (selon eux) aucun avenir à la population de l’Arceau.
 
-Fougueux·ses et très droit·es, iels sont parfois rangé·es dans une case de brutes sans réflexion. Pourtant, les Éclats peuvent se montrer fins stratèges pour faire valoir leur parole.
+Aujourd’hui, Andraste est celle qui dirige d’une main de fer la lignée des Éclats. Cependant, ce sont les membres du Conseil des Conducteurs qui exécutent sa volonté en supervisant les domaines clés de la Maison ; une ascension réservée aux membres de son cercle proche, dont les fonctions premières sont de défendre publiquement les intérêts de la lignée dans les sphères politiques, administratives, etc.
 
 ## Fonctionnement
 
@@ -64,5 +63,10 @@ Transports, logistique, machinerie, construction, milice intérieure
 
 :::tip[TLDR]
 
+— Ignisentus, successeur de Sessilis, est le dieu de la Flamme.
+— Les Éclats valorisent le mérite et l’effort, s’opposent aux politiques conservatrices des Équilibres.
+— Iels sont dirigé·es par le Conseil des Conducteurs sous la direction d’Andraste.
+— Iels recrutent, en priorité, des individu·es brillant·es ou déterminé·es pour rejoindre leur cause. Seule une minorité de ces nouvelles recrues est réellement intégrée aux cercles décisionnaires des Éclats.
+— Iels sont en charge des transports, de la logistique, de la machinerie, de la construction et de la milice intérieure.
 
 :::

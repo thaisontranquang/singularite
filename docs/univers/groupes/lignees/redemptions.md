@@ -17,11 +17,11 @@ sidebar_position: 6
 
 Les Rédemptions sont mystérieux·ses. Iels se dérobent aux regards du monde pour rêver, vénérer, prédire, accueillir. Iels sont les devins de cette époque et se targuent de connaître la vérité divine.
 
-La lignée des Rédemptions porte dans son sang une terrible souillure commise à l’égard de la figure séraphique Bäshnor en des temps immémoriaux. Les Rédemptions se consacrent naturellement et de manière absolue à veiller sur leurs adelphes, sur les angoisses de ce monde. Quiconque cherchera la rédemption saura trouver son chemin chez elleux. Les Rédemptions guident, absolvent les péchés et permettent à tout et chacun de transcender sa condition de simple brebis égarée.
+La Lignée des Rédemptions porte dans son sang une terrible souillure commise à l’égard de la figure séraphique Bäshnor en des temps immémoriaux. Les Rédemptions se consacrent naturellement et de manière absolue à veiller sur leurs adelphes, sur les angoisses de ce monde. Quiconque cherchera la rédemption saura trouver son chemin chez elleux. Les Rédemptions guident, absolvent les péchés et permettent à tout et chacun de transcender sa condition de simple brebis égarée.
 
 ## Fonctionnement
 
-Cette lignée fonctionne par une assemblée où chacun de ses constituants peut apporter sa voix aux décisions prises ou à prendre. L’ambition individuelle est le fléau de cette lignée. Cependant les décisions prises sont annoncées par l’intermédiaire de leur Voix, un rôle qui est relayé périodiquement entre plusieurs figures féminines de la lignée.
+Cette Lignée fonctionne par une assemblée où chacun de ses constituants peut apporter sa voix aux décisions prises ou à prendre. L’ambition individuelle est le fléau de cette Lignée. Cependant les décisions prises sont annoncées par l’intermédiaire de leur Voix, un rôle qui est relayé périodiquement entre plusieurs figures féminines de la Lignée.
 
 ## Méthodes de recrutement
 
@@ -62,8 +62,9 @@ Religion, ésotérisme, philosophie, ???, ???
 
 :::tip[TLDR]
 
-- Les Rédemptions sont une Lignée guidée par Rannie.
-- Iels sont globalement tourné·es vers la religion et les préceptes.
+- Les Rédemptions sont guidé·es par Rannie.
+- Iels sont globalement tourné·es vers la religion.
 - Iels possèdent beaucoup d'influence par leur aspect religieux et leur impact sur les superstitions populaires.
+- Pour beaucoup, les Rédemptions s'apparentent à une forme de secte.
 
 :::
