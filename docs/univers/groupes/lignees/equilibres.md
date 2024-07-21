@@ -9,19 +9,18 @@ sidebar_position: 4
     <img src="/img/lignees/equilibres.png" alt="Symbole Équilibres" width="200"/>
   </Column>
   <Column>
-> À l’origine se trouvait l’encrier des voeux. On conte que, de cet encrier, coulait un liquide d’une couleur indescriptible. Il était celui de la réalité même ; aussi bien capable de la fissurer que de la purifier. Lorsque les premières lueurs bénirent les cieux, Aerin ouvrit les yeux. Il fut la troisième divinité à découvrir la vie, mais la première à la donner. Il plongea ses mains dans l’encrier et tapissa la réalité de cette encre, y créant les premières fissures d’où sortirent les humains.
+> À l’origine se trouvait l’encrier des vœux. On conte que, de cet encrier, coulait un liquide d’une couleur indescriptible. Il était celui de la réalité même ; aussi bien capable de la fissurer que de la purifier. Lorsque les premières lueurs bénirent les cieux, Aerin ouvrit les yeux. Il fut la troisième divinité à découvrir la vie, mais la première à la donner. Il plongea ses mains dans l’encrier et tapissa la réalité de cette encre, y créant les premières fissures d’où sortirent les humains.
   </Column>
 </Columns>
 
 ## Description
 
-Les Équilibres sont souvent considéré·es comme des personnes neutres et impartiales. On les retrouve donc naturellement dans les sphères de la société qui nécessitent ces comportements : institutions, gouvernement, justice, patrimoine. Ils se veulent comme étant des piliers pour L’Arceau.
-
-Les Équilibres se doivent d’être les guides de l’Arceau, celleux qui instaurent un ordre pour le bon fonctionnement de la cité, mais personne n’est infaillible.
+Neutres, intègres, mais surtout d’une justesse et d’une équité inébranlables, les Équilibres sont des figures reconnues pour leur probité et un sérieux qui laisse rarement place à la légèreté ou à l’humour. Iels occupent des postes clés dans les principaux organes qui veillent au bon fonctionnement de la société (administration, justice, etc.), s’inscrivent avocat·es d’une justice équitable, harmonieuse et pragmatique.
+Contrairement à la Lignée des Rédemptions, qui se soumet aux instructions d’une Divinité dont la manifestation se fait attendre, les Équilibres privilégient une approche axée sur la responsabilité collective et le contrôle rigoureux de la population. Cette vision sensée est la raison principale de leur réélection fréquente aux postes présidentiels, où ils jouissent généralement d’une grande popularité.
 
 ## Fonctionnement
 
-Les Équilibres s’organisent de manière semi-démocratique par scrutin pour déterminer qui sera lae prochain·e Gouverneur·se. Un·e Gouverneur·se successeur·euse pest élu·e à la mort du·de la précédent·e.
+Les membres les plus influent·es des Équilibres siègent au sein de l'Assemblée de la Justice, où iels procèdent à une élection semi-démocratique pour désigner lae prochain·e Gouverneur·se. Un·e Gouverneur·se est choisi·e pour succéder à saon prédécesseur·e à la suite de son décès.
 
 Récemment élu, Gabriel est le nouveau Gouverneur des Équilibres.
 
@@ -64,8 +63,10 @@ Institutions, gouvernement, justice, communication
 
 :::tip[TLDR]
 
-- Les Équilibres sont gouverné·es par Gabriel.
-- Iels sont globalement tourné·es vers les institutions, la fonction publique et la vie politique, domaines dans lesquels iels possèdent beaucoup d'influence.
-- Les Équilibres cherchent une harmonie, ce qui peut parfois se traduire par une forme d'immobilisme de la société et des décisions prises.
+- Aerin est le dieu de l’Encre.
+- Les Équilibres favorisent l’harmonie, l’équité, le collectif, s’opposent aux entreprises intéressées et individuelles.
+- Iels sont dirigées par l’Assemblée de la Justice sous la direction de Gabriel.
+- Iels recrutent en priorité des individus modestes et fiables, ayant atteint des fonctions notables dans les branches décisionnaires de l’Arceau.
+- Iels sont en charge des fonctions publiques, de la justice et de la communication.
 
 :::

@@ -15,13 +15,11 @@ sidebar_position: 5
 
 ## Description
 
-Les Parangons sont les érudit·es de l’Arceau. Iels sont à l’origine de nombreuses prouesses technologiques et ont permis à l’Arceau d’entrer dans une nouvelle époque de révolution industrielle. Les savoirs que leurs membres maîtrisent s’étendent de la littérature à l’ingénierie, en parcourant tout un éventail de connaissances techniques ou théoriques. Si individuellement iels ne maîtrisent pas l’ensemble des sujets, iels forment un tout suffisamment compétent pour révolutionner le monde.
-
-S’iels sont des individus passionné·es par la connaissance, il est souvent dit que les Parangons peuvent cependant faire preuve de condescendance et d’arrogance académiques.
+Les Parangons, figures de proue intellectuelles et technologiques de l’Arceau, jouent un rôle central dans les avancées scientifiques du domaine. Reconnu·es pour leur expertise pointue, dans des disciplines variées allant des lettres et l’ingénierie à des connaissances théoriques plus abstraites, iels sont souvent qualifié·es de pionnier·ères des révolutions industrielles. Malgré l’arrogance et la condescendance académique qui caractérise parfois certain·es de leurs constituant·es, ce sont globalement des personnalités respectées pour leurs visions audacieuses. Depuis l’ascension d’Eleane, iels militent activement pour l’exploration des territoires au-delà des frontières connues, largement engagé·es sur cette question avec les Éclats — désireux·ses d’élargir leur compréhension du monde.
 
 ## Fonctionnement
 
-Cette Lignée, à la charge du Collégium Arcania, est essentiellement dirigée par des personnes haut placées dans cette institution. Iels se dédient ainsi à de nombreux domaines de recherche et une doyenne est désignée sur le vote de ces éminent·es professeur·es pour les représenter en dehors.
+Supervisant le Collégium Arcania, cette Lignée est dirigée par ses professeur·es les plus distingué·es, qui font toustes partie de l’Institut des Chercheur·euses, en charge de la gestion des subventions et de la répartition des ressources financières. Des réunions particulièrement suivies sont tenues entre ces chercheur·euses pour défendre les mérites de leurs projets respectifs. C’est ce même Institut qui désigne un·e doyen·ne pour les incarner à l’extérieur, afin de s’assurer que les intérêts du Collégium — et par extension, des Parangons — soient correctement représentés.
 
 ## Méthodes de recrutement
 
@@ -62,8 +60,10 @@ Enseignement, recherche, ingénierie, énergie, ???
 
 :::tip[TLDR]
 
-- Les Parangons sont une Lignée dirigée par Eleane.
-- Iels sont globalement tourné·es vers le savoir et la recherche de connaissance.
-- Iels possèdent beaucoup d'influence dans les sphères universitaires et n'hésitent pas à s'en servir.
+- Ehartia est le dieu de la Réminiscence.
+- Les Parangons favorisent la maîtrise et l’évolution continue, s’opposent à l’obscurantisme (notamment religieux) et l’ignorance volontaire.
+- Iels sont dirigé·es par l’Institut des Chercheurs sous la direction d’Eleane.
+- Iels recrutent en priorité des individu·es ambitieux·ses et compétent·es, capables de suivre les consignes de leurs supérieur·es et de garder des informations confidentielles.
+- Iels sont en charge de l’éducation, de la culture et de la gestion des ressources environnementales
 
 :::
