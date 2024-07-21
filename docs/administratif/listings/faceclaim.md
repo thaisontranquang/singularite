@@ -16,7 +16,11 @@ sidebar_position: 1
 
 ## D
 
+- Dr Ratio, Honkai Star Rail - *Réservé*
+
 ## E
+
+- Eirene, Path to Nowhere - *Réservé*
 
 ## F
 
@@ -36,6 +40,7 @@ sidebar_position: 1
 
 ## L
 
+- Langley, Path to Nowhere - *Réservé*
 - Luffy, One Piece — Nine
 
 ## M
