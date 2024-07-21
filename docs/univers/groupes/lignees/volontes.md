@@ -15,15 +15,11 @@ sidebar_position: 7
 
 ## Description
 
-Les Volontés sont les abandonné·es, les rejeté·es, celleux dont jamais personne n’a voulu ; iels sont celleux recueilli·es par la bonté de la Maîtresse de Lignée.
-
-Les Volontés sont déterminé·es, iels représentent ce qu’il y a de plus humain dans l’humanité. Iels sont imparfait·es de défauts, peuvent se montrer trompeur·euses, sournois·es, vicieux·euses. Iels auront ce qu’iels souhaitent, que le monde se ligue contre elleux ou se soumette. Pourtant, les Volontés aiment, accueillent, apportent leur aide. Iels sont l’ambivalence d’une humanité qui tend à se perdre.
-
-Iels s’organisent comme une immense toile qui se tisse à chaque instant. Les Volontés se glissent dans toutes les fissures de la société et prennent ce qu’iels veulent, donnent ce qu’iels peuvent.
+D’une résilience à toute épreuve, mais aussi le reflet des contradictions humaines ; les Volontés embrassent et acceptent la profonde ambivalence qui caractérise leurs membres, souvent porteur·ses de discours contraires pour obtenir des signatures et des accords auprès de toustes. Les membres de cette lignée favorisent la liberté individuelle, s’opposent aux contraintes imposées par le gouvernement, et préfèrent vivre selon leurs propres règles (ce qu’iels recherchent en accumulant les richesses pour leur compte). Pourtant, ce n’est jamais séparément que les membres de cette Lignée agissent : iels travaillent en coulisses en grand nombre pour influencer les diverses institutions du pouvoir, se glissent dans toutes les fissures de la société pour exercer une emprise subtile, mais omniprésente. On ne saurait dire avec certitude si les Volontés suivent leurs propres désirs ou ceux que leur dicte la Maîtresse de la Lignée, et si les actes de cette dernière sont nés d’amour pour les sien·nes ou de pur intérêt.
 
 ## Fonctionnement
 
-Les Volontés sont régi·es par la Maîtresse de Lignée. Si elle sait s’entourer de personnes de confiance à qui reléguer les tâches les plus sensibles, c’est pourtant bien elle qui a le dernier mot et personne n’oserait s’opposer à sa décision. Des réunions auxquelles elle et ses conseiller·ères sont présent·es sont régulièrement tenues afin de se concerter sur les décisions à prendre.
+Les Volontés sont régi·es par la Maîtresse de Lignée. Si elle sait s’entourer de personnes de confiance à qui reléguer les tâches les plus sensibles (constituant une entité nommée le Cercle), c’est pourtant bien elle qui a le dernier mot et personne n’ose s’opposer à sa décision. Des réunions auxquelles elle et ses conseiller·ères sont présent·es sont régulièrement tenues afin de se concerter sur les décisions à prendre.
 
 ## Méthodes de recrutement
 
@@ -31,7 +27,7 @@ Les Volontés apparaissent devant celleux qui se retrouvent soudainement dans le
 
 ## Domaines
 
-Santé, pharmaceutique, banques & assurances, commerce, ???
+Santé, pharmaceutique, banques & assurances, commerce
 
 ## Rôles possibles
 
@@ -62,8 +58,10 @@ Santé, pharmaceutique, banques & assurances, commerce, ???
 
 :::tip[TLDR]
 
-- Les Volontés sont une Lignée menée par Frya.
-- Iels évoluent dans de nombreux domaines divers et variés et exercent beaucoup d'influence dans les sphères économiques.
-- Les Volontés sont composé·es d'individu·es venant de toutes les classes sociales.
+- Solga est la déesse de l’Éternité.
+- Les Volontés favorisent la liberté individuelle et la privatisation des secteurs publics, s’opposent aux formes de socialisme et à la conformité (surtout lorsqu’elle est médiocre).
+- Iels sont dirigé·es par le Cercle, lui-même dirigé par Frya.
+- Iels recrutent principalement des individu·es dans le besoin, exigeant une allégeance catégorique en retour.
+- Iels sont en charge de l’économie et de la santé.
 
 :::

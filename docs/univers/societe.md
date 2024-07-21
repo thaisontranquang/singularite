@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Vie en société
 
+![Vie en société](/img/univers/societe.png)
+
 ## Gouvernement
 
 L’Arceau repose sur un système de démocratie semi-représentative, où les citoyen·nes désignent un responsable tous les 10 ans à la suite de campagnes âprement disputées. Lae président·e est en charge de l’administration de l’Arceau, plus spécifiquement de s’assurer de sa stabilité, et de l’organisation éclairée de référendums dits d’initiative citoyenne — en servant de liaison entre le peuple et les diverses figures de pouvoir qui se partagent les nombreuses charges liées à la vie au sein de l’Arceau (défense et sécurité, infrastructure et bâtiments, éducation et culture, soins et bien-être, environnement et ressources, etc.).
@@ -21,7 +23,7 @@ Le niveau technologique de l’Arceau s’aligne globalement sur les avancées t
 
 Depuis toujours, l'Arceau dépend de technologies souterraines extrêmement onéreuses pour accélérer le transport des vivres et des ressources à travers l’île, et pour le développement de son industrie agroalimentaire souterraine (à l’abri des intempéries et des contraintes météorologiques de la surface).
 
-L’Arceau dispose d’un réseau Internet, d’une plateforme de messagerie instantanée appelée Dyscord développée par le gouvernement, et d’une téléphonie urbaine et périurbaine plus ou moins stable.
+L’Arceau dispose d’un réseau Internet, d’une plateforme de messagerie instantanée appelée DysCord développée par le gouvernement, et d’une téléphonie urbaine et périurbaine plus ou moins stable.
 
 Le divertissement occupe une position importante dans le quotidien des habitant·es de l’Arceau, vraisemblablement exploitée par les autorités pour le maintien de l’ordre et le contrôle de l’information : chaînes de radio, émissions de télévision, livres physiques, tablettes de lecture, etc. Il n’est pas non plus rare d’avoir recours aux hologrammes ou à la réalité augmentée dans les divers outils technologiques mis à la disposition du peuple.
 

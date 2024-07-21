@@ -15,9 +15,7 @@ sidebar_position: 6
 
 ## Description
 
-Les Rédemptions sont mystérieux·ses. Iels se dérobent aux regards du monde pour rêver, vénérer, prédire, accueillir. Iels sont les devins de cette époque et se targuent de connaître la vérité divine.
-
-La Lignée des Rédemptions porte dans son sang une terrible souillure commise à l’égard de la figure séraphique Bäshnor en des temps immémoriaux. Les Rédemptions se consacrent naturellement et de manière absolue à veiller sur leurs adelphes, sur les angoisses de ce monde. Quiconque cherchera la rédemption saura trouver son chemin chez elleux. Les Rédemptions guident, absolvent les péchés et permettent à tout et chacun de transcender sa condition de simple brebis égarée.
+Mystérieux·ses, dérobé·es, mais faisant preuve d’une bienveillance sans borne ; les Rédemptions sont issu·es de divers horizons et se considèrent comme des médiateur·trices entre le divin et le profane, affirmant qu’iels approchent peu à peu de la vérité transcendante à travers leurs prières et rituels. Leur engagement est ainsi total et absolu lorsqu’il s’agit de soutenir leurs coreligionnaires et de répondre aux angoisses suscitées par les mystères de l’Arceau. Iels croient que le maintien de l'Humanité dans l'Arceau est conditionné par la volonté de Bäshnor et que celle-ci restera confinée jusqu'à obtenir Son pardon. Ses adhérent·es sont souvent vu·es comme des guides spirituels et des soutiens dans les moments difficiles, mais c’est cette même aura nimbée d’inconnu et leur approche ésotérique qui les rendent peu crédibles auprès de la population et des offices du pouvoir. Iels aspirent (naïvement, peut-être) à promouvoir davantage les valeurs spirituelles et éthiques dans les politiques publiques, défendant par exemple davantage de souplesse quant aux législations sur les pratiques religieuses, ou encore le pardon des criminel·les par l’immolation publique volontaire.
 
 ## Fonctionnement
 
@@ -62,9 +60,10 @@ Religion, ésotérisme, philosophie, ???, ???
 
 :::tip[TLDR]
 
-- Les Rédemptions sont guidé·es par Rannie.
-- Iels sont globalement tourné·es vers la religion.
-- Iels possèdent beaucoup d'influence par leur aspect religieux et leur impact sur les superstitions populaires.
-- Pour beaucoup, les Rédemptions s'apparentent à une forme de secte.
+- Bäshnor est le dieu des Péchés.
+- Les Rédemptions favorisent la dévotion et l’occultisme, s’opposent au scepticisme et à toutes formes de pragmatisme que ce soit.
+- Iels sont dirigé·es par l’Assemblée et sont représentés par Rannie.
+- Iels recrutent de tous les profils, à condition de partager la conviction centrale de leurs croyances : que l’Humanité doit entrer en quête de rédemption pour des erreurs passées et que cette dernière est primordiale pour s’élever au-dessus de la mer d’Albâtre.
+- Iels sont en charge des affaires divines (ou religieuses, selon les points de vues).
 
 :::
