@@ -42,7 +42,7 @@ function Feature({ title, description }) {
   return (
     <div className={clsx('col col--12')}>
       <div className="padding-horiz--md">
-        <p>{description}</p>
+        <div>{description}</div>
       </div>
     </div>
   )
