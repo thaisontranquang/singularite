@@ -15,7 +15,7 @@ Co-fondatrice et chargée de JavaScript (tout du moins jusqu’à la rupture in�
 
 ### Missions
 
-- Tout ce qui est relatif à la gestion des Lignées des Rédemptions, des Parangons & des Éclats.
+- Tout ce qui est relatif à la gestion des Lignées des Rédemptions, des Parangons & des Éclats
 - Mécaniques de jeux (propositions, questions)
 - Aide à l'intégration, mise en contact, etc.
 
@@ -23,7 +23,7 @@ Co-fondatrice et chargée de JavaScript (tout du moins jusqu’à la rupture in�
 
 | Lu  | Ma  | Mer | Je  | Ven | Sam              | Dim              |
 | --- | --- | --- | --- | --- | ---------------- | ---------------- |
-| /   | /   | /   | /   | /   | Journée & soirée | Journée & soirée |
+| Soirée   | /   | Soirée   | /   | Soirée   | Journée & soirée | / |
   </Column>
 </Columns>
 
