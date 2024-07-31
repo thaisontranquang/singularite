@@ -114,10 +114,10 @@ const config = {
             items: [
               {
                 label: 'Forum',
-                href: '/',
+                href: "https://singularite.forumactif.com/",
               },
               {
-                label: 'Discord',
+                label: 'Discord (disponible le 08/08)',
                 href: '/',
               },
             ],
