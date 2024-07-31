@@ -100,7 +100,7 @@ const config = {
             label: 'Intrigues',
           },
           {
-            href: '/',
+            href: 'https://singularite.forumactif.com/',
             label: 'Retourner au forum',
             position: 'right',
           },
