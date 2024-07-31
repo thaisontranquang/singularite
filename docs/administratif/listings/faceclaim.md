@@ -3,6 +3,9 @@ sidebar_position: 1
 ---
 
 # Faceclaim
+:::info
+Prenez directement contact avec une personne de l’équipe pour toute demande de réservation.
+:::
 
 ## A
 
@@ -19,8 +22,6 @@ sidebar_position: 1
 - Dr Ratio, Honkai Star Rail - *Réservé*
 
 ## E
-
-- Eirene, Path to Nowhere - *Réservé*
 
 ## F
 
@@ -40,7 +41,7 @@ sidebar_position: 1
 
 ## L
 
-- Langley, Path to Nowhere - *Réservé*
+- Langley, Path to Nowhere - *Réservée*
 - Luffy, One Piece — Nine
 
 ## M
