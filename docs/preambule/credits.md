@@ -27,7 +27,7 @@ All images on the forum are used only for non-commercial purposes and with full 
 
 掲示板で使用されている画像は、商業目的ではなく、著作権を尊重して使用されています。画像やコンテンツの使用について懸念がある場合は、管理チームにご連絡ください。ご対応いたします。
 
-Mail : [Nous contacter](singularite.forum@gmail.com)
+Mail : singularite.forum@gmail.com
 
 - Image de bannière : [Compte twitter @Jyusan99](https://x.com/Jyusan99)
 - Images d’illustration des catégories : [Compte twitter @ying0yi](https://x.com/ying0yi), illustrations officielles en provenance de Reverse:1999, Arknights et Path to Nowhere.
