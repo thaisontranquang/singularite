@@ -20,8 +20,8 @@ La grande majorité des civil·es a une connaissance très sommaire des Lignées
 :::info
 - Les Éclats ne cherchent pas à échapper à la vue de la population, qui les voit comme un collectif de passionné·es de la scène, tant artistique que martiale.
 - L’existence des Équilibres n’est pas divulguée publiquement, la population ne devant pas prendre conscience que la majorité de sa caste politique émane de ce groupe.
-- La population considère les Parangons comme une institution prestigieuse destinée à honorer l'élite intellectuelle de l'Arceau, sans réaliser qu'ils bénéficient de privilèges qui vont bien au-delà des simples cérémonies de remise de prix.
-- Les membres de la Rédemption sont officiellement affiliés au culte de Bashnör et sont donc perçus comme une assemblée religieuse sectaire.
+- La population considère les Parangons comme une institution prestigieuse destinée à honorer l'élite intellectuelle de l'Arceau, sans réaliser qu'iels bénéficient de privilèges qui vont bien au-delà des simples cérémonies de remise de prix.
+- Les membres de la Rédemption sont officiellement affilié·es au culte de Bashnör et sont donc perçu·es comme une assemblée religieuse sectaire.
 - Évoluant dans l'ombre et sans jamais se nommer, la Lignée des Volontés maintient la population dans l'ignorance de sa mainmise sur la majorité des aspects économiques de la cité.
 :::
 

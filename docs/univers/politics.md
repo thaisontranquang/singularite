@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Gouvernance et factions
 
-![Vie en société](/img/univers/societe.png)
+![Gouvernance](/img/univers/gouvernance.png)
 
 ## Gouvernement
 

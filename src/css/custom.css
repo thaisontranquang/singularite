@@ -88,3 +88,84 @@ h3 {
 img {
   border-radius: 20px;
 }
+
+.heart-container .heart {
+  height: 90px;
+  position: relative;
+  width: 100px;
+}
+
+.heart-container {
+  --mood: red;
+  --mood-speed: 4s;
+
+  display: flex;
+  justify-content: center;
+}
+
+.heart-container .heart:before,
+.heart-container .heart:after {
+  background: var(--mood);
+  border-radius: 50px 50px 0 0;
+  content: "";
+  height: 80px;
+  left: 50px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-45deg);
+  transform-origin: 0 100%;
+  width: 50px;
+  -moz-border-radius: 50px 50px 0 0;
+  -moz-transform: rotate(-45deg);
+  -moz-transform-origin: 0 100%;
+  -ms-transform: rotate(-45deg);
+  -ms-transform-origin: 0 100%;
+  -o-transform: rotate(-45deg);
+  -o-transform-origin: 0 100%;
+  -webkit-transform: rotate(-45deg);
+  -webkit-transform-origin: 0 100%;
+}
+
+.heart-container .heart:after {
+  left: 0;
+  transform: rotate(45deg);
+  transform-origin: 100% 100%;
+  -webkit-transform: rotate(45deg);
+  -webkit-transform-origin: 100% 100%;
+  -moz-transform: rotate(45deg);
+  -moz-transform-origin: 100% 100%;
+  -ms-transform: rotate(45deg);
+  -ms-transform-origin: 100% 100%;
+  -o-transform: rotate(45deg);
+  -o-transform-origin: 100% 100%;
+}
+
+.heart-container svg.heart-rate {
+  color: white;
+  fill: currentColor;
+  left: 213%;
+  position: absolute;
+  top: 5%;
+  transform: translate(-50%, -50%) scale(0.85);
+  z-index: 999;
+}
+
+.heart-container path {
+  animation: dash var(--mood-speed) linear infinite;
+  stroke-dasharray: 500;
+  stroke-dashoffset: 500;
+}
+
+@keyframes dash {
+  0% {
+    stroke-dashoffset: 500;
+  }
+
+  50% {
+    stroke-dashoffset: 0;
+  }
+
+  100% {
+    stroke-dashoffset: -500;
+  }
+}
