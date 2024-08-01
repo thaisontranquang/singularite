@@ -23,8 +23,8 @@ Période de paix prolongée qui conduira l’Arceau à un stade d’autosuffisan
 
 - Premières expéditions dans la Mer d’Albâtre.
 - Découverte de la Vivianite.
-- Création de la Vivia, monnaie de l'Arceau.
-- Attaque du premier Aurus, surnommé "La Mort" & cessation de toute activité dans la Mer d'Albâtre
+- Création de la Vivia, monnaie de l’Arceau.
+- Attaque du premier Aurus, surnommé « La Mort » & cessation de toute activité dans la Mer d’Albâtre.
 
 </TimelineItem>
 

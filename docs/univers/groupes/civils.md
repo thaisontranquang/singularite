@@ -16,10 +16,10 @@ Jouer un personnage civil peut être idéal si vous ne souhaitez pas vous invest
 
 ## Fonctionnement
 
-Les civil·es n'ont pas de fonctionnement en tant qu'entité puisqu'iels ne font pas partie d'un groupe organisé comme peuvent l'être les autres Lignées.
+Les civil·es n'ont pas de fonctionnement en tant qu'entité puisqu'iels ne font pas partie d'un groupe organisé comme peuvent l'être les autres Lignées. Des membres de la population, tirés au sort, peuvent être appelés à constituer un jury populaire pour prendre part aux délibérations sur des questions politiques majeures.
 
-:::tip[TLDR]
+:::tip[TL;DR]
 
-Les Civil·es sont le groupe majoritaire de l'Arceau mais ne connaissent pour la plupart pas les Lignées.
+Les Civil·es sont le groupe majoritaire de l'Arceau mais ne connaissent pas réellement le fonctionnement des Lignées.
 
 :::

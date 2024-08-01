@@ -76,7 +76,7 @@ Non, mais certaines archives d’expédition rapportent qu’on peut chuter au t
 
 Pour nous simplifier la vie, la langue de l’Arceau peut être considérée comme étant du français (sans évidemment en porter le nom) avec les mêmes règles linguistiques (tutoiement et vouvoiement, grammaire, conjugaison, signes diacritiques). Les sonorités dans notre imaginaire se rapprochent davantage de celle de la langue du Chaos inventée par Emi Evans (mais, encore une fois, c’est du bonus — on ne vous demandera pas de la parler).
 
-[Vidéo youtube](https://www.youtube.com/watch?v=26R8mn7HNCM&t=104s)
+[Vidéo Youtube](https://www.youtube.com/watch?v=26R8mn7HNCM&t=104s)
 
 ## Autre
 
