@@ -21,9 +21,9 @@ Co-fondatrice et chargée de JavaScript (tout du moins jusqu’à la rupture in�
 
 ### Emploi du temps
 
-| Lu  | Ma  | Mer | Je  | Ven | Sam              | Dim              |
-| --- | --- | --- | --- | --- | ---------------- | ---------------- |
-| Soirée   | /   | Soirée   | /   | Soirée   | Journée & soirée | / |
+| Lun  | Mar  | Mer | Jeu  | Ven | Sam | Dim |
+| --- | --- | --- | --- | --- | --- | --- |
+| ✅   | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ |
   </Column>
 </Columns>
 
@@ -44,9 +44,9 @@ Co-fondateur à l’origine de tout, graphiste, développeur, maquettiste, réda
 
 ### Emploi du temps
 
-| Lu  | Ma  | Mer | Je  | Ven | Sam              | Dim              |
-| --- | --- | --- | --- | --- | ---------------- | ---------------- |
-| /   | /   | /   | /   | /   | Journée & soirée | Journée & soirée |
+| Lun  | Mar  | Mer | Jeu  | Ven | Sam | Dim |
+| --- | --- | --- | --- | --- | --- | --- |
+| ❌  | ✅ | ❌ | ✅  | ❌  | ✅ | ❌ |
 
   </Column>
 </Columns>
