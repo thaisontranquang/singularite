@@ -2,24 +2,23 @@
 sidebar_position: 3
 ---
 
-# Vie en société
+# Infrastructures et technologies
 
 ![Vie en société](/img/univers/societe.png)
 
-## Gouvernement
+## Architecture et esthétique
 
-L’Arceau repose sur un système de démocratie semi-représentative, où les citoyen·nes désignent un responsable tous les 10 ans à la suite de campagnes âprement disputées. Lae président·e est en charge de l’administration de l’Arceau, plus spécifiquement de s’assurer de sa stabilité, et de l’organisation éclairée de référendums dits d’initiative citoyenne — en servant de liaison entre le peuple et les diverses figures de pouvoir qui se partagent les nombreuses charges liées à la vie au sein de l’Arceau (défense et sécurité, infrastructure et bâtiments, éducation et culture, soins et bien-être, environnement et ressources, etc.).
+Ville marquée par des vagues successives d’innovations, l’Arceau présente une architecture complexe en fonction du secteur où l’on se trouve, mais on retrouve généralement des motifs similaires à travers tout le domaine : des constructions claires aux façades élégantes, un attachement aux formes géométriques, l’intégration de la végétation dans les toits et les murs des édifices et la présence répétée d’arches sous diverses formes (ponts en arche, entrées en arche, etc.).
 
-[![Organigramme du gouvernement](/img/univers/organigramme.png)](/img/univers/organigramme.png)
+Les quartiers en périphérie exploitent davantage des matériaux composites plus modernes, comme les métaux légers ou le verre renforcé, plutôt que la pierre de taille ou le marbre. Dans les deux cas, les bâtiments et les espaces publics se sont progressivement pourvus d’éclairages intelligents avec les derniers soubresauts technologiques, et la plupart des structures érigées au cours des décennies passées disposent de façades interactives capables de changer de couleur ou d’affichage en fonction des événements ou des préférences des occupants.
 
-## Les Lignées
-
-L’Arceau se compose aujourd’hui de cinq grandes Lignées, ou maisons, qui coexistent au sein du territoire et s’allient dans la gestion des différents domaines de la vie en communauté. Elles existent en réalité depuis toujours dans des formes diverses ou sous des noms différents.
-Les objectifs des Lignées ne sont pas clairement définis ou connus du grand public (parfois même de leurs propres adhérent·es), qui pour la grande majorité d’entre elleux n’ont déjà pas connaissance de leurs influences véritables dans les sphères du pouvoir.
+:::info
+Les descriptions et visuels des sous-forums vous aideront à mieux cerner l’ambiance de chaque lieu.
+:::
 
 ## La technologie
 
-Le niveau technologique de l’Arceau s’aligne globalement sur les avancées technologiques de notre siècle, à l’exception notable de l’automobile quasiment absente, le tramway électrique demeurant le principal système de transport public (ainsi que ses propres jambes). La ville utilise essentiellement des énergies renouvelables et des panneaux solaires depuis la transition opérée au cours du dernier siècle sous les directives des Parangons pour subvenir à ses besoins énergétiques.
+Le niveau technologique de l’Arceau s’aligne globalement sur les avancées technologiques de notre siècle, à l’exception notable de l’automobile quasiment absente, le tramway électrique demeurant le principal système de transport public (avec la marche). La ville utilise essentiellement des énergies renouvelables et des panneaux solaires depuis la transition opérée au cours du dernier siècle sous les directives des Parangons pour subvenir à ses besoins énergétiques.
 
 Depuis toujours, l'Arceau dépend de technologies souterraines extrêmement onéreuses pour accélérer le transport des vivres et des ressources à travers l’île, et pour le développement de son industrie agroalimentaire souterraine (à l’abri des intempéries et des contraintes météorologiques de la surface).
 
@@ -29,11 +28,12 @@ Le divertissement occupe une position importante dans le quotidien des habitant�
 
 D’autres technologies notables incluent la surveillance par caméras, la biométrie, les drones de surveillance, les robots domestiques équipés d’intelligence artificielle sommaire, les sites de commerce électronique et même l’existence d’un dark web.
 
-:::tip[TLDR]
+Les forces armées privilégient l'utilisation d'armes blanches en raison de la complexité et du coût élevé de la fabrication des armes à feu. Par conséquent, les épées, lances, dagues et autres armes de mêlée sont couramment employées dans les combats.
 
-- L'Arceau est gouverné par un président élu tous les 10 ans.
-- Il existe cinq Lignées qui influencent secrètement la gestion des différents aspects de la vie communautaire, bien que leurs objectifs restent largement inconnus du public.
-- La technologie est moderne, aLignée sur les avancées de notre siècle mais met un accent sur les énergies renouvelables.
+:::tip[TL;DR]
+
+- L'esthétique de l'Arceau est un mélange inspiré de l'art déco moderne et de l'architecture contemporaine.
+- La technologie est moderne, alignée sur les avancées de notre siècle avec un accent sur les énergies renouvelables.
 - L'industrie agroalimentaire se fait de manière souterraine.
 - L'Arceau a recours à un usage intensif des technologies de divertissement et de surveillance.
 
