@@ -7,19 +7,24 @@ sidebar_position: 2
 Nous nous permettons de réunir sous la même appellation des métiers similaires (ex. agent·e de sécurité pour agent·e de sécurité, garde du corps, garde rapprochée, etc.)
 :::
 
-## Agriculture - Paysage
+## A
 
-## Alimentation - Agroalimentaire
+## B
 
-## Animaux
+## C
 
-## Architecture - Décoration
+## D
 
-## Armée - Sécurité - Secours
+- Dirigeante de la Lignée des Éclats : Andraste (PNJ)
+- Dirigeant de la Lignée des Équilibres : Gabriel (PNJ)
+- Dirigeante de la Lignée des Parangons : Eleane (PNJ)
+- Dirigeante de la Lignée des Volontés : Frya (PNJ)
 
-## Artisanat d'art - Design - Mode
+## E
 
-## Banque - Finance - Assurance
+## F
+
+## G
 
 ## H
 
@@ -42,6 +47,8 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 ## Q
 
 ## R
+
+- Représentante de la Lignée des Rédemptions : Rannie (PNJ)
 
 ## S
 
