@@ -49,7 +49,7 @@ Si vous souhaitez quitter le forum, n’hésitez pas à nous le communiquer via 
 
 ## Inscriptions
 
-- Si nous en ressentons le besoin, nous cloitrons les inscriptions pour éviter de nous surcharger.
+- Si nous en ressentons le besoin, nous fermerons les inscriptions pour éviter de nous surcharger.
 - Nous nous laissons la liberté de gérer leur fonctionnement suivant ce qui nous semble le plus supportable en charge de travail.
 - À l’inscription, enregistrez votre compte sous un **pseudonyme** ou un **prénom**.
 
