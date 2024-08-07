@@ -22,25 +22,25 @@ Cette mer mortelle est également à l’origine des contes que l’on raconte a
 
 ## Climats et saisons
 
-<Tabs>   
+<Tabs>
     <TabItem value="hiver" label="Hiver">
 Une période de froid variable selon les années. Il arrive que certaines températures atteignent les 0 degré pour les années les plus rudes. Un hiver est considéré comme doux lorsque les températures basses sont de 20 °C. Durant cette période, les journées sont très longues, ne laissant la place aux deux lunes que quelques heures durant la nuit.
-    </TabItem>   
+    </TabItem>
     <TabItem value="printemps" label="Printemps">
 Une saison durant laquelle les arbres sont en fleurs. Les températures sont beaucoup plus douces qu’en hiver et avoisinent les 25 à 40 °C.
-    </TabItem>   
+    </TabItem>
     <TabItem value="ete" label="Été">
 Une période extrêmement chaude avec des températures suffocantes pouvant grimper jusqu’à 65 °C. Les journées sont généralement très courtes et le rythme de vie de l’Arceau est inversé : toutes les activités se font de nuit pour profiter des températures plus tendres. Les habitant·es de l’île optent donc pour un mode de vie nocturne au premier jour du mois de mai et jusqu’au premier du mois de juillet.
-    </TabItem>     
+    </TabItem>
     <TabItem value="mousson" label="Mousson">
 Faisant suite à l’été, la mousson est une période avec des températures autour de 40 °C, mais avec un taux d’humidité extrême. L’air est souvent écrasant et la pluie n’a de cesse de s’abattre sur l’île. Souvent, ce voile de pluie empêche de voir devant soi et cause (de temps à autre) des inondations dans les plus bas quartiers de la ville.
-    </TabItem>     
+    </TabItem>
     <TabItem value="automne" label="Automne">
 Semblable au printemps, l’automne marque la fin des conséquentes chaleurs de l’été et de la mousson. Les températures retombent à des niveaux proches du printemps et les arbres se fardent d’un camaïeu orange pour se préparer au soleil de minuit. L’automne est la saison la plus appréciée par les Arcéen·nes.
-    </TabItem>       
+    </TabItem>
     <TabItem value="soleil" label="Soleil de minuit">
 Durant cette saison, le soleil ne se couche plus. Les teintes du ciel oscillent entre celles de l’aube et du crépuscule, parsemant le monde de couleurs uniques et fluctuantes selon les heures de la journée. C’est aussi durant cette période que l’on peut apercevoir dans le ciel des aurores nordiques : des vagues dansantes dans le ciel aux couleurs bleutées.
-    </TabItem> 
+    </TabItem>
 </Tabs>
 
 :::tip[TL;DR]
@@ -48,6 +48,6 @@ Durant cette saison, le soleil ne se couche plus. Les teintes du ciel oscillent 
 - L'Arceau est une île isolée du reste du monde.
 - Elle est entourée d'une mer de nuages, la Mer d'Albâtre, qui n'est plus explorable.
 - Le nom de l’île est éponyme de sa seule et unique ville. Certains parlent du domaine ou de la cité de l’Arceau pour la distinguer de l’île, si le contexte ne suffit pas.
-- Il existe 6 saisons dans notre monde. Pour connaître la saison actuelle, rendez-vous sur la dernière séquence : [www](/docs/intrigues/sequence-0/premices).
+- Il existe 6 saisons dans notre monde. Pour connaître la saison actuelle, rendez-vous sur la dernière séquence : [Lien dernière séquence](/docs/intrigues/sequence-0/premices).
 
 :::
