@@ -16,7 +16,7 @@ sidebar_position: 4
 ## Description
 
 Neutres, intègres, mais surtout d’une justesse et d’une équité inébranlables, les Équilibres sont des figures reconnues pour leur probité et un sérieux qui laisse rarement place à la légèreté ou à l’humour. Iels occupent des postes clés dans les principaux organes qui veillent au bon fonctionnement de la société (administration, justice, etc.), s’inscrivent avocat·es d’une justice équitable, harmonieuse et pragmatique.
-Contrairement à la Lignée des Rédemptions, qui se soumet aux instructions d’une Divinité dont la manifestation se fait attendre, les Équilibres privilégient une approche axée sur la responsabilité collective et le contrôle rigoureux de la population. Cette vision sensée est la raison principale de leur réélection fréquente aux postes présidentiels, où ils jouissent généralement d’une grande popularité.
+Contrairement à la Lignée des Rédemptions, qui se soumet aux instructions d’une Divinité dont la manifestation se fait attendre, les Équilibres privilégient une approche axée sur la responsabilité collective et le contrôle rigoureux de la population. Cette vision sensée est la raison principale de leur réélection fréquente aux postes présidentiels, où iels jouissent généralement d’une grande popularité.
 
 ## Fonctionnement
 

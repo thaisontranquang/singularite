@@ -6,7 +6,11 @@ sidebar_position: 4
 
 Ce forum est hébergé par la plateforme Forumactif et se conforme pleinement à son règlement général d’utilisation.
 
-Toutes les productions écrites et graphiques présentes sur le forum Singularité sont la propriété exclusive de l’équipe. Certains scripts utilisés sur le forum proviennent du [Forum des Forums](https://forum.forumactif.com/) tels que l’ajout de balises BBCode supplémentaires ; le reste est le fruit de notre travail. Les membres conservent la propriété de leurs contributions écrites même après la suppression de leur compte, peuvent en réclamer la suppression définitive ou la récupération. La reproduction, la distribution ou la modification de ces contenus sans autorisation des ayants droit est strictement interdite.
+Toutes les productions écrites et graphiques présentes sur le forum Singularité sont la propriété exclusive de l’équipe.
+
+Certains scripts utilisés sur le forum proviennent de sources diverses tels que l’ajout de balises BBCode supplémentaires ([Forum des Forums](https://forum.forumactif.com/)) ou bien le coeur des humeurs ([voir code sur stackoverflow](https://stackoverflow.com/questions/49446318/svg-animate-polyline-heartrate)) ; le reste est le fruit de notre travail. Les membres conservent la propriété de leurs contributions écrites même après la suppression de leur compte, peuvent en réclamer la suppression définitive ou la récupération. La reproduction, la distribution ou la modification de ces contenus sans autorisation des ayants droit est strictement interdite.
+
+# Inspirations
 
 Liste non exhaustive de nos sources d’inspirations et de nos références :
 
@@ -20,6 +24,8 @@ Liste non exhaustive de nos sources d’inspirations et de nos références :
 - Nasuverse (travaux de Type-Moon)
 - Les Absolus (roman)
 - Légendes & mythes divers
+
+# Images
 
 Toutes les images utilisées sur le forum sont utilisées exclusivement à des fins non commerciales et dans le respect scrupuleux des droits d’auteur. Si vous avez des préoccupations concernant quoique ce soit, n’hésitez pas à contacter l’équipe administrative pour que nous puissions agir.
 

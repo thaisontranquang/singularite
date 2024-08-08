@@ -18,7 +18,7 @@ Le spectacle horrifiant devant vous vous captive. Indépendamment de vos passés
 **Jouez l’étonnement, la stupeur ou l’effroi dans votre prochain message.**
 :::
 
-L’équipe restera très souple quant à ce qui est acceptable, l’idée étant simplement de parfois vous bousculer et de mettre vos personnages dans des situations où ils ne maîtrisent pas tout.
+L’équipe restera très souple quant à ce qui est acceptable, l’idée étant simplement de parfois vous bousculer et de mettre vos personnages dans des situations où iels ne maîtrisent pas tout.
 
 Autrement utilisée avec les personnages non jouables du forum, l’humeur est parfois indiquée dans l’entête d’un message pour guider vos interactions avec ces derniers. Elles ne sont pas forcément fiables, selon la compréhension par votre personnage de leurs attitudes.
 
