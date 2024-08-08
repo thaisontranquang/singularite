@@ -31,3 +31,7 @@ Mail : singularite.forum@gmail.com
 
 - Image de bannière : [Compte twitter @Jyusan99](https://x.com/Jyusan99)
 - Images d’illustration des catégories : [Compte twitter @ying0yi](https://x.com/ying0yi), illustrations officielles en provenance de Reverse:1999, Arknights et Path to Nowhere.
+
+# Remerciements
+
+Merci à Minhrae, Euthanazi & Fraup pour leur implication dans la création du guide en tant que bêta-lecteur·ices !
