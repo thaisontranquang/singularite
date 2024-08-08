@@ -39,6 +39,8 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## K
 
+- Kafka, Honkai Star Rail - *Réservée*
+
 ## L
 
 - Langley, Path to Nowhere - *Réservée*
