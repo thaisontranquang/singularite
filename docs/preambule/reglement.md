@@ -68,7 +68,7 @@ Si vous souhaitez quitter le forum, n’hésitez pas à nous le communiquer via 
 
 ### Avatar
 
-- Les avatars pour votre personnage devront être au format 250x320, et être une référence dessinée.
+- Les avatars pour votre personnage devront être au format 250x350, et être une référence dessinée.
 - Votre personnage peut avoir des modifications corporelles (par exemple des prothèses, etc.), mais ne peut pas posséder les caractéristiques biologiques d’autres espèces (oreilles de chat, ailes de corbeau, etc.). Cependant, pour simplifier les choses, les couleurs de cheveux et d’iris sont dans notre univers beaucoup plus diversifiées.
 - Si les images choisies sont considérées suggestives ou hypersexualisées, le staff se réserve le droit de refuser et de retirer immédiatement votre référence.
 - Nous interdisons totalement l’usage d’oeuvres originales (OC) appartenant à des artistes si celleux-ci n’ont pas donné leur autorisation explicite. L’utilisation d’images générées par IA est également interdite.
