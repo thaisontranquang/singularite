@@ -78,6 +78,10 @@ Pour nous simplifier la vie, la langue de l’Arceau peut être considérée com
 
 [Vidéo Youtube](https://www.youtube.com/watch?v=26R8mn7HNCM&t=104s)
 
+### Comment s'organise le système scolaire ?
+
+La scolarité est obligatoire sur l'Arceau —sauf pour les personnes malheureusement non déclarées, et suit un cursus en trois étapes : l'école, le collège puis le lycée. Il n'existe aucun diplôme à proprement parler, si ce n'est l'attestation de suivi de formation. Aucun diplôme supplémentaire n'est nécessaire pour accéder par la suite aux études supérieures, mais des tests d'entrée sont réalisés pour accéder aux formations des universités.
+
 ## Autre
 
 ### Je suis un expert dans un certain domaine d’études, et je peux affirmer avec certitude que ce que vous dites dans telle annexe de l’univers ne fait pas sens !
