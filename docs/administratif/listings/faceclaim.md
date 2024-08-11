@@ -63,6 +63,8 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 ## S
 
 - Sampo, Honkai Star Rail — *Réservé*
+- Stelle, Honkai Star Rail — Malieana
+- Suchan Jang, Jungle Juice — Zacharie
 - Sunday, Honkai Star Rail — Gabriel (PNJ)
 
 ## T

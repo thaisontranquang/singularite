@@ -11,7 +11,11 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## B
 
+- Barmaid au Fortuna : Malieana
+
 ## C
+
+- Coursier : Zacharie
 
 ## D
 
@@ -21,6 +25,8 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 - Dirigeante de la Lignée des Volontés : Frya (PNJ)
 
 ## E
+
+- Étudiante en Sciences Politiques : Malieana
 
 ## F
 
