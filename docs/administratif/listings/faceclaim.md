@@ -9,7 +9,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## A
 
-- Angell, Path to Nowhere - Ace
+- Angell, Path to Nowhere — Ace
 
 ## B
 
@@ -19,7 +19,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## D
 
-- Dr Ratio, Honkai Star Rail - *Réservé*
+- Dr Ratio, Honkai Star Rail — *Réservé*
 
 ## E
 
@@ -39,11 +39,11 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## K
 
-- Kafka, Honkai Star Rail - *Réservée*
+- Kafka, Honkai Star Rail — *Réservée*
 
 ## L
 
-- Langley, Path to Nowhere - *Réservée*
+- Langley, Path to Nowhere — *Réservée*
 - Luffy, One Piece — Alphée
 
 ## M

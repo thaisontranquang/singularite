@@ -11,22 +11,22 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## B
 
-- Barmaid au Fortuna : Malieana
+- Barmaid au Fortuna — Malieana
 
 ## C
 
-- Coursier : Zacharie
+- Coursier — Zacharie
 
 ## D
 
-- Dirigeante de la Lignée des Éclats : Andraste (PNJ)
-- Dirigeant de la Lignée des Équilibres : Gabriel (PNJ)
-- Dirigeante de la Lignée des Parangons : Eleane (PNJ)
-- Dirigeante de la Lignée des Volontés : Frya (PNJ)
+- Dirigeante de la Lignée des Éclats — Andraste (PNJ)
+- Dirigeant de la Lignée des Équilibres — Gabriel (PNJ)
+- Dirigeante de la Lignée des Parangons — Eleane (PNJ)
+- Dirigeante de la Lignée des Volontés — Frya (PNJ)
 
 ## E
 
-- Étudiante en Sciences Politiques : Malieana
+- Étudiante en Sciences Politiques — Malieana
 
 ## F
 
@@ -54,7 +54,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## R
 
-- Représentante de la Lignée des Rédemptions : Rannie (PNJ)
+- Représentante de la Lignée des Rédemptions — Rannie (PNJ)
 
 ## S
 
