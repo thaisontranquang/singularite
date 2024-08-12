@@ -26,8 +26,8 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 - Dirigeante de la Lignée des Parangons — Eleane (PNJ)
 - Dirigeante de la Lignée des Volontés — Frya (PNJ)
 
-- Doctorant — Alphée 
-- Drag Queen — Alphée 
+- Doctorant — Alphée
+- Drag Queen — Alphée
 
 ## E
 
