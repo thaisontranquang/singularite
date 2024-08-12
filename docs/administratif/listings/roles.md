@@ -36,6 +36,8 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## H
 
+- Historien — Alioth
+
 ## I
 
 ## J

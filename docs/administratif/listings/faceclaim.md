@@ -50,6 +50,9 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## M
 
+- Merlin, Fate/Series — Alioth
+
+
 ## N
 
 - Ningguang, Genshin Impact — Frya (PNJ)
