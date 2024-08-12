@@ -34,6 +34,8 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## G
 
+- Guitariste du groupe Steel Blue — Azur
+
 ## H
 
 - Historien — Alioth
@@ -47,6 +49,8 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 ## L
 
 ## M
+
+- Mannequin — Azur
     
 ## N
 
