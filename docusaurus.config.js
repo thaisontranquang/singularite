@@ -117,8 +117,8 @@ const config = {
                 href: "https://singularite.forumactif.com/",
               },
               {
-                label: 'Discord (disponible le 08/08)',
-                href: '/',
+                label: 'Discord',
+                href: 'https://discord.gg/BdwrjgZaph',
               },
             ],
           },
