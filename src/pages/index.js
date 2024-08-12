@@ -50,7 +50,7 @@ function HomepageHeader() {
               />
             </svg>
           </div>
-          <img src="https://i.ibb.co/XxgT66x/header-v2.png" alt="Bannière Singularité" />
+          <img src="https://i.ibb.co/XxgT66x/header-v2.png" alt="Bannière Singularité" class="dark-theme-banner"/>
         </section>
       </div>
     </header>
