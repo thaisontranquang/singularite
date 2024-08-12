@@ -13,6 +13,8 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## B
 
+- Blade, Honkai Star Rail — Set
+
 ## C
 
 - Columbina, Genshin Impact — Rannie (PNJ)

@@ -9,6 +9,8 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## A
 
+- Assistant social pénitentiaire — Set
+
 ## B
 
 - Barmaid au Fortuna — Malieana
