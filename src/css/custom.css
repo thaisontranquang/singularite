@@ -9,13 +9,13 @@
 @import './effect-material.css';
 
 :root {
-  --ifm-color-primary: #f6677c;
-  --ifm-color-primary-dark: #f44660;
-  --ifm-color-primary-darker: #f33651;
-  --ifm-color-primary-darkest: #e70e2e;
-  --ifm-color-primary-light: #f88898;
-  --ifm-color-primary-lighter: #f998a7;
-  --ifm-color-primary-lightest: #fccad1;
+  --ifm-color-primary: #2e8555;
+  --ifm-color-primary-dark: #29784c;
+  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-darkest: #205d3b;
+  --ifm-color-primary-light: #33925d;
+  --ifm-color-primary-lighter: #359962;
+  --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
