@@ -41,7 +41,7 @@ En dehors des créneaux indiqués, merci de ne pas solliciter le staff pour des 
 
 ### Absence
 
-En cas d’absence sur le forum entraînant une baisse d’activité certaine, merci de nous prévenir dans la partie concernée (www).
+En cas d’absence sur le forum entraînant une baisse d’activité certaine, merci de nous prévenir dans la partie concernée : [Lien des absences](https://singularite.forumactif.com/f62-absences).
 
 ### Départ
 
@@ -80,7 +80,7 @@ Si vous souhaitez quitter le forum, n’hésitez pas à nous le communiquer via 
 
 - Pas de minimum d’activité. En revanche, merci de nous signaler vos longues absences !
 - Plusieurs champs sont à remplir dans votre profil concernant votre type d’activité et votre disponibilité. Ils sont obligatoires, permettent à tout le monde de comprendre vos préférences de jeu, à quel point le staff peut compter sur vous pour orienter et développer des intrigues. Par exemple, si nous constatons que peu de personnes souhaitent s’investir dans ces dernières, nous adapterons notre modération en conséquence pour ne submerger personne !
-- Il est possible d’avoir plusieurs comptes. Les conditions pour avoir un nouveau compte se trouvent dans la boutique (www).
+- Il est possible d’avoir plusieurs comptes. Les conditions pour avoir un nouveau compte se trouvent dans la boutique : [Lien vers la page boutique](/docs/administratif/boutique.md).
 
 ### Écriture
 
