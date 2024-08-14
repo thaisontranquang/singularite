@@ -41,6 +41,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## H
 
+- Herboriste — Maggie
 - Historien — Alioth
 
 ## I
@@ -54,7 +55,8 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 ## M
 
 - Mannequin — Azur
-    
+- Marchande de poisons — Maggie
+
 ## N
 
 ## O

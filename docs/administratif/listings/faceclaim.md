@@ -10,6 +10,8 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 ## A
 
 - Angell, Path to Nowhere — Ace
+- Arrietty, Arrietty : Le Petit Monde des Chapardeurs — Maggie
+
 
 ## B
 
@@ -86,4 +88,5 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 ## Y
 
 - Yinlin, Wuthering Waves — *Réservée (jusqu'au 31/08)*
+
 ## Z
