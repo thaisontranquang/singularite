@@ -41,7 +41,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## K
 
-- Kafka, Honkai Star Rail — *Réservée*
+- Kafka, Honkai Star Rail — *Réservée (jusqu'au 31/08)*
 
 ## L
 
@@ -85,4 +85,5 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## Y
 
+- Yinlin, Wuthering Waves — *Réservée (jusqu'au 31/08)*
 ## Z
