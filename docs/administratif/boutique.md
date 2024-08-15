@@ -56,3 +56,4 @@ Les changements visuels et les demandes de reroll sont gratuits, mais à notre a
 ## Cet argent est-il lié à la condition sociale de mon personnage ?
 
 Non, absolument pas — c’est vous qui la déterminez, dans les grandes lignes, à la création de votre personnage. Nous considérons seulement que cette monnaie peut être le reflet d’une très grande participation dans la vie du forum, et nous aimerions vous récompenser passé un certain palier… mais vous en saurez plus dans le futur !
+
