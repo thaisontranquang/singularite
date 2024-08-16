@@ -8,7 +8,7 @@ Ce forum est hébergé par la plateforme Forumactif et se conforme pleinement à
 
 Toutes les productions écrites et graphiques présentes sur le forum Singularité sont la propriété exclusive de l’équipe.
 
-Certains scripts utilisés sur le forum proviennent de sources diverses tels que l’ajout de balises BBCode supplémentaires ([Forum des Forums](https://forum.forumactif.com/)) ou bien le coeur des humeurs ([voir code sur stackoverflow](https://stackoverflow.com/questions/49446318/svg-animate-polyline-heartrate)) ; le reste est le fruit de notre travail. Les membres conservent la propriété de leurs contributions écrites même après la suppression de leur compte, peuvent en réclamer la suppression définitive ou la récupération. La reproduction, la distribution ou la modification de ces contenus sans autorisation des ayants droit est strictement interdite.
+Certains scripts utilisés sur le forum proviennent de sources diverses tels que l’ajout de balises BBCode supplémentaires ([Forum des Forums](https://forum.forumactif.com/)), le coeur des humeurs ([voir code sur stackoverflow](https://stackoverflow.com/questions/49446318/svg-animate-polyline-heartrate)) ou bien la fonctionnalité de switch de thème ([par Monomer](https://blankthemerpg.forumactif.com/t77-edison)) ; le reste est le fruit de notre travail. Les membres conservent la propriété de leurs contributions écrites même après la suppression de leur compte, peuvent en réclamer la suppression définitive ou la récupération. La reproduction, la distribution ou la modification de ces contenus sans autorisation des ayants droit est strictement interdite.
 
 # Inspirations
 
