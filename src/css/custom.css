@@ -59,9 +59,11 @@
 }
 
 .hero img {
+  animation:float 6s ease-in-out infinite;
   max-width: 650px;
   position: relative;
   top: 14rem;
+  transform:translatey(0);
   width: 100%;
   z-index: 2;
 }
@@ -168,4 +170,10 @@ img {
   100% {
     stroke-dashoffset: -500;
   }
+}
+
+@keyframes float{
+  0%{transform:translatey(0)}
+  50%{transform:translatey(-20px)}
+  100%{transform:translatey(0)}
 }
