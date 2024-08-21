@@ -23,8 +23,6 @@ Aujourd’hui, Andraste est celle qui dirige d’une main de fer la lignée des 
 
 Les Éclats sont dirigé·es par le Conseil des Conducteurs, lui-même au service du·de la Champion·ne d’Ignisentus. N’importe quel·le individu·e est en mesure d’obtenir ce rôle, à condition de défier dans un affrontement mortel la personne dont le rôle est convoité.
 
-Aujourd’hui, Andraste est celle qui dirige d'une main de fer la lignée des Éclats. Cependant, c'est les membres du « Conseil des Conducteurs » qui exécutent sa volonté en supervisant les domaines clés de la Maison.
-
 ## Méthodes de recrutement
 
 À l’image de leur nom, les recruteur·euses des Éclats se rapprocheront promptement des personnalités flamboyantes — par le prestige de leur réputation ou la splendeur de leur force — pour les inciter à se joindre à elleux dans le culte du Dieu de la Flamme, Ignisentus, et d’approcher de la promesse de l’immortalité. On compte ainsi dans leurs rangs autant de combattant·es anonymes désireux·ses de s’illustrer que de célébrités faisant quotidiennement la une des journaux. La figure de la lignée elle-même est souvent confondue pour celle de l’administration du réseau des arènes réparties dans le quartier du divertissement de l’Arceau. Un grand nombre de leurs membres rejoignent donc les Éclats avec beaucoup de légèreté, en pensant qu’il s’agit simplement d’une association d’aficionado de beaux spectacles, où il est normal de régulièrement rendre service à son prochain par le don de soi.
