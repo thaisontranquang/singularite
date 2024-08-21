@@ -25,7 +25,6 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 - Dirigeant de la Lignée des Équilibres — Gabriel (PNJ)
 - Dirigeante de la Lignée des Parangons — Eleane (PNJ)
 - Dirigeante de la Lignée des Volontés — Frya (PNJ)
-
 - Doctorant — Alphée
 - Drag Queen — Alphée
 
