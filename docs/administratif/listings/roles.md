@@ -51,6 +51,8 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## L
 
+- Lieutenante de police — Ova
+
 ## M
 
 - Mannequin — Azur
