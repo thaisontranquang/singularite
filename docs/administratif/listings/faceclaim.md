@@ -44,8 +44,6 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## K
 
-- Kafka, Honkai Star Rail — *Réservée (jusqu'au 31/08)*
-
 ## L
 
 - Langley, Path to Nowhere — *Réservée*
@@ -89,7 +87,5 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 ## X
 
 ## Y
-
-- Yinlin, Wuthering Waves — *Réservée (jusqu'au 31/08)*
 
 ## Z
