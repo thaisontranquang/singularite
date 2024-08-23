@@ -9,6 +9,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## A
 
+- Ancien combattant des Arènes — Horizon
 - Assistant social pénitentiaire — Set
 
 ## B

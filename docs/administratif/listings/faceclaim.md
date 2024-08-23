@@ -82,6 +82,8 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## V
 
+- Vash, Trigun: Stampede — Horizon
+
 ## W
 
 ## X
