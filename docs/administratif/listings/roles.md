@@ -46,6 +46,8 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## I
 
+- Inquisitrice — Luzie
+
 ## J
 
 ## K
