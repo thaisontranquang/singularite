@@ -69,6 +69,8 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## R
 
+- Reze, Chainsaw Man — Josetta 
+
 ## S
 
 - Sampo, Honkai Star Rail — *Réservé*

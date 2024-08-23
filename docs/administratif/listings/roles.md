@@ -78,6 +78,8 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## V
 
+- Vendeuse chez Verchères — Josetta
+
 ## W
 
 ## X
