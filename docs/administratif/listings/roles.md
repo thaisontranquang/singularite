@@ -61,6 +61,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 - Mannequin — Azur
 - Marchande de poisons — Maggie
 - Médecin généraliste — Micaiah
+- Mineuse — Bill
 
 ## N
 

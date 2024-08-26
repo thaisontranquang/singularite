@@ -29,6 +29,8 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## E
 
+- Entrapta, She-Ra — Bill
+
 ## F
 
 ## G
@@ -53,7 +55,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## M
 
-- Makima, Chainsaw Man — Micaiah 
+- Makima, Chainsaw Man — Micaiah
 - Merlin, Fate/Series — Alioth
 
 ## N
@@ -68,7 +70,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## R
 
-- Reze, Chainsaw Man — Josetta 
+- Reze, Chainsaw Man — Josetta
 
 ## S
 
