@@ -33,6 +33,8 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## F
 
+- Franken Stein, Soul Eater — Frederick
+
 ## G
 
 ## H

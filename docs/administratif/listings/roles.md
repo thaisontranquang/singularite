@@ -18,6 +18,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## C
 
+- Chercheur en ingénierie spécialisé dans la Mer d'Albâtre — Frederick
 - Coursier — Zacharie
 
 ## D
@@ -26,7 +27,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 - Dirigeant de la Lignée des Équilibres — Gabriel (PNJ)
 - Dirigeante de la Lignée des Parangons — Eleane (PNJ)
 - Dirigeante de la Lignée des Volontés — Frya (PNJ)
-- Doctorant — Alphée
+- Doctorant en biologie — Alphée
 - Drag Queen — Alphée
 
 ## E
