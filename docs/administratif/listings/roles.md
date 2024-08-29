@@ -38,6 +38,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## G
 
+- Gestionnaire des finances à l'institut des chercheur·euses — Anastase
 - Guitariste du groupe Steel Blue — Azur
 
 ## H

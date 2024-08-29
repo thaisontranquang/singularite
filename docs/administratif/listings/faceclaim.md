@@ -40,6 +40,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 ## H
 
 - Himeko, Honkai Star Rail — Andraste (PNJ)
+- Hwang Hyun-jin — Anastase
 
 ## I
 
