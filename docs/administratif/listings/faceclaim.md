@@ -13,7 +13,6 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 - Arlecchino, Genshin Impact — Luzie
 - Arrietty, Arrietty : Le Petit Monde des Chapardeurs — Maggie
 
-
 ## B
 
 - Beidou, Genshin Impact — Ova
@@ -39,6 +38,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## H
 
+- Harry Dubois, Disco Elysium — Edgar 
 - Himeko, Honkai Star Rail — Andraste (PNJ)
 - Hwang Hyun-jin — Anastase
 
@@ -47,6 +47,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 ## J
 
 - Jade, Honkai Star Rail — Eleane (PNJ)
+- Jin, Xenoblade Chronicles 2 — Victorius
 
 ## K
 
