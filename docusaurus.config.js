@@ -33,23 +33,7 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-plugins: [
-  require.resolve('./plugins/faq-lunr-plugin'),
-  [
-    require.resolve('docusaurus-lunr-search'),
-    {
-      languages: ['en'], 
-      indexDocs: true,
-      indexPages: true,
-      customFields: [
-        {
-          name: 'faq',
-          index: true, 
-        },
-      ],
-    },
-  ],
-],
+  plugins: [require.resolve('docusaurus-lunr-search')],
   presets: [
     [
       'classic',
