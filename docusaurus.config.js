@@ -33,8 +33,19 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-  plugins: [require.resolve('docusaurus-lunr-search')],
-  presets: [
+  plugins: [
+    [
+      require.resolve('docusaurus-plugin-lunr'),
+      {
+        languages: ['en'], 
+        indexDocs: true,
+        indexBlog: false,
+        indexPages: false,
+        additionalFields: ['question', 'answer', 'categories', 'subjects'],
+        indexFaq: true,
+        data: require('./static/faqData.json'), 
+      },
+    ],  presets: [
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */

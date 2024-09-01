@@ -16,14 +16,14 @@ const FAQList = () => {
         setLoading(false);
       })
       .catch(error => {
-        console.error('Error fetching FAQ data:', error);
+        console.error('Erreur de récupération des données de la FAQ :', error);
         setError(error);
         setLoading(false);
       });
   }, []);
 
-  if (loading) return <p>Loading FAQs...</p>;
-  if (error) return <p>Error loading FAQs: {error.message}</p>;
+  if (loading) return <p>FAQ en cours de chargement...</p>;
+  if (error) return <p>Erreur de récupération des données de la FAQ : {error.message}</p>;
 
   const handleCategoryClick = (category) => {
     if (selectedCategories.includes(category)) {
@@ -59,7 +59,7 @@ const FAQList = () => {
     <div>
       <div className={styles.filters}>
         <div>
-          <h4>Categories</h4>
+          <h4>Catégories</h4>
 {["Création du personnage", "Fonctionnement du forum", "L'Arceau et la vie en société", "Lignées", "Univers"].map(category => (
             <button 
               key={category} 
