@@ -10,6 +10,7 @@ Le générateur vous permet également de sauvegarder votre fiche dans l’état
 
 :::info
 
+- Le modèle de fiche est obligatoire.
 - À compter de votre première apparition, vous avez **1 semaine** pour poster votre fiche, même incomplète, et **2 semaines** pour la terminer.
 - Votre fiche est à poster dans le [forum approprié](https://singularite.forumactif.com/f4-registre-des-personnages).
 - Un délai supplémentaire peut vous être accordé sur demande.

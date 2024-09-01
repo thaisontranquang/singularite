@@ -9,13 +9,13 @@
     "question": "Est-ce que je peux quitter une Lignée pour en rejoindre une autre ?",
     "answer": "Oui, mais cela ne sera pas sans conséquence… Et pour rejoindre une autre Lignée, il faut d’abord être repéré·e par cette dernière !",
     "categories": ["Création du personnage", "Lignées"],
-    "subjects": []
+    "subjects": ["Rédemptions", "Équilibres", "Parangons", "Éclats", "Volontés"]
   },
   {
     "question": "Est-il possible d’être infiltré·e au sein d’une Lignée tout en servant les intérêts d’une autre ? De me faire passer pour un·e civil·e ?",
     "answer": "Oui, venez nous parler de votre projet si vous avez ces envies ou des idées semblables.",
     "categories": ["Création du personnage", "Lignées"],
-    "subjects": []
+    "subjects": ["Rédemptions", "Équilibres", "Parangons", "Éclats", "Volontés"]
   },
   {
     "question": "Puis-je rejoindre l’aventure en qualité de simple civil·e et rejoindre une Lignée en cours de jeu ?",
@@ -39,24 +39,24 @@
     "question": "Est-ce que je peux vous proposer ma propre Lignée ?",
     "answer": "Non.",
     "categories": ["Création du personnage", "Lignées"],
-    "subjects": []
-  },    
+    "subjects": ["Divers"]
+  },
   {
     "question": "Quelles sont les discriminations que rencontrent le plus souvent les habitants de l’Arceau, si peu qu’elles soient ou existent ?",
     "answer": "Même si notre univers est un monde de fiction, et que les annexes entendent une certaine acceptation sur ces sujets, les concepts de minorités de genres, de religions, d’orientations sexuelles et de classes demeurent cependant en vigueur (validisme, hétérosexualité prédominante, cisidentité en norme sociale dominante, concentration des pouvoirs aux mains d'une élite riche et peu nombreuse, conflits de croyances portant sur des valeurs ou des philosophies, discrimination physique, etc.). Vous êtes libres de traiter de ces sujets au travers de vos personnages en les transposant à notre contexte, en vous disant qu’il existe forcément des esprits malintentionnés prompts au jugement et à l’animosité au sein de l’Arceau — nonobstant les lois et les discours politiques — et qu’une grande majorité des habitants restera globalement indifférente à ce qu'elle ne vit pas personnellement.",
-    "categories": ["L'Arceau et la vie en société", "Univers"],
-    "subjects": []
+    "categories": ["Univers"],
+    "subjects": ["Divers"]
   },
   {
     "question": "Le nom de l’« Arceau » correspond-il à celui l’île ou de la ville ?",
     "answer": "L’Arceau correspond à l’île entière, mais la ville en elle-même n’a jamais été nommée par les habitant·es : il n’en a toujours existé qu’une seule, après tout.",
-    "categories": ["L'Arceau et la vie en société", "Univers"],
-    "subjects": []
+    "categories": ["Univers"],
+    "subjects": ["Divers"]
   },
   {
     "question": "Qu’en est-il des armes à feu dans ce monde ?",
     "answer": "Il est possible de retrouver des armes à feu sur l'Arceau, mais celles-ci sont très compliquées à produire et à entretenir. Elles sont par conséquent très chères et très peu répandues. Les milicien·nes ne s'en servent d'ailleurs pas.",
-    "categories": ["L'Arceau et la vie en société", "Univers"],
+    "categories": ["Univers"],
     "subjects": ["Technologie"]
   },
   {
@@ -68,19 +68,19 @@
   {
     "question": "Y a-t-il des maladies au sein de l'Arceau ?",
     "answer": "Oui. Vous pouvez transposer les maladies communes de notre monde à cet univers. L’Arceau dispose d’une couverture médicale d’urgence pour ses habitant·es les plus démuni·es, mais les traitements dispendieux sont uniquement destinés à son élite.",
-    "categories": ["L'Arceau et la vie en société", "Univers"],
-    "subjects": []
+    "categories": ["Univers"],
+    "subjects": ["Divers"]
   },
   {
     "question": "Peut-on avoir des animaux de compagnie ?",
     "answer": "Le terme « de compagnie » n’existe pas à proprement parler au sein de l’Arceau, car le concept de propriété et d’entretien d’un animal est pour beaucoup un gâchis de ressources. En revanche, il arrive que des animaux (canins, félins, rongeurs, etc.) s’attachent à certains secteurs ou lieux de résidences et que les résident·es se lient naturellement d’amitié avec.",
-    "categories": ["L'Arceau et la vie en société", "Univers"],
-    "subjects": []
+    "categories": ["Univers"],
+    "subjects": ["Divers"]
   },
   {
     "question": "L’eau du robinet et des sources d’eaux de l’Arceau sont-elles adaptées à la consommation ?",
     "answer": "Par un miracle sans nom, oui. Vous pouvez même vous y baigner sans aucune crainte.",
-    "categories": ["L'Arceau et la vie en société", "Univers"],
+    "categories": ["Univers"],
     "subjects": ["Technologie"]
   },
   {
@@ -104,14 +104,14 @@
   {
     "question": "Comment s'organise le système scolaire ?",
     "answer": "La scolarité est obligatoire sur l'Arceau —sauf pour les personnes malheureusement non déclarées, et suit un cursus en trois étapes : l'école, le collège puis le lycée. Il n'existe aucun diplôme à proprement parler, si ce n'est l'attestation de suivi de formation. Aucun diplôme supplémentaire n'est nécessaire pour accéder par la suite aux études supérieures, mais des tests d'entrée sont réalisés pour accéder aux formations des universités.",
-    "categories": ["L'Arceau et la vie en société", "Univers"],
+    "categories": ["Univers"],
     "subjects": ["Éducation"]
   },
   {
     "question": "Je suis un expert dans un certain domaine d’études, et je peux affirmer avec certitude que ce que vous dites dans telle annexe de l’univers ne fait pas sens !",
     "answer": "Venez nous en parler si jamais vous pensez qu’il y a une aberration qui peut conduire à l’implosion du forum, mais sachez que l’histoire que nous voulons vivre avec vous n’implique probablement pas la faisabilité du système économique, agronomique, géographique, etc. de l’Arceau. (Déjà qu'on marche sur des nuages...)",
     "categories": ["Univers", "Fonctionnement du forum"],
-    "subjects": []
+    "subjects": ["Divers"]
   },
   {
     "question": "Quelle justification pour des noms de personnage dont les origines sont très diverses dans la vraie vie ?",
@@ -129,54 +129,48 @@
     "question": "J’ai des Trigger Warnings que je ne souhaite pas partager publiquement ou partager tout court. Puis-je demander à être spoilé·e en avance du contenu d’un événement pour m’éviter des déconvenues ?",
     "answer": "Bien sûr ! Prévenez-nous si vous en ressentez le besoin. Nous ne vous spoilerons pas l’entièreté de l’intrigue, mais nous pouvons vous avertir des thèmes généraux qui pourraient être traités.",
     "categories": ["Fonctionnement du forum"],
-    "subjects": []
+    "subjects": ["Divers"]
   },
   {
     "question": "J’ai une idée incroyable de fonctionnalité/système de jeu pour le forum, je peux vous la proposer ?",
     "answer": "N’hésitez pas à proposer toute idée un peu folle et compliquée à Riseha. Elle se fera un plaisir de la développer en y ajoutant plein de fonctionnalités annexes et gadgets (sous condition de validation de Sonylle).",
     "categories": ["Fonctionnement du forum"],
-    "subjects": []
+    "subjects": ["Divers"]
   },
   {
     "question": "Mon profil / mon code, etc. est bugué, qui dois-je contacter ?",
     "answer": "S’il s’agit de problèmes visuels (donc HTML, CSS) ou du DysCord, vous pouvez contacter Sonylle. S’il s’agit du fonctionnement pur et dur, vous pouvez demander à Riseha !",
     "categories": ["Fonctionnement du forum"],
-    "subjects": []
+    "subjects": ["Divers"]
   },
   {
     "question": "Quelles sont les conditions de vie des travailleur·euses dans les souterrains de l'Arceau ? Est-ce une zone de pauvreté ?",
     "answer": "Les conditions de vie dans les souterrains de l’Arceau sont assez difficiles. Les opportunités sont limitées, pour ne pas dire inexistantes, l’éducation est rudimentaire avec une priorité mise sur du savoir-faire manuel, les logements sont sommaires, même si un fort esprit communautaire permet généralement de connaître une certaine forme d’épanouissement. Par rapport à la surface, on pourrait donc dire que c’est une zone pauvre, mais il n’y a pas de pénuries majeures dans l’ensemble de l’Arceau — la vie y est juste plus austère.",
-    "categories": ["L'Arceau et la vie en société", "Univers"],
+    "categories": ["Univers"],
     "subjects": ["Souterrains de l'Arceau"]
-  },
-  {
-    "question": "En dehors du scénario de l’Enterré·e, puis-je faire un personnage venant des souterrains de l’Arceau ?",
-    "answer": "Non, cette origine est spécifiquement réservée à ce scénario !",
-    "categories": ["Création du personnage"],
-    "subjects": []
   },
   {
     "question": "À quel groupe d'âge s'adresse le Collégium / l'Institut de la Conduction ?",
     "answer": "Ces institutions se destinent à de jeunes adultes d’au moins dix-huit ans.",
-    "categories": ["L'Arceau et la vie en société", "Univers"],
+    "categories": ["Univers"],
     "subjects": ["Éducation"]
   },
   {
     "question": "Est-ce que le Collégium / l'Institut de la Conduction équivaut à un système scolaire spécifique que nous connaissons, comme l'université ?",
     "answer": "Oui, elles correspondent globalement à des facultés / des universités.",
-    "categories": ["L'Arceau et la vie en société", "Univers"],
+    "categories": ["Univers"],
     "subjects": ["Éducation"]
   },
   {
     "question": "Quels domaines d'études sont proposés au sein du Collégium / de l'Institut de la Conduction ?",
     "answer": "Le Collégium couvre tous les domaines académiques et intellectuels, des sciences formelles aux sciences humaines et sociales. L’Institut de la Conduction dispense des programmes plus axés sur les compétences physiques.",
-    "categories": ["L'Arceau et la vie en société", "Univers"],
+    "categories": ["Univers"],
     "subjects": ["Éducation"]
   },
   {
     "question": "Qui est en charge du domaine de l’agriculture au sein de l’Arceau ?",
     "answer": "L'enseignement de l'agriculture est compris dans les programmes du Collégium Arcana. En ce qui concerne les entreprises et les activités économiques liées à l'agriculture, la gestion et les décisions sont confiées à leurs propriétaires ou dirigeant·es respectif·ves. En revanche, l'agriculture souterraine, qui assure la majorité des ressources agricoles nécessaires à la survie de l'Arceau, est supervisée par les Parangons.",
-    "categories": ["L'Arceau et la vie en société", "Lignées", "Univers"],
+    "categories": ["Lignées", "Univers"],
     "subjects": ["Éducation", "Parangons"]
   },
   {
@@ -196,14 +190,113 @@
     "answer": "Nous pouvons l’activer pour vous si vous pouvez nous prévenir depuis le Discord ! Alternativement, vous pouvez également nous envoyer un e-mail à l’adresse fournie sur la page des crédits du forum.",
     "categories": ["Fonctionnement du forum"],
     "subjects": ["Compte"]
+  },
+  {
+    "question": "Il y a-t-il une hiérarchie dans chaque Lignée ?",
+    "answer": "Effectivement, chaque lignée possède ses propres hiérarchies. Nous ne les avons pas forcément détaillées dans le guide, car elles restent assez verticales et, mis à part les cercles proches des dirigeant.es, elles suivent un schéma plutôt classique. Il est probable que plus le rôle de votre personnage dans l'Arceau est important, plus celui qu'iel détient au sein de ta Lignée l'est également, ou vice-versa, mais des exceptions sont imaginables...",
+    "categories": ["Lignées"],
+    "subjects": ["Éclats", "Parangons", "Rédemptions", "Volontés", "Équilibres"]
+  },
+  {
+    "question": "Est-ce que dans les contes et légendes nous savons si l'Arceau a toujours été entouré de cette mer de nuage ?",
+    "answer": "Toujours, effectivement. Vos personnages n’ont toujours connu que cette curieuse étendue et les contes et légendes n'abordent jamais directement le sujet. Vos personnages n’ont même pas le concept d’une mer telle que nous l'entendons : pour elleux une mer est forcément constituée de nuages. Ce serait absurde qu’elle soit d’eau.",
+    "categories": ["Univers"],
+    "subjects": ["Mer d'Albâtre"]
+  },
+  {
+    "question": "Y a-t-il déjà eu des contacts avec le reste du monde ?",
+    "answer": "Le « reste du monde » n’est pas un concept entendable pour vos personnages. Peut-être peuvent-iels théoriser dessus, imaginer qu’il y a quelque chose au-delà, mais c’est de l’ordre de la croyance. Cependant, unee Parangon bien placé·e pourrait peut-être mener une enquête !",
+    "categories": ["Univers"],
+    "subjects": ["Divers"]
+  },
+  {
+    "question": "Le calendrier utilisé sur Singularité est-il le même que celui IRL ?",
+    "answer": "Oui ! C’est le même, jusqu'aux signes astrologiques, etc. (à noter que notre monde est entouré de deux lunes, c'est la seule distinction à faire sur ce sujet si vous deviez essayer de l'interpréter dans vos écrits) ! Considérez qu’une saison comprend 2 mois (pour 6 saisons) et que l’hiver commence en janvier.",
+    "categories": ["Univers"],
+    "subjects": ["Divers"]
+  },
+  {
+    "question": "Les Rédemptions pensent que l'humanité doit restée confinée, mais pourquoi ?",
+    "answer": "Selon les Rédemptions, l’humanité a péché. Un ensemble de mauvaises décisions aurait conduit à la mort d’un innocent. Les Rédemptions pensent donc qu'iels ont un devoir de pardon éternel envers la figure de Bäshnor. Il existe de nombreuses interprétations de ce mythe, mais il s'agit de celle qui convainc le plus de personnes.",
+    "categories": ["Lignées"],
+    "subjects": ["Rédemptions"]
+  },
+  {
+    "question": "Comment une nouvelle Voix est-elle choisie ?",
+    "answer": "Pour être une Voix, il faut pouvoir être perçue comme une femme assez jeune et être considérée belle par ses pairs, et avoir... une jolie voix. Il s'agit donc de caractéristiques très subjectives. Rannie est l'actuelle Voix mais il faut imaginer qu'elle possède plusieurs remplaçantes dans l'ombre. On peut choisir une nouvelle Voix au décès de la précédente, mais la passation peut également se faire en toute douceur si l'ancienne Voix souhaite se consacrer à d'autres aspects de la Lignée (c'est aussi encouragé de souvent changer, pour éviter d'avoir la même représentante trop longtemps).",
+    "categories": ["Lignées"],
+    "subjects": ["Rédemptions"]
+  },
+  {
+    "question": "Il y a une raison pour laquelle la Voix est une femme ?",
+    "answer": "La première Voix était une femme, c'est une tradition qui s'est ensuite perpétuée.",
+    "categories": ["Lignées"],
+    "subjects": ["Rédemptions"]
+  },
+  {
+    "question": "Il y a un habit traditionnel pour les Rédemptions ?",
+    "answer": "Les Rédemptions ont des tenues normales au quotidien ! En revanche dès qu’iels se retrouvent dans leur repère, iels se doivent de revêtir leur cape noire et leur robe vert foncé.",
+    "categories": ["Lignées"],
+    "subjects": ["Rédemptions"]
+  },
+  {
+    "question": "Est-ce qu'un suivi de formation est demandé pour passer les examens d'entrée aux études supérieures ?",
+    "answer": "Le cursus scolaire est obligatoire mais la réussite ne l’est pas ! Il appartient à chaque habitant.e de l’Arceau de se donner les moyens ou non de réussir. L'attestation est donc simplement un document qui dit que votre personnage a suivi le cursus scolaire minimum. Pour les examens d’entrée dans les facultés il suffit donc de les réussir. À noter qu'il y des disparités selon les milieus sociaux.",
+    "categories": ["L'Arceau et la vie en société"],
+    "subjects": ["Éducation"]
+  },
+  {
+    "question": "Quelle est la moyenne d'âge de l'Arceau ?",
+    "answer": "S'il n'y a pas de statistiques officielles, on peut estimer que la population de l'Arceau est plutôt jeune, avec une moyenne d'âge autour de 35/40 ans. Il est d'ailleurs assez rare qu'un individu dépasse l'âge de 70/80 ans.",
+    "categories": ["L'Arceau et la vie en société"],
+    "subjects": ["Divers"]
+  },
+  {
+    "question": "Est-ce que les Lignées ont des quartiers d'habitation de prédilections ?",
+    "answer": "Pas spécialement, pas spécifiquement ! Ca dépend surtout des classes sociales, des lieux de travail, etc. Par exemple : Veritas est effectivement davantage habité par les Parangons car c’est le lieu où iels font des expérimentations etc. Bellmoral a toutes les institutions publiques donc naturellement on retrouve beaucoup d’Équilibres. En finalité, cela s'organise de manière assez organique.",
+    "categories": ["Lignées"],
+    "subjects": ["Rédemptions", "Équilibres", "Parangons", "Éclats", "Volontés"]
+  },
+  {
+    "question": "Est-ce que les Lignées sont intouchables pour lae civil·e lambda ?",
+    "answer": "Les civil·es ne sont normalement même pas plus au courant que ça des Lignées. Pour elleux c’est un concept extrêmement vague/peu connu et pour celleux qui en savent plus, iels pensent qu'il s'agit de théories complotistes.",
+    "categories": ["Lignées"],
+    "subjects": ["Civils", "Rédemptions", "Équilibres", "Parangons", "Éclats", "Volontés"]
+  },
+  {
+    "question": "Comment se passe un recrutement de Lignée ?",
+    "answer": "Au moment de recruter un·e civil·e (ou un·e membre d'une autre Lignée), peu de choses sont énoncées. Si votre perosnnage civil refuse, il n'en saura finalement que toujours aussi peu sur les Lignées.",
+    "categories": ["Lignées"],
+    "subjects": ["Civils", "Rédemptions", "Équilibres", "Parangons", "Éclats", "Volontés"]
+  },
+  {
+    "question": "Qui était la prédécesseure de Gabriel au gouvernement ?",
+    "answer": "Il s'agit de Constance, elle-même faisant partie des Équilibres. Elle est décédée de mort naturelle.",
+    "categories": ["Univers", "Lignées"],
+    "subjects": ["Civils", "Équilibres"]
+  },
+  {
+    "question": "Comment s'équilibrent la Milice et la Police au sein de la ville ?",
+    "answer": "Ces deux groupes ont des missions bien distinctes. La Police s'occupe de tout l'aspect administratif, il s'agit du personnel dans les bureaux. La Milice, quant à elle, est sur le terrain, elle est en charge de la sécurité de la ville et est souvent entraînée et armée.",
+    "categories": ["L'Arceau et la vie en société"],
+    "subjects": ["Forces de l'ordre"]
+  },
+  {
+    "question": "Qu'advient-il des personnes décédées sur l'Arceau ?",
+    "answer": "Les corps sont envoyés dans la Mer d'Albâtre. On dit que quelqu'un·e a été emporté par les nuages lorsque vient l'heure du trépas",
+    "categories": ["L'Arceau et la vie en société"],
+    "subjects": ["Divers"]
+  },
+  {
+    "question": "L'envoi de drones dans la Mer d'Albâtre est-il autorisé/faisable ?",
+    "answer": "C'est plus ou moins autorisé (il s'agit surtout d'une zone grise légalement), mais cela ne donne jamais rien de concluant car les drones sont perdus, ou cassés. L'imagerie et les enregistrements audio ne sont d'ailleurs pas possibles pour des raisons qui échappent à tout le monde.",
+    "categories": ["Univers"],
+    "subjects": ["Mer d'Albâtre", "Technologie"]
+  },
+  {
+    "question": "Que donnent les observations du ciel de l'Arceau ? Y a-t-il des astres, etc ?",
+    "answer": "Il y a effectivement des astres visibles. On retrouve deux Lunes dont une qui est constamment dans le ciel, à toute heure de la journée ou de la nuit, et dont la position ne change jamais. On retrouve également un Soleil qui suit un cycle jour/nuit. Quant aux étoiles, il y en a mais elles ne sont visibles qu'en périphérie car la pollution de la ville est trop importante. De manière générale, n'oubliez pas que vos personnages évoluent sur une île et c'est absolument tout ce qu'iels ont jamais connu. Iels ne savent même pas ce qu'il y a au-delà de la Mer d'Albâtre. Gardez en tête que c'est inhabituel de penser à ce qu'il y au-delà du ciel dans la mesure où vous ne savez même pas ce qu'il y au-delà de l'Arceau !",
+    "categories": ["Univers"],
+    "subjects": ["Divers"]
   }
-    
-    
-    
-    
-    
-    
-    
-    
-    
 ]
