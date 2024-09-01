@@ -1,0 +1,209 @@
+[
+  {
+    "question": "Puis-je créer un personnage qui évolue en dehors de la ville elle-même ?",
+    "answer": "Bien sûr, à condition de faire preuve de cohérence. Votre personnage revient vraisemblablement en ville de temps à autre pour se ravitailler, commercer à son échelle, etc.",
+    "categories": ["Création du personnage"],
+    "subjects": ["Civils"]
+  },
+  {
+    "question": "Est-ce que je peux quitter une Lignée pour en rejoindre une autre ?",
+    "answer": "Oui, mais cela ne sera pas sans conséquence… Et pour rejoindre une autre Lignée, il faut d’abord être repéré·e par cette dernière !",
+    "categories": ["Création du personnage", "Lignées"],
+    "subjects": []
+  },
+  {
+    "question": "Est-il possible d’être infiltré·e au sein d’une Lignée tout en servant les intérêts d’une autre ? De me faire passer pour un·e civil·e ?",
+    "answer": "Oui, venez nous parler de votre projet si vous avez ces envies ou des idées semblables.",
+    "categories": ["Création du personnage", "Lignées"],
+    "subjects": []
+  },
+  {
+    "question": "Puis-je rejoindre l’aventure en qualité de simple civil·e et rejoindre une Lignée en cours de jeu ?",
+    "answer": "Oui, toute personne civile correspondant à des critères particuliers peut être contactée par les membres d’une Lignée. Peut-être devriez-vous rester à l’écoute des opportunités.",
+    "categories": ["Création du personnage", "Lignées"],
+    "subjects": ["Civils"]
+  },
+  {
+    "question": "Puis-je avoir un rôle important au sein de l’Arceau en étant un·e civil·e ?",
+    "answer": "De nombreux postes sont à pourvoir et nous sommes absolument ouvert·es à cette idée : proposez-nous !",
+    "categories": ["Création du personnage", "Lignées"],
+    "subjects": ["Civils"]
+  },
+  {
+    "question": "Si j’en fais la demande, est-ce que je peux avoir un lien préétabli et/ou important avec un PNJ ?",
+    "answer": "Bien sûr ! Encore une fois : proposez-nous ...",
+    "categories": ["Création du personnage", "Fonctionnement du forum"],
+    "subjects": ["PNJs"]
+  },
+  {
+    "question": "Est-ce que je peux vous proposer ma propre Lignée ?",
+    "answer": "Non.",
+    "categories": ["Création du personnage", "Lignées"],
+    "subjects": []
+  },    
+  {
+    "question": "Quelles sont les discriminations que rencontrent le plus souvent les habitants de l’Arceau, si peu qu’elles soient ou existent ?",
+    "answer": "Même si notre univers est un monde de fiction, et que les annexes entendent une certaine acceptation sur ces sujets, les concepts de minorités de genres, de religions, d’orientations sexuelles et de classes demeurent cependant en vigueur (validisme, hétérosexualité prédominante, cisidentité en norme sociale dominante, concentration des pouvoirs aux mains d'une élite riche et peu nombreuse, conflits de croyances portant sur des valeurs ou des philosophies, discrimination physique, etc.). Vous êtes libres de traiter de ces sujets au travers de vos personnages en les transposant à notre contexte, en vous disant qu’il existe forcément des esprits malintentionnés prompts au jugement et à l’animosité au sein de l’Arceau — nonobstant les lois et les discours politiques — et qu’une grande majorité des habitants restera globalement indifférente à ce qu'elle ne vit pas personnellement.",
+    "categories": ["L'Arceau et la vie en société", "Univers"],
+    "subjects": []
+  },
+  {
+    "question": "Le nom de l’« Arceau » correspond-il à celui l’île ou de la ville ?",
+    "answer": "L’Arceau correspond à l’île entière, mais la ville en elle-même n’a jamais été nommée par les habitant·es : il n’en a toujours existé qu’une seule, après tout.",
+    "categories": ["L'Arceau et la vie en société", "Univers"],
+    "subjects": []
+  },
+  {
+    "question": "Qu’en est-il des armes à feu dans ce monde ?",
+    "answer": "Il est possible de retrouver des armes à feu sur l'Arceau, mais celles-ci sont très compliquées à produire et à entretenir. Elles sont par conséquent très chères et très peu répandues. Les milicien·nes ne s'en servent d'ailleurs pas.",
+    "categories": ["L'Arceau et la vie en société", "Univers"],
+    "subjects": ["Technologie"]
+  },
+  {
+    "question": "Je veux explorer la mer d'Albâtre, comment faire ? Qui contacter ?",
+    "answer": "Impossible de s'y aventurer. Un jour, peut-être (sûrement) !",
+    "categories": ["Univers", "Fonctionnement du forum"],
+    "subjects": ["Mer d'Albâtre"]
+  },
+  {
+    "question": "Y a-t-il des maladies au sein de l'Arceau ?",
+    "answer": "Oui. Vous pouvez transposer les maladies communes de notre monde à cet univers. L’Arceau dispose d’une couverture médicale d’urgence pour ses habitant·es les plus démuni·es, mais les traitements dispendieux sont uniquement destinés à son élite.",
+    "categories": ["L'Arceau et la vie en société", "Univers"],
+    "subjects": []
+  },
+  {
+    "question": "Peut-on avoir des animaux de compagnie ?",
+    "answer": "Le terme « de compagnie » n’existe pas à proprement parler au sein de l’Arceau, car le concept de propriété et d’entretien d’un animal est pour beaucoup un gâchis de ressources. En revanche, il arrive que des animaux (canins, félins, rongeurs, etc.) s’attachent à certains secteurs ou lieux de résidences et que les résident·es se lient naturellement d’amitié avec.",
+    "categories": ["L'Arceau et la vie en société", "Univers"],
+    "subjects": []
+  },
+  {
+    "question": "L’eau du robinet et des sources d’eaux de l’Arceau sont-elles adaptées à la consommation ?",
+    "answer": "Par un miracle sans nom, oui. Vous pouvez même vous y baigner sans aucune crainte.",
+    "categories": ["L'Arceau et la vie en société", "Univers"],
+    "subjects": ["Technologie"]
+  },
+  {
+    "question": "La mer d’Albâtre est une mer dite de nuages, mais existe-t-il une mer d’eau salée ?",
+    "answer": "S’il est possible d’entendre des bruits de houle, une mer est nécessairement constituée de nuages ouatés et tomenteux pour les Arcéen·nes. Tout autre concept de mer ne leur est pas familier.",
+    "categories": ["Univers"],
+    "subjects": ["Mer d'Albâtre"]
+  },
+  {
+    "question": "Est-ce qu’on peut creuser dans les nuages ?",
+    "answer": "Non, mais certaines archives d’expédition rapportent qu’on peut chuter au travers.",
+    "categories": ["Univers"],
+    "subjects": ["Mer d'Albâtre"]
+  },
+  {
+    "question": "Comment puis-je imaginer la langue parlée et écrite de l’Arceau ?",
+    "answer": "Pour nous simplifier la vie, la langue de l’Arceau peut être considérée comme étant du français (sans évidemment en porter le nom) avec les mêmes règles linguistiques (tutoiement et vouvoiement, grammaire, conjugaison, signes diacritiques). Les sonorités dans notre imaginaire se rapprochent davantage de celle de la langue du Chaos inventée par Emi Evans (mais, encore une fois, c’est du bonus — on ne vous demandera pas de la parler). <a href='https://www.youtube.com/watch?v=26R8mn7HNCM&t=104s'>Vidéo Youtube</a>",
+    "categories": ["Univers"],
+    "subjects": ["Langage"]
+  },
+  {
+    "question": "Comment s'organise le système scolaire ?",
+    "answer": "La scolarité est obligatoire sur l'Arceau —sauf pour les personnes malheureusement non déclarées, et suit un cursus en trois étapes : l'école, le collège puis le lycée. Il n'existe aucun diplôme à proprement parler, si ce n'est l'attestation de suivi de formation. Aucun diplôme supplémentaire n'est nécessaire pour accéder par la suite aux études supérieures, mais des tests d'entrée sont réalisés pour accéder aux formations des universités.",
+    "categories": ["L'Arceau et la vie en société", "Univers"],
+    "subjects": ["Éducation"]
+  },
+  {
+    "question": "Je suis un expert dans un certain domaine d’études, et je peux affirmer avec certitude que ce que vous dites dans telle annexe de l’univers ne fait pas sens !",
+    "answer": "Venez nous en parler si jamais vous pensez qu’il y a une aberration qui peut conduire à l’implosion du forum, mais sachez que l’histoire que nous voulons vivre avec vous n’implique probablement pas la faisabilité du système économique, agronomique, géographique, etc. de l’Arceau. (Déjà qu'on marche sur des nuages...)",
+    "categories": ["Univers", "Fonctionnement du forum"],
+    "subjects": []
+  },
+  {
+    "question": "Quelle justification pour des noms de personnage dont les origines sont très diverses dans la vraie vie ?",
+    "answer": "Nous considérons que tous les noms utilisés existent dans la langue commune de notre univers.",
+    "categories": ["Fonctionnement du forum", "Univers"],
+    "subjects": ["Langage"]
+  },
+  {
+    "question": "Est-ce que les PNJs sont des entités sacro-saintes et invulnérables ? Est-ce que les joueurs devront forcément se plier à leurs attentes pour se créer une place dans l’intrigue ?",
+    "answer": "Les PNJs nous permettent de garantir que l’intrigue du forum avance et d’éviter un état de stagnation qui dépendrait des disponibilités des joueur·euses occupant des rôles importants. Cependant, nous aimerions surtout qu’iels vous soient utiles pour développer vos personnages et, idéalement, qu’iels prennent des rôles plus secondaires si l’implication des membres est importante et réelle. (Nous sommes ouvert·es à toute démission, révolution, décapitation ou explosion.)",
+    "categories": ["Fonctionnement du forum"],
+    "subjects": ["PNJs"]
+  },
+  {
+    "question": "J’ai des Trigger Warnings que je ne souhaite pas partager publiquement ou partager tout court. Puis-je demander à être spoilé·e en avance du contenu d’un événement pour m’éviter des déconvenues ?",
+    "answer": "Bien sûr ! Prévenez-nous si vous en ressentez le besoin. Nous ne vous spoilerons pas l’entièreté de l’intrigue, mais nous pouvons vous avertir des thèmes généraux qui pourraient être traités.",
+    "categories": ["Fonctionnement du forum"],
+    "subjects": []
+  },
+  {
+    "question": "J’ai une idée incroyable de fonctionnalité/système de jeu pour le forum, je peux vous la proposer ?",
+    "answer": "N’hésitez pas à proposer toute idée un peu folle et compliquée à Riseha. Elle se fera un plaisir de la développer en y ajoutant plein de fonctionnalités annexes et gadgets (sous condition de validation de Sonylle).",
+    "categories": ["Fonctionnement du forum"],
+    "subjects": []
+  },
+  {
+    "question": "Mon profil / mon code, etc. est bugué, qui dois-je contacter ?",
+    "answer": "S’il s’agit de problèmes visuels (donc HTML, CSS) ou du DysCord, vous pouvez contacter Sonylle. S’il s’agit du fonctionnement pur et dur, vous pouvez demander à Riseha !",
+    "categories": ["Fonctionnement du forum"],
+    "subjects": []
+  },
+  {
+    "question": "Quelles sont les conditions de vie des travailleur·euses dans les souterrains de l'Arceau ? Est-ce une zone de pauvreté ?",
+    "answer": "Les conditions de vie dans les souterrains de l’Arceau sont assez difficiles. Les opportunités sont limitées, pour ne pas dire inexistantes, l’éducation est rudimentaire avec une priorité mise sur du savoir-faire manuel, les logements sont sommaires, même si un fort esprit communautaire permet généralement de connaître une certaine forme d’épanouissement. Par rapport à la surface, on pourrait donc dire que c’est une zone pauvre, mais il n’y a pas de pénuries majeures dans l’ensemble de l’Arceau — la vie y est juste plus austère.",
+    "categories": ["L'Arceau et la vie en société", "Univers"],
+    "subjects": ["Souterrains de l'Arceau"]
+  },
+  {
+    "question": "En dehors du scénario de l’Enterré·e, puis-je faire un personnage venant des souterrains de l’Arceau ?",
+    "answer": "Non, cette origine est spécifiquement réservée à ce scénario !",
+    "categories": ["Création du personnage"],
+    "subjects": []
+  },
+  {
+    "question": "À quel groupe d'âge s'adresse le Collégium / l'Institut de la Conduction ?",
+    "answer": "Ces institutions se destinent à de jeunes adultes d’au moins dix-huit ans.",
+    "categories": ["L'Arceau et la vie en société", "Univers"],
+    "subjects": ["Éducation"]
+  },
+  {
+    "question": "Est-ce que le Collégium / l'Institut de la Conduction équivaut à un système scolaire spécifique que nous connaissons, comme l'université ?",
+    "answer": "Oui, elles correspondent globalement à des facultés / des universités.",
+    "categories": ["L'Arceau et la vie en société", "Univers"],
+    "subjects": ["Éducation"]
+  },
+  {
+    "question": "Quels domaines d'études sont proposés au sein du Collégium / de l'Institut de la Conduction ?",
+    "answer": "Le Collégium couvre tous les domaines académiques et intellectuels, des sciences formelles aux sciences humaines et sociales. L’Institut de la Conduction dispense des programmes plus axés sur les compétences physiques.",
+    "categories": ["L'Arceau et la vie en société", "Univers"],
+    "subjects": ["Éducation"]
+  },
+  {
+    "question": "Qui est en charge du domaine de l’agriculture au sein de l’Arceau ?",
+    "answer": "L'enseignement de l'agriculture est compris dans les programmes du Collégium Arcana. En ce qui concerne les entreprises et les activités économiques liées à l'agriculture, la gestion et les décisions sont confiées à leurs propriétaires ou dirigeant·es respectif·ves. En revanche, l'agriculture souterraine, qui assure la majorité des ressources agricoles nécessaires à la survie de l'Arceau, est supervisée par les Parangons.",
+    "categories": ["L'Arceau et la vie en société", "Lignées", "Univers"],
+    "subjects": ["Éducation", "Parangons"]
+  },
+  {
+    "question": "La police dispose-t-elle de moyens de transport réservés à son usage ?",
+    "answer": "La police utilise essentiellement des vélos électriques, si nécessaire, pour conduire à bien leurs missions : toute autre forme de véhicules motorisés est absente au sein de l’Arceau.",
+    "categories": ["L'Arceau et la vie en société"],
+    "subjects": ["Technologie", "Forces de l'ordre"]
+  },
+  {
+    "question": "Puis-je utiliser une image différente de mon avatar pour le champ icône dans ma fiche de présentation ?",
+    "answer": "Oui, tant qu’elle correspond plus ou moins à votre feat.",
+    "categories": ["Création du personnage", "Fonctionnement du forum"],
+    "subjects": ["Générateur de fiche"]
+  },
+  {
+    "question": "Je n’ai pas reçu de mail d’activation en créant mon compte, au secours !",
+    "answer": "Nous pouvons l’activer pour vous si vous pouvez nous prévenir depuis le Discord ! Alternativement, vous pouvez également nous envoyer un e-mail à l’adresse fournie sur la page des crédits du forum.",
+    "categories": ["Fonctionnement du forum"],
+    "subjects": ["Compte"]
+  }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+]
