@@ -16,14 +16,14 @@ const FAQList = () => {
         setLoading(false)
       })
       .catch(error => {
-        console.error('Erreur de récupération des données de la FAQ :', error);
-        setError(error);
-        setLoading(false);
-      });
-  }, []);
+        console.error('Erreur de récupération des données de la FAQ :', error)
+        setError(error)
+        setLoading(false)
+      })
+  }, [])
 
-  if (loading) return <p>FAQ en cours de chargement...</p>;
-  if (error) return <p>Erreur de récupération des données de la FAQ : {error.message}</p>;
+  if (loading) return <p>FAQ en cours de chargement...</p>
+  if (error) return <p>Erreur de récupération des données de la FAQ : {error.message}</p>
 
   const handleCategoryClick = category => {
     if (selectedCategories.includes(category)) {
@@ -54,14 +54,10 @@ const FAQList = () => {
   return (
     <div>
       <div className={styles.filters}>
-        <div>
+        <div className="faq-filters">
           <h4>Categories</h4>
-{["Création du personnage", "Fonctionnement du forum", "L'Arceau et la vie en société", "Lignées", "Univers"].map(category => (
-            <button
-              key={category}
-              onClick={() => handleCategoryClick(category)}
-              className={selectedCategories.includes(category) ? styles.active : ''}
-            >
+          {['Création du personnage', 'Fonctionnement du forum', "L'Arceau et la vie en société", 'Lignées', 'Univers'].map(category => (
+            <button key={category} onClick={() => handleCategoryClick(category)} className={selectedCategories.includes(category) ? styles.active : ''}>
               {category}
             </button>
           ))}
@@ -75,14 +71,14 @@ const FAQList = () => {
             'Éducation',
             'Équilibres',
             'Divers',
-            'Forces de l\'ordre',
+            "Forces de l'ordre",
             'Générateur de fiche',
             'Langage',
-            'Mer d\'Albâtre',
+            "Mer d'Albâtre",
             'Parangons',
             'PNJs',
             'Rédemptions',
-            'Souterrains de l\'Arceau',
+            "Souterrains de l'Arceau",
             'Technologie',
             'Volontés'
           ].map(subject => (
