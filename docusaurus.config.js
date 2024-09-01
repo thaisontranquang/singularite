@@ -87,10 +87,10 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'mecaniques/humeurs',
-            sidebarid: 'mecaniquesSidebar',
+            docId: 'outils/humeurs',
+            sidebarid: 'outilsSidebar',
             position: 'left',
-            label: 'Mécaniques',
+            label: 'Outils des joueur·euses',
           },
           {
             type: 'doc',
