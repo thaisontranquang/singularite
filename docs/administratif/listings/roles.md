@@ -34,6 +34,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## E
 
+- Employée de manutention — Arya
 - Étudiante en Sciences Politiques — Malieana
 
 ## F

@@ -56,6 +56,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 - Langley, Path to Nowhere — *Réservée*
 - Lapis Lazuli, Houseki no Kuni — Azur
 - Luffy, One Piece — Alphée
+- Luisa, Encanto — Arya
 
 ## M
 
