@@ -46,7 +46,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## H
 
-- Herboriste — Maggie
+- Herboriste — Maggie, Sarah
 - Historien — Alioth
 
 ## I

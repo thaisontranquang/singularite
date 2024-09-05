@@ -38,7 +38,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## H
 
-- Harry Dubois, Disco Elysium — Edgar 
+- Harry Dubois, Disco Elysium — Edgar
 - Himeko, Honkai Star Rail — Andraste (PNJ)
 - Hwang Hyun-jin — Anastase
 
@@ -76,6 +76,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 ## R
 
 - Reze, Chainsaw Man — Josetta
+- Ryne, Final Fantasy XIV — Sarah
 
 ## S
 
