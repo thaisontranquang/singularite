@@ -99,4 +99,6 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## Y
 
+- Yuuki Asuna, Sword Art Online — Isadora
+
 ## Z

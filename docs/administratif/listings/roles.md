@@ -9,6 +9,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## A
 
+- Agente de propreté à mi-temps du Chrome Gymnase — Isadora
 - Agent de sécurité au promontoire — Victorius
 - Agente à tout faire — Ace
 - Ancien combattant des Arènes — Horizon
