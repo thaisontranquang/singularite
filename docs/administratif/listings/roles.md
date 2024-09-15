@@ -36,6 +36,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 ## E
 
 - Employée de manutention — Arya
+- Employé de supérette — Elliot
 - Étudiante en Sciences Politiques — Malieana
 
 ## F
