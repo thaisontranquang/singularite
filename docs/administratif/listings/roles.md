@@ -75,7 +75,8 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## P
 
--  Projectionniste au CinéMaX — Edgar
+- Projectionniste au CinéMaX — Edgar
+- Policier — Onyx
 
 ## Q
 
@@ -86,6 +87,8 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 ## S
 
 ## T
+
+- Tutrice à domicile — Odélie
 
 ## U
 
