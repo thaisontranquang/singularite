@@ -20,7 +20,7 @@ sidebar_position: 3
 
 Novembre & Décembre —
 - Événement majeur pour l'ensemble des membres
-- 2 fragments
+- Divers fragments
 
 (liste sujette à des changements)
 
