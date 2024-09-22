@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Séquence 3
+# Séquence 2
 
 :::info[Informations]
 
