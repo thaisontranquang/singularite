@@ -33,7 +33,7 @@ sidebar_position: 2
 
 - Alors qu'il rentre de son travail, Azur s'évanouit.
 - Rannie comprenant que quelque chose d'étrange est sur le point de se passer, contacte ses allié·es pour l'aider à transporter Azur.
-- [Lire le RP](https://singularite.forumactif.com/t94-sequence-1-fragment-1-l-eveil#471)
+- [Lire le RP](https://singularite.forumactif.com/t102-alors-que-la-nuit-se-fait-plus-noire)
 
 </TimelineItem>
 
