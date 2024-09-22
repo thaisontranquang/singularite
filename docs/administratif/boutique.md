@@ -16,6 +16,7 @@ Les voies passives ne demandent aucune action spécifique de votre part.
 
 - Revenu universel de 50 pièces, distribué au début de chaque mois.
 - Lorsqu'un fragment d'intrigue est posté, chaque membre validé·e recevra 5 pièces.
+- Le jour de votre anniversaire, vous recevrez également 10 vivias ! Si pour de quelconque raison vous ne souhaitez pas renseigner votre anniversaire, nous donnerons à la fin de l'année 10 vivias aux concerné·es.
 
 ### Participations dans la vie de la communauté
 
