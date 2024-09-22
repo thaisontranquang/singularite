@@ -554,7 +554,7 @@
   },
   {
     "question": "Est-ce que tout le monde s'appelle par son prénom sur l'Arceau ? N'y a-t-il pas de nom de famille ?",
-    "answer": "Tout le monde s'appelle effectivement pas son prénom. Les gens font généralement attention de ne pas donner le même prénom qu'une personne encore vivante sur l'Arceau. Des registres sont tenus exprès.",
+    "answer": "Tout le monde s'appelle effectivement par son prénom. Les gens font généralement attention de ne pas donner le même prénom qu'une personne encore vivante sur l'Arceau. Des registres sont tenus exprès.",
     "categories": [
       "Univers"
     ],
@@ -564,13 +564,12 @@
   },
   {
     "question": "Est-ce qu'il y a déjà eu des soulèvements et/ou manifestations contre le gouvernement dans l'histoire connue ?",
-    "answer": "Il y en a effectivement eu quelques unes, mais il s'agit d'événements assez minimes et peu marquant. Les conditions de vie sont dans l'ensemble agréable pour lae civil·e moyen·ne.",
+    "answer": "Il y en a effectivement eu quelques unes, mais il s'agit d'événements assez minimes et peu marquants. Les conditions de vie sont dans l'ensemble agréables pour lae civil·e moyen·ne.",
     "categories": [
       "Univers"
     ],
     "subjects": [
-      "Divers",
-      "Éducation"
+      "Divers"
     ]
   }
 ]
