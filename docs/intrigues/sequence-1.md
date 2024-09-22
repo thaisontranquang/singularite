@@ -8,6 +8,7 @@ sidebar_position: 2
 
 - Nous traversons actuellement la saison de l'automne de l’an 600. Il s'agit d'une saison particulièrement belle cette année : les feuilles des arbres sont plus resplendissantes que jamais.
 - La tendance qui s'est développée chez les plus jeunes de la population, à savoir se jeter depuis le haut d'escaliers, semble s'être enfin calmée ! Le nombre d'accidents est en baisse.
+- Des posters disposés dans les avenues de Sonwich demandent aux « habitants malades, éprouvant des haut-le-cœur, de les retenir jusqu’à sortir du quartier ».
 - Eleane aurait enfin été aperçue hors de son laboratoire ; cela faisait plusieurs semaines que plus personne ne l'avait vue...
 - Scandale à la Fourmillière ! Les deux dirigeants connus sous les pseudos Bill-Porte et Paul-Haleine sont en garde-à-vue. Impossible de connaître la raison de cette arrestation.
 - Une silhouette sombre a été aperçue dans les tréfonds de l'abysse qui se trouve au coeur des Vestiges d'Antan.
