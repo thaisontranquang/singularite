@@ -21,7 +21,7 @@ Les voies passives ne demandent aucune action spécifique de votre part.
 
 Nous aimerions fonder une communauté impliquée et nous sommes plus que disposés à récompenser celleux qui prennent du temps pour nous y aider !
 
-- Créer un sujet de théorie : 10 pièces.
+- Créer un sujet de théorie : 5 pièces.
 - Répondre à un sujet de théorie : 2 pièces.
 - Remonter un bogue ou une coquille : 1 pièce par élément relevé.
 
@@ -47,7 +47,7 @@ Pas d’inquiétudes, il y a d’autres choses à faire avec !
 - Demander un sujet RP avec un PNJ : 100 pièces (sous réserve de disponibilité du côté de l’équipe).
 - Demander un sujet RP avec un PNJ spécifique : 150 pièces.
 - Demander l'éveil de votre Aspect : 300 pièces (indisponible pour le moment ; possibilité d'obtention par d'autres moyens).
-- Demander une élévation : 200 pièces (indisponible pour le moment ; possibilité d'obtention par d'autres moyens).
+- Demander une élévation : 300 pièces (indisponible pour le moment ; possibilité d'obtention par d'autres moyens).
 
 Les changements visuels et les demandes de reroll sont gratuits, mais à notre appréciation (si vous changez radicalement de tête toutes les semaines, on risque de bouder). Parlez-nous-en !
 
