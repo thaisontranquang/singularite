@@ -376,7 +376,7 @@
   },
   {
     "question": "Le calendrier utilisé sur Singularité est-il le même que celui IRL ?",
-    "answer": "Oui ! C’est le même, jusqu'aux signes astrologiques, etc. (à noter que notre monde est entouré de deux lunes, c'est la seule distinction à faire sur ce sujet si vous deviez essayer de l'interpréter dans vos écrits) ! Considérez qu’une saison comprend 2 mois (pour 6 saisons) et que l’hiver commence en janvier.",
+    "answer": "Oui ! C’est le même, jusqu'aux signes astrologiques, etc. (à noter que notre monde est entouré de deux lunes, c'est la seule distinction à faire sur ce sujet si vous deviez essayer de l'interpréter dans vos écrits) ! Considérez qu’une saison s'étend sur 2 mois (pour 6 saisons) et que l’hiver commence généralement fin décembre/début janvier. Les saisons ne sont pas tout à fait égales évidemment, il y a des périodes de transition, la température ne change pas du jour au lendemain.",
     "categories": [
       "Univers"
     ],
@@ -539,6 +539,38 @@
     ],
     "subjects": [
       "Divers"
+    ]
+  },
+  {
+    "question": "Y a-t-il un équivalent des services sociaux sur l'Arceau ?",
+    "answer": "Oui, il existe un service social qui s'occupe de la protection de l'enfance. Il est cependant très peu financé et les services sont limités.",
+    "categories": [
+      "Univers"
+    ],
+    "subjects": [
+      "Divers",
+      "Éducation"
+    ]
+  },
+  {
+    "question": "Est-ce que tout le monde s'appelle par son prénom sur l'Arceau ? N'y a-t-il pas de nom de famille ?",
+    "answer": "Tout le monde s'appelle effectivement pas son prénom. Les gens font généralement attention de ne pas donner le même prénom qu'une personne encore vivante sur l'Arceau. Des registres sont tenus exprès.",
+    "categories": [
+      "Univers"
+    ],
+    "subjects": [
+      "Divers"
+    ]
+  },
+  {
+    "question": "Est-ce qu'il y a déjà eu des soulèvements et/ou manifestations contre le gouvernement dans l'histoire connue ?",
+    "answer": "Il y en a effectivement eu quelques unes, mais il s'agit d'événements assez minimes et peu marquant. Les conditions de vie sont dans l'ensemble agréable pour lae civil·e moyen·ne.",
+    "categories": [
+      "Univers"
+    ],
+    "subjects": [
+      "Divers",
+      "Éducation"
     ]
   }
 ]
