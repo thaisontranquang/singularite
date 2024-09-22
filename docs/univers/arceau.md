@@ -48,6 +48,6 @@ Durant cette saison, le soleil ne se couche plus. Les teintes du ciel oscillent 
 - L'Arceau est une île isolée du reste du monde.
 - Elle est entourée d'une mer de nuages, la Mer d'Albâtre, qui n'est plus explorable.
 - Le nom de l’île est éponyme de sa seule et unique ville. Certains parlent du domaine ou de la cité de l’Arceau pour la distinguer de l’île, si le contexte ne suffit pas.
-- Il existe 6 saisons dans notre monde. Pour connaître la saison actuelle, rendez-vous sur la dernière séquence : [Lien dernière séquence](/docs/intrigues/sequence-0/premices).
+- Il existe 6 saisons dans notre monde.
 
 :::
