@@ -44,7 +44,8 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 ## G
 
 - Gestionnaire des finances à l'institut des chercheur·euses — Anastase
-- Guitariste du groupe Steel Blue — Azur
+- Guérisseur — Cobalt
+- Guitariste de groupe Motherless Behavior — Azur
 
 ## H
 
@@ -66,6 +67,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 ## M
 
 - Mannequin — Azur
+- Masseur — Cobalt
 - Marchande de poisons — Maggie
 - Médecin généraliste — Micaiah
 - Mineuse — Bill
