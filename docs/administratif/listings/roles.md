@@ -22,6 +22,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 ## C
 
 - Chercheur en ingénierie spécialisé dans la Mer d'Albâtre — Frederick
+- Chercheuse en sciences historiques — Medea
 - Coursier — Zacharie
 
 ## D
