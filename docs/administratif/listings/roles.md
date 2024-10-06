@@ -13,6 +13,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 - Agent de sécurité au promontoire — Victorius
 - Agente à tout faire — Ace
 - Ancien combattant des Arènes — Horizon
+- Assistant administratif dans la fonction publique — Ariel
 - Assistant social pénitentiaire — Set
 
 ## B
@@ -21,6 +22,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## C
 
+- Chanteur du groupe Motherless Behavior — Ariel
 - Chercheur en ingénierie spécialisé dans la Mer d'Albâtre — Frederick
 - Chercheuse en sciences historiques — Medea
 - Coursier — Zacharie

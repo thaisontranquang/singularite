@@ -9,6 +9,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## A
 
+- Albedo, Genshin Impact — Ariel
 - Angell, Path to Nowhere — Ace
 - Arlecchino, Genshin Impact — Luzie
 - Arrietty, Arrietty : Le Petit Monde des Chapardeurs — Maggie
