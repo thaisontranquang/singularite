@@ -15,6 +15,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 - Ancien combattant des Arènes — Horizon
 - Assistant administratif dans la fonction publique — Ariel
 - Assistant social pénitentiaire — Set
+- Autrice — Rogue
 
 ## B
 
@@ -25,6 +26,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 - Chanteur du groupe Motherless Behavior — Ariel
 - Chercheur en ingénierie spécialisé dans la Mer d'Albâtre — Frederick
 - Chercheuse en sciences historiques — Medea
+- Chroniqueuse — Rogue
 - Coursier — Zacharie
 
 ## D
