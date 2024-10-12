@@ -108,6 +108,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## Y
 
+- Yor Briar, Spy x Family — Malice
 - Yuuki Asuna, Sword Art Online — Isadora
 
 ## Z

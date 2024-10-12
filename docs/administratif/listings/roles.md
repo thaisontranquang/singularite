@@ -27,6 +27,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 - Chercheur en ingénierie spécialisé dans la Mer d'Albâtre — Frederick
 - Chercheuse en sciences historiques — Medea
 - Chroniqueuse — Rogue
+- Combattante dans l'arène — Malice, dite La Faucheuse
 - Coursier — Zacharie
 
 ## D
@@ -93,6 +94,8 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 - Représentante de la Lignée des Rédemptions — Rannie (PNJ)
 
 ## S
+
+- Secrétaire dans l'institut de la Conduction — Malice
 
 ## T
 
