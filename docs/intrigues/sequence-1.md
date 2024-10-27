@@ -40,11 +40,39 @@ sidebar_position: 2
 
 <TimelineItem align='right'>
 
+### RP PNJ — Lentes mues des assasins (RP Rédemptions) — An 600
+
+- Suite au rp *Alors que la nuit se fait plus noire*, Rannie fait appel aux Rédemptions pour l'aider à transporter Azur.
+- Une discussion s'en suit alors.
+- [Lire le RP](https://singularite.forumactif.com/t116-lentes-mues-des-assassins-redemptions#624)
+
+</TimelineItem>
+
+<TimelineItem align='left'>
+
+### RP PNJ — Au vif de la connaissance et des entrailles — An 600
+
+- Frya se rend chez Eleane afin de lui proposer un marché.
+- Si Eleane ne semble pas très encline à accepter, elle finit par envoyer un SMS à Frya lui disant qu'elles travailleront ensemble.
+- [Lire le RP](https://singularite.forumactif.com/t122-rp-pnj-au-vif-de-la-connaissance-et-des-entrailles-ft-eleane)
+
+</TimelineItem>
+
+<TimelineItem align='right'>
+
+### RP PNJ — Épistémologies constructivites (RP Parangons) — An 600
+
+- Eleane convoque différents Parangons afin de leur faire lire un dossier.
+- Des révélations sur l'Arceau sont sur le point d'être faites.
+- [Lire le RP](https://singularite.forumactif.com/t132-epistemologies-constructivistes-parangons)
+
+</TimelineItem>
+
+<TimelineItem align='right'>
+
 ### À venir
 
 Octobre & Novembre —
-- Un RP entre 2 PNJ
-- Un RP PNJ - Membre
 - Détail de la page Aspect
 - RP par Lignée
 - Divers fragments
