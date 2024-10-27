@@ -13,8 +13,7 @@ Personne ne connaît les prémices de leur histoire ; ils sont flous, incertains
 Toujours est-il que les Singularités sont apparues, ou bien peut-être ont-elles toujours été là. Des êtres qui ont transcendé leur condition humaine, qui ont suivi la voie des Dieux en espérant un jour les atteindre.
 
 :::info
-- Aujourd’hui, les vieilles légendes sont avérées. Les Singularités existent bel et bien et sont des individu·es qui ont éveillé leur Aspect, se découvrant dès lors des compétences *surhumaines*.
-- Dans l'univers de l'Arceau, le terme "Singularité" n'a pas encore été utilisé pour dénommer les personnes qui s'éveillent.
+Aujourd’hui, les vieilles légendes sont avérées. Les Singularités existent bel et bien et sont des individus qui ont éveillé leur Aspect, se découvrant dès lors des compétences *surhumaines*.
 :::
 
 ## Aspect
@@ -29,17 +28,24 @@ Un Aspect représente **l’essence la plus profonde d’une personne**. Il s’
 
 N’importe quel·le individu·e peut, à n’importe quel moment de sa vie, éveiller un Aspect. **Les raisons de l’éveil d’un Aspect sont encore inconnues** à ce jour, il semblerait que les règles dépendent pour chacun·e. Certaines personnes diront avoir obtenu leur Aspect suite à une émotion forte ou un événement traumatisant, mais il est difficile d’en faire une généralité.
 
+<<<<<<< HEAD
 **Il est évident que les Singularités ont tout intérêt à cacher l’étendu de leurs capacités**. À l'Arceau, il est beaucoup plus pertinent de garder des tours dans son sac.
+=======
+**Il est évident que les Singularités ont tout intérêt à cacher l’étendu de leurs capacités**. À l'Arceay, il est beaucoup plus pertinent de garder des tours dans son sac.
+>>>>>>> 79c5cce (feat: màj la page aspect)
 
 :::info
 - Les Aspects vous sont donnés par l’équipe administrative au moment où votre personnage devient une Singularité. Cet éveil se fait de manière aléatoire par l’équipe administrative, ou bien de manière ponctuelle selon les besoins pour l’intrigue.
 - Pour information, les Aspects, compétences et Vices ne sont consultables que par vous-mêmes dans votre profil. Il n’est pas possible pour quelqu’un·e d’autre de consulter cette partie de votre profil.
 :::
 
+<<<<<<< HEAD
 :::warning
 Si vous avez dévoilé votre Aspect en RP à la vue de toustes, celui-ci devient consultable par tous les membres.
 :::
 
+=======
+>>>>>>> 79c5cce (feat: màj la page aspect)
 ### Rangs
 
 À ce jour, les habitant·es de l’Arceau n’ont conscience que de deux rangs d’Aspects : **Dormant** et **Éveillé**.
@@ -55,6 +61,11 @@ Un Aspect de rang Éveillé octroie une compétences **en lien avec la nature de
 
 En sus de cela, devenir Éveillé semble avoir un impact plus global sur les individu·es et sur leurs capacités physiques. Un Éveillé aura naturellement une meilleure forme physique qu’un Dormant : meilleurs endurance, vitalité, robustesse, dextérité, énergie, réflexes, etc.
 
+<<<<<<< HEAD
+=======
+**Il est difficile de connaître l’étendu des possibilités des compétences**, mais il a été prouvé par les Parangons que les Aspects possèdent plusieurs rangs qui permettent de débloquer de nouvelles compétences et d’améliorer l’état général du corps de l’individu.
+
+>>>>>>> 79c5cce (feat: màj la page aspect)
 :::info
 Une fois que l’équipe vous a fourni votre Aspect, il vous revient la charge de définir une compétence que votre personnage pourra utiliser. Cette compétence sera à communiquer et à faire valider auprès du Staff via le canal approprié sur le serveur Discord.
 :::
