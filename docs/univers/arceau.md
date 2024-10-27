@@ -43,7 +43,7 @@ Durant cette saison, le soleil ne se couche plus. Les teintes du ciel oscillent 
     </TabItem>
 </Tabs>
 
-:::tip[TL;DR]
+:::tip[TLDR]
 
 - L'Arceau est une île isolée du reste du monde.
 - Elle est entourée d'une mer de nuages, la Mer d'Albâtre, qui n'est plus explorable.
