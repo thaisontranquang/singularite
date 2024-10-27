@@ -29,6 +29,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 - Chroniqueuse — Rogue
 - Combattante dans l'arène — Malice, dite La Faucheuse
 - Coursier — Zacharie
+- Coutelière — Leo
 
 ## D
 

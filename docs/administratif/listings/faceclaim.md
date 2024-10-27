@@ -87,6 +87,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 ## S
 
 - Sampo, Honkai Star Rail — *Réservé*
+- Shego, Kim Possible — Leo
 - Stelle, Honkai Star Rail — Malieana
 - Suchan Jang, Jungle Juice — Zacharie
 - Sugimoto, Golden Kamui — Cobalt
