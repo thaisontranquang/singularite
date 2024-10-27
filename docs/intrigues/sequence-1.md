@@ -68,6 +68,16 @@ sidebar_position: 2
 
 </TimelineItem>
 
+<TimelineItem align='left'>
+
+### RP PNJ — Un accord pour l'avenir — An 600
+
+- Gabriel et Andraste s'entretiennent sur les mesures à prendre pour l'Arceau.
+- Un accord est conclu entre les deux ; des changements sont à prévoir.
+- [Lire le RP](https://singularite.forumactif.com/t142-rp-pnj-un-accord-pour-l-avenir-ft-andraste)
+
+</TimelineItem>
+
 <TimelineItem align='right'>
 
 ### À venir
