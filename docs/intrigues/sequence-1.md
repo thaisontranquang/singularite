@@ -80,10 +80,26 @@ sidebar_position: 2
 
 <TimelineItem align='right'>
 
+### Changement de saison — Soleil de Minuit, An 600
+
+- À compter du 1 novembre, tous les RPs se dérouleront dans la saison du Soleil de Minuit
+
+</TimelineItem>
+
+<TimelineItem align='left'>
+
+### Fragment 2 — NNews, Émission « 20h00 » du ◼◼ /11/600 — Fin novembre, An 600
+
+- NNews fait une interview avec un Policier. Si l'interview paraît très légère, le fond est pourtant plus inquiétant...
+- [Lire le Fragment](https://singularite.forumactif.com/t146-sequence-1-fragment-2-emission-20h00-du-11-600#760)
+
+</TimelineItem>
+
+<TimelineItem align='right'>
+
 ### À venir
 
 Octobre & Novembre —
-- Détail de la page Aspect
 - RP par Lignée
 - Divers fragments
 - 1 changement majeur pour l'ensemble de la Ville
