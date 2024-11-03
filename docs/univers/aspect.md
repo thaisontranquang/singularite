@@ -13,7 +13,8 @@ Personne ne connaît les prémices de leur histoire ; ils sont flous, incertains
 Toujours est-il que les Singularités sont apparues, ou bien peut-être ont-elles toujours été là. Des êtres qui ont transcendé leur condition humaine, qui ont suivi la voie des Dieux en espérant un jour les atteindre.
 
 :::info
-Aujourd’hui, les vieilles légendes sont avérées. Les Singularités existent bel et bien et sont des individus qui ont éveillé leur Aspect, se découvrant dès lors des compétences *surhumaines*.
+- Aujourd’hui, les vieilles légendes sont avérées. Les Singularités existent bel et bien et sont des individu·es qui ont éveillé leur Aspect, se découvrant dès lors des compétences *surhumaines*.
+- Dans l'univers de l'Arceau, le terme "Singularité" n'a pas encore été utilisé pour dénommer les personnes qui s'éveillent.
 :::
 
 ## Aspect
