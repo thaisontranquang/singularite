@@ -16,6 +16,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## B
 
+- Baizhu, Genshin Impact — Jade
 - Beidou, Genshin Impact — Ova
 - Blade, Honkai Star Rail — Set
 

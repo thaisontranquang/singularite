@@ -23,6 +23,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## C
 
+- Chamane — Jade
 - Chanteur du groupe Motherless Behavior — Ariel
 - Chercheur en ingénierie spécialisé dans la Mer d'Albâtre — Frederick
 - Chercheuse en sciences historiques — Medea
