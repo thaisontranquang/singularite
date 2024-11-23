@@ -34,6 +34,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## D
 
+- Directeur d'orphelinat — Babylone
 - Dirigeante de la Lignée des Éclats — Andraste (PNJ)
 - Dirigeant de la Lignée des Équilibres — Gabriel (PNJ)
 - Dirigeante de la Lignée des Parangons — Eleane (PNJ)
