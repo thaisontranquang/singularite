@@ -46,7 +46,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## I
 
-- Impa - The Legend of Zelda - Astrid
+- Impa, The Legend of Zelda - Astrid
 
 ## J
 
@@ -104,7 +104,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 ## V
 
 - Vash, Trigun: Stampede — Horizon
-- Viktor, Arcane — Babylone
+- Victor, Arcane — Babylone
 
 ## W
 
