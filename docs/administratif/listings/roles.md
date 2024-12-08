@@ -19,8 +19,6 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## B
 
-- Barmaid au Fortuna — Malieana
-
 ## C
 
 - Chamane — Jade
@@ -44,20 +42,16 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 - Employée de manutention — Arya
 - Employé de supérette — Elliot
-- Étudiante en Sciences Politiques — Malieana
 
 ## F
 
 ## G
 
-- Gestionnaire des finances à l'institut des chercheur·euses — Anastase
-- Guérisseur — Cobalt
 - Guitariste de groupe Motherless Behavior — Azur
 
 ## H
 
-- Herboriste — Maggie, Sarah
-- Historien — Alioth
+- Herboriste — Maggie
 
 ## I
 
@@ -74,10 +68,8 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 ## M
 
 - Mannequin — Azur
-- Masseur — Cobalt
 - Marchande de poisons — Maggie
 - Médecin généraliste — Micaiah
-- Mineuse — Bill
 
 ## N
 
@@ -100,8 +92,6 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 - Secrétaire dans l'institut de la Conduction — Malice
 
 ## T
-
-- Tutrice à domicile — Odélie
 
 ## U
 

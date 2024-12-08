@@ -30,8 +30,6 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## E
 
-- Entrapta, She-Ra — Bill
-
 ## F
 
 - Franken Stein, Soul Eater — Frederick
@@ -42,7 +40,6 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 - Harry Dubois, Disco Elysium — Edgar
 - Himeko, Honkai Star Rail — Andraste (PNJ)
-- Hwang Hyun-jin — Anastase
 
 ## I
 
@@ -65,7 +62,6 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 ## M
 
 - Makima, Chainsaw Man — Micaiah
-- Merlin, Fate/Series — Alioth
 
 ## N
 
@@ -83,16 +79,11 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 - Reze, Chainsaw Man — Josetta
 - Rensuke Kunigami, Blue Lock — Onyx
-- Robin, Honkai Star Rail — Odélie
-- Ryne, Final Fantasy XIV — Sarah
 
 ## S
 
 - Sampo, Honkai Star Rail — *Réservé*
-- Shego, Kim Possible — Leo
-- Stelle, Honkai Star Rail — Malieana
 - Suchan Jang, Jungle Juice — Zacharie
-- Sugimoto, Golden Kamui — Cobalt
 - Sunday, Honkai Star Rail — Gabriel (PNJ)
 
 ## T
