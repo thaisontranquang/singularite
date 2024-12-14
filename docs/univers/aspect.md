@@ -39,9 +39,6 @@ N’importe quel·le individu·e peut, à n’importe quel moment de sa vie, év
 Si vous avez dévoilé votre Aspect en RP à la vue de toustes, celui-ci devient consultable par tous les membres.
 :::
 
-:::warning
-Si vous avez dévoilé votre Aspect en RP à la vue de toustes, celui-ci devient consultable par tous les membres.
-:::
 
 ### Rangs
 
@@ -60,7 +57,6 @@ En sus de cela, devenir Éveillé semble avoir un impact plus global sur les ind
 
 **Il est difficile de connaître l’étendu des possibilités des compétences**, mais il a été prouvé par les Parangons que les Aspects possèdent plusieurs rangs qui permettent de débloquer de nouvelles compétences et d’améliorer l’état général du corps de l’individu.
 
->>>>>>> 79c5cce (feat: màj la page aspect)
 :::info
 Une fois que l’équipe vous a fourni votre Aspect, il vous revient la charge de définir une compétence que votre personnage pourra utiliser. Cette compétence sera à communiquer et à faire valider auprès du Staff via le canal approprié sur le serveur Discord.
 :::
