@@ -8,7 +8,7 @@ sidebar_position: 3
 
 - L’action de l’Arceau se passe aujourd’hui environ 3 semaines après l’event, soit vers la fin de la saison du Soleil de Minuit.
 - La côte de popularité de Gabriel est en chute libre depuis l’échec de l’inauguration du nouveau quartier à l’Avoué. Face au choc de la ville, une émission spéciale de Nnews sera bientôt diffusée.
-- Le sort connu d’Andraste vous a été dévoilé dans l’épilogue. <a href="">Lire l’épilogue</a>
+- Le sort connu d’Andraste vous a été dévoilé dans l’épilogue de l'event 1. Malheureusement, Andraste a succombé à l'attaque.
 - L’Arceau est parcouru d’une rumeur qui tente d’être étouffée par les autorités : il y aura des personnes dotées de dons surnaturels. Le gouvernement ne s’est toujours pas exprimé à ce sujet.
 
 :::
