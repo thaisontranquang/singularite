@@ -14,7 +14,7 @@ sidebar_position: 1
 
 :::
 
-## Fragments
+## Chronologie
 
 <Timeline horizontal>
 

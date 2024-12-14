@@ -55,6 +55,8 @@ Institutions, gouvernement, justice, communication
 
 **Titre** : Le Gouverneur
 
+**Statut** : En vie
+
 **Âge** : 28 ans
 
 **Description** : Charismatique, souriant, intelligent, Gabriel sait plaire aux foules aussi bien par ses traits physiques presque angéliques que par ses qualités humaines. D'extérieur, Gabriel semble juste, droit et capable de diriger les Équilibres avec impartialité. Pourtant, malgré cette image presque parfaite, sa filiation avec l'ancienne Gouverneuse fait douter certain·es Équilibres de sa capacité de leader.

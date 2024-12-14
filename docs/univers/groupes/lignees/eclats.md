@@ -53,6 +53,8 @@ Transports, logistique, machinerie, construction, milice intérieure
 
 **Titre** : La Championne d’Ignisentus
 
+**Statut** : Décédée
+
 **Âge** : 34 ans
 
 **Description** : Une jeune femme dont la droiture bienveillante et la générosité sans fin inspirent toustes les Éclats. Sous des airs raffinés, Andraste cache cependant un penchant pour le combat. À la tête du Colisée, elle orchestre des spectacles de brutalité où les champions s’affrontent dans des duels épiques, cherchant à surpasser les limites de l’horreur pour gagner sa faveur.

@@ -52,6 +52,8 @@ Enseignement, recherche, ingénierie, énergie, ???
 
 **Titre** : La Doyenne
 
+**Statut** : En vie
+
 **Âge** : 37 ans
 
 **Description** : La doyenne actuelle est une femme au sourire léger et à l’air généralement absent, qui s’éclipse plus souvent que nécessaire dans les confins de son laboratoire. On la suspecte de conduire des expériences étranges, ce qu’elle réfute généralement dans le rire. Figure discrète même auprès de ses collaborateurices les plus proches, ces dernier·ères ne lui connaissent pas de prétention particulière, tout du moins pas à l’échelle de l’Arceau en lui-même.

@@ -15,7 +15,7 @@ sidebar_position: 2
 
 :::
 
-## Fragments
+## Chronologie
 
 <Timeline horizontal>
 
@@ -74,6 +74,7 @@ sidebar_position: 2
 
 - Gabriel et Andraste s'entretiennent sur les mesures à prendre pour l'Arceau.
 - Un accord est conclu entre les deux ; des changements sont à prévoir.
+- Suite à ce RP, Eleane a émis la possibilité pour Frédérick de former une équipe destinée à être envoyée dans la Mer d’Albâtre. Un message a été posté par Frédérick pour organiser cette expédition.
 - [Lire le RP](https://singularite.forumactif.com/t142-rp-pnj-un-accord-pour-l-avenir-ft-andraste)
 
 </TimelineItem>
@@ -97,15 +98,11 @@ sidebar_position: 2
 
 <TimelineItem align='right'>
 
-### À venir
+### RP notables
 
-Octobre & Novembre —
-- RP par Lignée
-- Divers fragments
-- 1 changement majeur pour l'ensemble de la Ville
-- 1 changement majeur pour l'évolution individuelle des personnages
-
-(liste sujette à des changements)
+- [Gabriel x Set](https://singularite.forumactif.com/t133-murmures-des-rencontres-ft-set) : une simple rencontre aux bains
+- [Gabriel x Zach](https://singularite.forumactif.com/t152-pnj-livraison-speciale-ooo-gabriel) : le RP débute tout juste, Zach est en charge de livrer un colis de la part de Rannie au Gouverneur
+- [Andraste x Isadora](https://singularite.forumactif.com/t148-the-girl-who-tried-to-get-away-isa-andraste) : de la même manière, le RP débute tout juste. Andraste et Isadora se retrouvent pour discuter dans un café.
 
 </TimelineItem>
 </Timeline>

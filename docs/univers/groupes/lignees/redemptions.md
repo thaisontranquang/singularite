@@ -52,6 +52,8 @@ Religion, ésotérisme, philosophie, ???, ???
 
 **Titre** : La Voix
 
+**Statut** : En vie
+
 **Âge** : 24 ans
 
 **Description** : Rannie a su s’élever au rang de Voix des Rédemptions par sa droiture et sa volonté d’accompagner les Rédemptions dans leur quête de vérité. Dépourvue de toute malice, Rannie est l’épaule sur laquelle se reposent les Rédemptions, la caresse réconfortante, lorsque les angoisses se font trop grandes. Elle aime naïvement toustes celleux qui se présentent à elle et cherche constamment à révéler le bon en chacun·e.

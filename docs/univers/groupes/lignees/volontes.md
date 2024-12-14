@@ -50,6 +50,8 @@ Santé, pharmaceutique, banques & assurances, commerce
 
 **Titre** : La Maîtresse de Lignée
 
+**Statut** : En vie
+
 **Âge** : ??? (personne n’ose lui demander)
 
 **Description** : Choisie car elle porterait la marque d’une déesse disparue, on la soupçonne d’être sa réincarnation et, en conséquence, tous les membres de cette Lignée lui vouent une admiration sans faille. Frya inspire respect et mystère, personne n’oserait remettre en question ses paroles. Il y a quelque chose de presque divin en elle et pourtant, Frya est faillible. Son visage semble marqué d’une certaine mélancolie pour celleux qui sauront l’observer attentivement.
