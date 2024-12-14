@@ -19,15 +19,6 @@ sidebar_position: 3
 
 <TimelineItem align='left'>
 
-### Brume des Montagnes — An 600, Milieu du Soleil de Minuit
-
-- Très récemment, le % de brume dans les Montagnes de l’Après-Bastide a augmenté de manière drastique. Il est désormais à 31%.
-- [Forum](https://singularite.forumactif.com/f51-montagnes-de-l-apres-bastide)
-
-</TimelineItem>
-
-<TimelineItem align='right'>
-
 ### Event global — L'appel des Brumes, Milieu du Soleil de Minuit
 
 - Un Aurus est apparu et a attaqué la ville.
@@ -36,12 +27,12 @@ sidebar_position: 3
 
 </TimelineItem>
 
-<TimelineItem align='left'>
+<TimelineItem align='right'>
 
-### Brume des Montagnes — An 600, Milieu-fin du Soleil de Minuit
+### Pause
 
-- Suite à l'attaque d'Aurus, le % de Brume des Montagnes de l'Après-Bastide a diminué et est redescendu à environ 10%.
-- [Forum](https://singularite.forumactif.com/f51-montagnes-de-l-apres-bastide)
+L'intrigue fait une pause pour la fine d'année ! On se retrouve début 2025 !
 
 </TimelineItem>
+
 </Timeline>
