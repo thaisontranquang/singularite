@@ -39,13 +39,10 @@ N’importe quel·le individu·e peut, à n’importe quel moment de sa vie, év
 Si vous avez dévoilé votre Aspect en RP à la vue de toustes, celui-ci devient consultable par tous les membres.
 :::
 
-<<<<<<< HEAD
 :::warning
 Si vous avez dévoilé votre Aspect en RP à la vue de toustes, celui-ci devient consultable par tous les membres.
 :::
 
-=======
->>>>>>> 79c5cce (feat: màj la page aspect)
 ### Rangs
 
 À ce jour, les habitant·es de l’Arceau n’ont conscience que de deux rangs d’Aspects : **Dormant** et **Éveillé**.
