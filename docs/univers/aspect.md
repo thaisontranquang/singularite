@@ -28,7 +28,7 @@ Un Aspect représente **l’essence la plus profonde d’une personne**. Il s’
 
 N’importe quel·le individu·e peut, à n’importe quel moment de sa vie, éveiller un Aspect. **Les raisons de l’éveil d’un Aspect sont encore inconnues** à ce jour, il semblerait que les règles dépendent pour chacun·e. Certaines personnes diront avoir obtenu leur Aspect suite à une émotion forte ou un événement traumatisant, mais il est difficile d’en faire une généralité.
 
-**Il est évident que les Singularités ont tout intérêt à cacher l’étendu de leurs capacités**. À l'Arceay, il est beaucoup plus pertinent de garder des tours dans son sac.
+**Il est évident que les Singularités ont tout intérêt à cacher l’étendu de leurs capacités**. À l'Arceau, il est beaucoup plus pertinent de garder des tours dans son sac.
 
 :::info
 - Les Aspects vous sont donnés par l’équipe administrative au moment où votre personnage devient une Singularité. Cet éveil se fait de manière aléatoire par l’équipe administrative, ou bien de manière ponctuelle selon les besoins pour l’intrigue.
