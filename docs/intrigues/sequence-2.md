@@ -29,8 +29,7 @@ sidebar_position: 3
 
 - Un Aurus est apparu et a attaqué la ville.
 - De nombreux dégâts sont à déplorés et la ville est endeuillée suite à l'annonce qui a été faite : Andraste est décédée.
-- [Lire le sujet sommaire](https://singularite.forumactif.com/t171-sequence-2-recapitulatif-l-appel-des-brumes)
-- [Lire le sujet récapitulatif](https://singularite.forumactif.com/f51-montagnes-de-l-apres-bastide)
+- [Lire le sujet récapitulatif](https://singularite.forumactif.com/t171-sequence-2-recapitulatif-l-appel-des-brumes)
 
 </TimelineItem>
 
