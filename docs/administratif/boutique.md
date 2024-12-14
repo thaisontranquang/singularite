@@ -46,7 +46,7 @@ Pas d’inquiétudes, il y a d’autres choses à faire avec !
 
 - Demander un sujet RP avec un PNJ : 100 pièces (sous réserve de disponibilité du côté de l’équipe).
 - Demander un sujet RP avec un PNJ spécifique : 150 pièces.
-- Demander l'éveil de votre Aspect : 300 pièces (possibilité d'obtention par d'autres moyens), **merci de contacter le staff via ticket pour cet achatgit**.
+- Demander l'éveil de votre Aspect : 300 pièces (possibilité d'obtention par d'autres moyens), **merci de contacter le staff via ticket pour cet achat**.
 - Demander une élévation : 300 pièces (indisponible pour le moment ; possibilité d'obtention par d'autres moyens).
 
 Les changements visuels et les demandes de reroll sont gratuits, mais à notre appréciation (si vous changez radicalement de tête toutes les semaines, on risque de bouder). Parlez-nous-en !
