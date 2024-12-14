@@ -31,7 +31,7 @@ sidebar_position: 3
 
 ### Pause
 
-L'intrigue fait une pause pour la fine d'année ! On se retrouve début 2025 !
+L'intrigue fait une pause pour la fin d'année ! On se retrouve début 2025 !
 
 </TimelineItem>
 
