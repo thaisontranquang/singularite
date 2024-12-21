@@ -17,8 +17,8 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 ## B
 
 - Baizhu, Genshin Impact — Jade
-- Beidou, Genshin Impact — Ova
 - Blade, Honkai Star Rail — Set
+- Brigitta, Metaphor: ReFantazio - Siegfried
 
 ## C
 
@@ -55,7 +55,6 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 ## L
 
 - Lady Dimitrescu, Resident Evil Village — Rogue
-- Langley, Path to Nowhere — *Réservée*
 - Lapis Lazuli, Houseki no Kuni — Azur
 - Luisa, Encanto — Arya
 
@@ -83,6 +82,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 ## S
 
 - Sampo, Honkai Star Rail — *Réservé*
+- Shalom, Path to Nowhere — *Réservée*
 - Suchan Jang, Jungle Juice — Zacharie
 - Sunday, Honkai Star Rail — Gabriel (PNJ)
 

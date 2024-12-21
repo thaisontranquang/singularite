@@ -61,11 +61,33 @@ Transports, logistique, machinerie, construction, milice intérieure
 </Column>
 </Columns>
 
+
+<Columns>
+  <Column className='col--4'>
+
+    <img src="https://i.imgur.com/AwXPfHI.png" alt="Andraste" width="250"/>
+    *Brigitta - Metaphor*
+
+  </Column>
+  <Column>
+**Prénom** : Siegfried
+
+**Titre** : —
+
+**Statut** : En vie
+
+**Âge** : 38 ans
+
+**Description** : Membre du Conseil des Conducteurs, elle était une proche alliée d'Andraste. La disparition de cette dernière est avant tout un défi à relever pour cette femme qui gérait principalement l'organe administratif du Colisée et des Éclats. C'est à elleux que reviendra la charge d'élire lae successeur·euse d'Andraste, s'il en existe seulement un·e à la hauteur.
+
+</Column>
+</Columns>
+
 :::tip[TLDR]
 
 - Ignisentus, successeur de Sessilis, est le dieu de la Flamme.
 - Les Éclats valorisent le mérite et l’effort, s’opposent aux politiques conservatrices des Équilibres.
-- Iels sont dirigé·es par le Conseil des Conducteurs sous la direction d’Andraste.
+- Iels sont dirigé·es par le Conseil des Conducteurs dont la figure la plus connue est Siegfried.
 - Iels recrutent, en priorité, des individu·es brillant·es ou déterminé·es pour rejoindre leur cause. Seule une minorité de ces nouvelles recrues est réellement intégrée aux cercles décisionnaires des Éclats.
 - Iels sont en charge des transports, de la logistique, de la machinerie, de la construction et de la milice intérieure.
 

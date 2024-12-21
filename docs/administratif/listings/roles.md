@@ -9,6 +9,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## A
 
+- Amdinistratrice du Conseil des Conducteurs — Siegfried (PNJ)
 - Agente de propreté à mi-temps du Chrome Gymnase — Isadora
 - Agent de sécurité au promontoire — Victorius
 - Agente à tout faire — Ace
@@ -33,7 +34,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 ## D
 
 - Directeur d'orphelinat — Babylone
-- Dirigeante de la Lignée des Éclats — Andraste (PNJ)
+- Ex-Dirigeante de la Lignée des Éclats — Andraste (PNJ)
 - Dirigeant de la Lignée des Équilibres — Gabriel (PNJ)
 - Dirigeante de la Lignée des Parangons — Eleane (PNJ)
 - Dirigeante de la Lignée des Volontés — Frya (PNJ)
@@ -62,8 +63,6 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 ## K
 
 ## L
-
-- Lieutenante de police — Ova
 
 ## M
 

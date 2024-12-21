@@ -20,11 +20,11 @@ Ce flou est soigneusement entretenu pour dissimuler l’influence réelle des Li
 - Amicales
 - Très amicales
 
-|  | Rédemptions | Volontés | Équilibres | Parangons | Éclats | civil·es |
+|  | Rédemptions | Volontés | Équilibres | Parangons | Éclats | Civil·es |
 | --- | --- | --- | --- | --- | --- | --- |
 | Rédemptions | / | Conflictuelles | Neutres | Hostiles | Amicales | Neutres |
 | Volontés | Conflictuelles | / | Conflictuelles | Neutres | Neutres | Neutres |
-| Équilibres | Neutres | Conflictuelles | / | Amicales | Neutres | Neutres |
+| Équilibres | Neutres | Conflictuelles | / | Amicales | Conflictuelles | Confictuelles |
 | Parangons | Hostiles | Neutres | Amicales | / | Très amicales | Neutres |
-| Éclats | Amicales | Neutres | Neutres | Très amicales | / | Neutres |
-| Civil·es | Neutres | Neutres | Neutres | Neutres | Neutres | / |
+| Éclats | Amicales | Neutres | Conflictuelles | Très amicales | / | Neutres |
+| Civil·es | Neutres | Neutres | Conflictuelles | Neutres | Neutres | / |
