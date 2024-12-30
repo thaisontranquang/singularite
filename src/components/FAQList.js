@@ -69,7 +69,7 @@ const FAQList = () => {
             'Compte',
             'Culture',  
             'Éclats',
-            'Économie'  
+            'Économie',
             'Éducation',
             'Équilibres',
             'Divers',
