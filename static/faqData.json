@@ -571,5 +571,184 @@
     "subjects": [
       "Divers"
     ]
+  },
+  {
+    "question": "Pour les entraînements au combat, comme ceux des Éclats, par exemple, est-ce qu’ils peuvent encore avoir lieu à l’Institut ? Si oui, où ? Les Éclats ont-ils toujours accès à l’Institut ? Ou ces entraînements se déroulent dans les arènes ou au gymnase ?",
+    "answer": "En tant qu’Éclat, vous bénéficiez d’un accès à l’Institut, et d'accès spécifiques à votre condition (vous pouvez consulter le sous-forum directement). Sinon c'est dans les arènes quand elles ne sont pas occupées, mais principalement le gymnase (et ensuite, où vous pouvez, si vous avez des équipements à la maison, etc. comme dans la vraie vie...)",
+    "categories": [
+      "L'Arceau et la vie en société",
+      "Lignées"
+    ],
+    "subjects": [
+      "Éclats"
+    ]
+  },
+  {
+    "question": "La compagnie de tramway de L’Arceau porte-t-elle un nom  ?",
+    "answer": "La RATA, soit la Régie autonome des transports de l’Arceau.",
+    "categories": [
+      "L'Arceau et la vie en société"
+    ],
+    "subjects": [
+      "Divers",
+      "Technologie"
+    ]
+  },
+  {
+    "question": "Est-ce que les pompiers (personnels paramédicaux, premiers répondants) sont associés ou affiliés à la police ou à la milice, ou est-ce qu’on les considère plutôt comme des entités à part ?",
+    "answer": "Les pompiers sont en effet associés à la milice, bien qu’ils constituent une sous-branche de l’institution.",
+    "categories": [
+      "L'Arceau et la vie en société"
+    ],
+    "subjects": [
+      "Divers"
+    ]
+  },
+  {
+    "question":"Avec l’absence de véhicules motorisés, comment s’organisent les secours  ? Est-ce que leur vitesse de réponse est satisfaisante ? (Si papy a un AVC dans la rue, a-t-il une chance de s’en tirer ou est-il mort d’avance ?)",
+    "answer": "La ville est très bien équipée en ce qui concerne les kits d’urgence et tout le monde peut se déplacer facilement, que ce soit à vélo ou dans des véhicules spécialisés dans le transport des personnes gravement blessées.",
+    "categories": [
+      "L'Arceau et la vie en société"
+    ],
+    "subjects": [
+      "Divers"
+    ]
+  },
+  {
+    "question": "Les incendies sont-ils considérés comme un risque élevé pour l’Arceau ? (Ou bien y a-t-il une présence omniprésente de systèmes d’extinction, une réponse rapide et une architecture conforme aux normes ?)",
+    "answer": "Il y a beaucoup de technologies déployées pour éviter les problèmes d’incendie. C’est extrêmement rare d’en avoir un qui soit grave.",
+    "categories": [
+      "L'Arceau et la vie en société"
+    ],
+    "subjects": [
+      "Divers"
+    ]
+  },
+  {
+    "question": "Comment vit la faune au sein de l'Arceau ? Est-ce qu’on y trouve encore de grands animaux ? Quels types d’espèces peut-on y rencontrer, en dehors de la ville ?",
+    "answer": "Dans la ville, on ne compte pas d’animaux domestiques, au sens classique du terme, comme des chiens ou des chats en vente dans des animaleries. Toutefois, certains animaux peuvent s’attacher à un endroit ou à une personne. En dehors de la ville, on retrouve une biodiversité occidentale, avec des cerfs, des loups, des oiseaux, ainsi que, dans les zones reculées, quelques gros prédateurs.",
+    "categories": [
+      "Univers",
+      "L'Arceau et la vie en société"
+    ],
+    "subjects": [
+      "Divers"
+    ]
+  },
+  {
+    "question": "Existe-t-il un système de carte bancaire ou de chèque sur l'Arceau ?",
+    "answer": "Oui, il existe une forme dématérialisée de gestion des ressources, centralisée par la ViviaBanque. Ce système inclut des outils comme la carte bancaire, le chèque, ou encore Dyscord, qui peut également faire office d'application de paiement. L'objectif est de simplifier vos écrits sans réinventer complètement nos usages courants. Cependant, il est important de noter que chaque échange numérique possède une correspondance physique.",
+    "categories": [
+      "Univers",
+      "L'Arceau et la vie en société"
+    ],
+    "subjects": [
+      "Économie"
+    ]
+  },
+  {
+    "question": "Est-il possible de se procurer une arme sur l'Arceau (armes à feu ou armes blanches) ?",
+    "answer": "Les armes à feu sont extrêmement rares sur l’Arceau en raison de leur fabrication complexe et de leur réglementation stricte. Il est donc impossible pour un civil d’en posséder légalement. En ce qui concerne les armes blanches, leur régulation porte principalement sur leur port en public et les circonstances dans lesquelles elles peuvent être utilisées. Il est possible de les détenir, mais il faut accepter de se soumettre à des vérifications des autorités.",
+    "categories": [
+      "L'Arceau et la vie en société"
+    ],
+    "subjects": [
+      "Technologie"
+    ]
+  },
+  {
+    "question": "L'industrie du divertissement sur l'Arceau fonctionne-t-elle comme celle de notre monde réel ?",
+    "answer": "Dans l’ensemble, l’Arceau est conçu comme une version miniature de notre société contemporaine, ce qui signifie que les schémas du cinéma, de la musique, du théâtre, de la télévision, etc., y sont similaires, mais à une échelle réduite. Vous êtes autorisés à inclure des références tirées de notre monde dans l’univers de l’Arceau, à condition de les adapter avec discernement (par exemple, en évitant des œuvres telles que « Le Dernier Samouraï », qui ne correspondent pas à notre réalité). Les dérives dans ces industries existent probablement, mais dans une moindre mesure, grâce aux réglementations imposées par les Équilibres pour maintenir un certain ordre. En revanche, on peut sans doute imaginer un certain niveau de propagande gouvernementale dans ces formes de cultures populaires. En ce qui concerne les formations pour intégrer ce secteur, elles ne sont pas aussi spécialisées que dans notre monde. L’éducation repose sur un cursus généraliste obligatoire combiné à des passions, des apprentissages autodidactes ou des emplois accessibles sans expérience préalable. Il n’existe donc pas d’écoles privées dédiées à l’acting ou au multimédia (les grandes institutions de l’Arceau ont d’autres priorités).",
+    "categories": [
+      "L'Arceau et la vie en société"
+    ],
+    "subjects": [
+      "Culture"
+    ]
+  },
+  {
+    "question": "Les armes à distance archaïques (arc, arbalète, etc.) sont-elles utilisées dans l'Arceau par la Milice ou d'autres personnes ?",
+    "answer": "Oui, ces types d'armes sont bel et bien présents. Imaginez l'Arceau avec des équipements modernes comme les tasers qui coexistent avec des armes plus traditionnelles (moins coûteuses) telles que les arcs, arbalètes et épées.",
+    "categories": [
+      "L'Arceau et la vie en société"
+    ],
+    "subjects": [
+      "Divers"
+    ]
+  },
+  {
+    "question": "Dyscord se substitue-t-il complètement à un numéro de téléphone personnel ou est-ce simplement un moyen de communication parmi d'autres ?",
+    "answer": "Dyscord se substitue totalement aux numéros de téléphone personnels dans l'Arceau.  L’application permet de passer des appels, d’échanger des messages, et de retrouver d’autres utilisateurs via un système d’identifiants combinant un prénom et un numéro unique (par exemple : Set#003). Pour partager vos coordonnées, il est nécessaire de transmettre directement votre identifiant. Les contacts ne sont pas publics, et il n’existe pas d’annuaire accessible à tous.",
+    "categories": [
+      "Univers"
+    ],
+    "subjects": [
+      "Divers"
+    ]
+  },
+  {
+    "question": "Les deux lunes de l'Arceau ont-elles des noms et se comportent-elles comme la nôtre ?",
+    "answer": "Les lunes n'ont pas de noms spécifiques. L'une d'elles est unique par son comportement : elle reste constamment visible dans le ciel, de jour comme de nuit, et demeure toujours au même endroit. La seconde, en revanche, suit un cycle classique similaire à celui de notre propre lune.",
+    "categories": [
+      "Univers"
+    ],
+    "subjects": [
+      "Divers"
+    ]
+  },
+  {
+    "question": "Que sait-on de l’histoire de la vie sur l’Arceau ? Y a-t-il eu une évolution similaire à celle de la Terre ? Existe-t-il des archéologues ?",
+    "answer": "Les connaissances sur l’histoire de la vie sur l’Arceau se limitent principalement à ce qui est documenté dans la chronologie officielle. Au-delà de ces informations, le passé reste extrêmement flou, et il est très difficile d’obtenir des détails précis. Pourquoi ne pas poser vos questions directement à une figure d'autorité au sein du Collégium ?",
+    "categories": [
+      "Univers"
+    ],
+    "subjects": [
+      "Divers"
+    ]
+  },
+  {
+    "question": "Comment se passe la gestion financière et les pensions pour les combattants blessés ?",
+    "answer": "La gestion de ces situations est encadrée légalement par des contrats signés par les combattants, lesquels reconnaissent les risques inhérents à leur rôle. Les Éclats prennent en charge une somme minimale pour soutenir les blessés, mais la majorité des frais repose sur les assurances individuelles. En complément, un système semblable à une sécurité sociale pourrait exister pour offrir un soutien de base, bien que celui-ci ne remplace pas les assurances personnelles...",
+    "categories": [
+      "L'Arceau et la vie en société",
+      "Lignées"
+    ],
+    "subjects": [
+      "Éclats"
+    ]
+  },
+  {
+    "question": "Quelle est la sentence pour un homicide volontaire dans l'Arceau ? La taille réduite de la ville rend-elle le crime encore plus grave et tabou qu'ailleurs ?",
+    "answer": "La peine pour un homicide volontaire dépend de divers facteurs, notamment de la défense du criminel et des motifs de son acte. Dans le cas d’un meurtre planifié et motivé par des circonstances aggravantes, la peine maximale pourrait être l’exil, comme un aller simple vers la mer d’Albâtre. Les personnalités influentes ou importantes dans l’Arceau, comme les chercheurs de renom, pourraient constituer des circonstances aggravantes. Cela rendrait le crime plus grave, comparé à un homicide commis contre une personne de moindre statut, comme un citoyen sans compétences particulières.",
+    "categories": [
+      "L'Arceau et la vie en société"
+    ],
+    "subjects": [
+      "Divers"
+    ]
+  },
+  {
+    "question": "Les Équilibres comptent-ils des membres issus de partis politiques autres que celui de Gabriel ?",
+    "answer": "En principe, non. Les membres des Équilibres sont majoritairement des soutiens de Gabriel. L’opposition, constituée d’autres partis politiques, se trouve généralement parmi les groupes de civils ou au sein d’autres Lignées, tout en respectant les relations qui existent entre elles. Cependant, il n’est pas exclu qu'il y ait des individus infiltrés ou sous couverture, ce qui pourrait introduire des exceptions à cette règle générale.",
+    "categories": [
+      "L'Arceau et la vie en société",
+      "Lignées"
+    ],
+    "subjects": [
+      "Politique",
+      "Équilibres"
+    ]
+  },
+  {
+    "question": "Le grand public et les autres Lignées savent-ils qu'Isadora et Victorius sont les héritiers d'Andraste ? Ou cette information est-elle limitée, par exemple, aux Éclats ?",
+    "answer": "Oui, cette information est largement connue du grand public. Elle est médiatisée et reconnue : Isadora et Victorius sont perçues comme les successeurs potentiels d’Andraste. Cependant, cette connaissance ne s’étend pas nécessairement à la question de la succession au sein de la Lignée, qui est un secret bien gardé et même une source de discorde.",
+    "categories": [
+      "L'Arceau et la vie en société",
+      "Lignées"
+    ],
+    "subjects": [
+      "Culture",
+      "Éclats"
+    ]
   }
 ]

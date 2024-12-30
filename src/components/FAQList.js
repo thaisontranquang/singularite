@@ -67,7 +67,9 @@ const FAQList = () => {
           {[
             'Civils',
             'Compte',
+            'Culture',  
             'Éclats',
+            'Économie'  
             'Éducation',
             'Équilibres',
             'Divers',
@@ -76,6 +78,7 @@ const FAQList = () => {
             'Langage',
             "Mer d'Albâtre",
             'Parangons',
+            'Politique',
             'PNJs',
             'Rédemptions',
             "Souterrains de l'Arceau",
