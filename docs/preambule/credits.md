@@ -36,7 +36,7 @@ All images on the forum are used only for non-commercial purposes and with full 
 Mail : singularite.forum@gmail.com
 
 - Image de bannière : [Compte twitter @Jyusan99](https://x.com/Jyusan99)
-- Images d’illustration des catégories : [Compte twitter @ying0yi](https://x.com/ying0yi), illustrations officielles en provenance de Reverse:1999, Arknights et Path to Nowhere.
+- Images d’illustration des catégories et des scénarios : [Compte twitter @ying0yi](https://x.com/ying0yi), illustrations officielles en provenance de Reverse:1999, Granblue Fantasy, Arknights, Punishing: Gray Raven et Path to Nowhere.
 
 # Remerciements
 

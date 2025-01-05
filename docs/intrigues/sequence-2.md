@@ -29,9 +29,11 @@ sidebar_position: 3
 
 <TimelineItem align='right'>
 
-### Pause
+### La suite ?
 
-L'intrigue fait une pause pour la fin d'année ! On se retrouve début 2025 !
+— Une expédition est prévue pour la mi-janvier.
+— Nouveau fragment pour fin janvier.
+— Aucun événement de groupe n’est prévu pour le mois à venir, mais on vous encourager à poster votre épilogue concernant l’Appel des Brumes et à jouer les conséquences de cet événement sur vos personnages.
 
 </TimelineItem>
 
