@@ -17,7 +17,6 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 ## B
 
 - Baizhu, Genshin Impact — Jade
-- Blade, Honkai Star Rail — Set
 - Brigitta, Metaphor: ReFantazio - Siegfried
 
 ## C
@@ -38,6 +37,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## H
 
+- Han Sooyoung, Omniscient Reader's Viewpoint —
 - Harry Dubois, Disco Elysium — Edgar
 - Himeko, Honkai Star Rail — Andraste (PNJ)
 
@@ -88,6 +88,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## T
 
+- Tenjō Utena, Shōjo Kakumei Utena - Eloise
 - Till, Alien Stage — Elliot
 
 ## U

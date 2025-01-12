@@ -9,13 +9,13 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## A
 
-- Amdinistratrice du Conseil des Conducteurs — Siegfried (PNJ)
+- Administratrice du Conseil des Conducteurs — Siegfried (PNJ)
 - Agente de propreté à mi-temps du Chrome Gymnase — Isadora
 - Agent de sécurité au promontoire — Victorius
 - Agente à tout faire — Ace
+- Aide-bibliothécaire - Theo
 - Ancien combattant des Arènes — Horizon
 - Assistant administratif dans la fonction publique — Ariel
-- Assistant social pénitentiaire — Set
 - Autrice — Rogue
 
 ## B
@@ -24,6 +24,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 - Chamane — Jade
 - Chanteur du groupe Motherless Behavior — Ariel
+- Chargée de la sécurité du niveau souterrain de la bibliothèque de Veritas — Eloise
 - Chercheur en ingénierie spécialisé dans la Mer d'Albâtre — Frederick
 - Chercheuse en sciences historiques — Medea
 - Chroniqueuse — Rogue
