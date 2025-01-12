@@ -12,6 +12,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 - Administratrice du Conseil des Conducteurs — Siegfried (PNJ)
 - Agente de propreté à mi-temps du Chrome Gymnase — Isadora
 - Agent de sécurité au promontoire — Victorius
+- Agent d'entretien — Bérénice
 - Agente à tout faire — Ace
 - Aide-bibliothécaire — Theo
 - Ancien combattant des Arènes — Horizon
