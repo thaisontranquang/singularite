@@ -37,7 +37,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## H
 
-- Han Sooyoung, Omniscient Reader's Viewpoint —
+- Han Sooyoung, Omniscient Reader's Viewpoint — Theo
 - Harry Dubois, Disco Elysium — Edgar
 - Himeko, Honkai Star Rail — Andraste (PNJ)
 
