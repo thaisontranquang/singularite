@@ -74,6 +74,8 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## Q
 
+- Quanxi, Chainsaw Man — Bérénice
+
 ## R
 
 - Reze, Chainsaw Man — Josetta
