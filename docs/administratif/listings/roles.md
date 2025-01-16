@@ -13,6 +13,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 - Agente de propreté à mi-temps du Chrome Gymnase — Isadora
 - Agent de sécurité au promontoire — Victorius
 - Agente à tout faire — Ace
+- Agente en relations publiques — Margarita
 - Aide-bibliothécaire — Theo
 - Ancien combattant des Arènes — Horizon
 - Assistant administratif dans la fonction publique — Ariel
