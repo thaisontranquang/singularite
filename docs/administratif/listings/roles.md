@@ -36,6 +36,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## D
 
+- Directeur du Fortuna — James
 - Directeur d'orphelinat — Babylone
 - Ex-Dirigeante de la Lignée des Éclats — Andraste (PNJ)
 - Dirigeant de la Lignée des Équilibres — Gabriel (PNJ)
