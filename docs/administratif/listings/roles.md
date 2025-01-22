@@ -80,8 +80,9 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## P
 
-- Projectionniste au CinéMaX — Edgar
+- PDG de SEDA Pharma — Carter
 - Policier — Onyx
+- Projectionniste au CinéMaX — Edgar
 
 ## Q
 

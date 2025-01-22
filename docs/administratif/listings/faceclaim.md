@@ -57,6 +57,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 - Lady Dimitrescu, Resident Evil Village — Rogue
 - Lapis Lazuli, Houseki no Kuni — Azur
+- Luck Kennard, Coffin Jackson - Carter
 - Luisa, Encanto — Arya
 
 ## M
