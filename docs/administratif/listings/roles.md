@@ -52,6 +52,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## G
 
+- Garde du Corps de Gabriel — Kerrigan
 - Guitariste de groupe Motherless Behavior — Azur
 
 ## H
