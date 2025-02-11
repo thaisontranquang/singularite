@@ -49,7 +49,6 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 ## J
 
 - Jade, Honkai Star Rail — Eleane (PNJ)
-- Jin, Xenoblade Chronicles 2 — Victorius
 
 ## K
 
@@ -111,7 +110,6 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## Y
 
-- Yor Briar, Spy x Family — Malice
 - Yuuki Asuna, Sword Art Online — Isadora
 
 ## Z

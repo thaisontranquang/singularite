@@ -11,7 +11,6 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 - Administratrice du Conseil des Conducteurs — Siegfried (PNJ)
 - Agente de propreté à mi-temps du Chrome Gymnase — Isadora
-- Agent de sécurité au promontoire — Victorius
 - Agent d'entretien — Bérénice
 - Agente à tout faire — Ace
 - Agente en relations publiques — Margarita
@@ -93,8 +92,6 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 - Représentante de la Lignée des Rédemptions — Rannie (PNJ)
 
 ## S
-
-- Secrétaire dans l'institut de la Conduction — Malice
 
 ## T
 
