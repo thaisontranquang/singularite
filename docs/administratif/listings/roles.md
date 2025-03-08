@@ -11,9 +11,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 - Administratrice du Conseil des Conducteurs — Siegfried (PNJ)
 - Agente de propreté à mi-temps du Chrome Gymnase — Isadora
-- Agent d'entretien — Bérénice
 - Agente à tout faire — Ace
-- Agente en relations publiques — Margarita
 - Aide-bibliothécaire — Theo
 - Ancien combattant des Arènes — Horizon
 - Assistant administratif dans la fonction publique — Ariel
@@ -31,7 +29,6 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 - Chroniqueuse — Rogue
 - Combattante dans l'arène — Malice, dite La Faucheuse
 - Coursier — Zacharie
-- Coutelière — Leo
 
 ## D
 

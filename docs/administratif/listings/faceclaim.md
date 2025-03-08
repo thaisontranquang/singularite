@@ -74,8 +74,6 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## Q
 
-- Quanxi, Chainsaw Man — Bérénice
-
 ## R
 
 - Reze, Chainsaw Man — Josetta
@@ -84,7 +82,6 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 ## S
 
 - Sampo, Honkai Star Rail — *Réservé*
-- Saotome Tao, Gokurakugai — Margarita
 - Shalom, Path to Nowhere — *Réservée*
 - Suchan Jang, Jungle Juice — Zacharie
 - Sunday, Honkai Star Rail — Gabriel (PNJ)
