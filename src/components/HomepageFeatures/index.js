@@ -11,7 +11,7 @@ const FeatureList = [
             Singularité
           </Heading>
           <p>
-            Singularité est un forum dystopique, fantastique et futuriste, dans un univers de notre conception à l’ambiance éclectique.
+            Singularité est un forum dystopique, fantastique et futuriste, dans un univers de notre conception à l’ambiance éclectique, centrée sur l’horreur psychologique.
             <br />
             Les grandes lignes de l’intrigue sont déjà tracées, mais malléables : le cadre est semi-évolutif.
             <br />
