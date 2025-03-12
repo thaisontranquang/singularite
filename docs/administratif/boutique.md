@@ -4,7 +4,9 @@ sidebar_position: 2
 
 # Achats en boutique
 
-Le système de points nous permet de valoriser votre engagement tout en vous garantissant une expérience de jeu relativement équitable — même si vos disponibilités sont limitées. Il est perfectible, mais facultatif : son importance est minime en jeu.
+~~Le système de points nous permet de valoriser votre engagement tout en vous garantissant une expérience de jeu relativement équitable — même si vos disponibilités sont limitées. Il est perfectible, mais facultatif : son importance est minime en jeu.~~
+
+Le système de points est retiré suite à la privatisation du forum. Tous les achats sont désormais gratuits et à discuter avec le Staff selon les disponibilités.
 
 ## Comment en acquérir ?
 
