@@ -9,14 +9,11 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## A
 
-- Albedo, Genshin Impact — Ariel
 - Angell, Path to Nowhere — Ace
 - Arlecchino, Genshin Impact — Luzie
-- Arrietty, Arrietty : Le Petit Monde des Chapardeurs — Maggie
 
 ## B
 
-- Baizhu, Genshin Impact — Jade
 - Brigitta, Metaphor: ReFantazio - Siegfried
 
 ## C
@@ -55,8 +52,6 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 ## L
 
 - Lady Dimitrescu, Resident Evil Village — Rogue
-- Lapis Lazuli, Houseki no Kuni — Azur
-- Luck Kennard, Coffin Jackson - Carter
 
 ## M
 
@@ -67,8 +62,6 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 - Ningguang, Genshin Impact — Frya (PNJ)
 
 ## O
-
-- OC, FloreAtlantis — Medea
 
 ## P
 

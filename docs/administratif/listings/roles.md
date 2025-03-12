@@ -14,20 +14,15 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 - Agente à tout faire — Ace
 - Aide-bibliothécaire — Theo
 - Ancien combattant des Arènes — Horizon
-- Assistant administratif dans la fonction publique — Ariel
 - Autrice — Rogue
 
 ## B
 
 ## C
 
-- Chamane — Jade
-- Chanteur du groupe Motherless Behavior — Ariel
 - Chargée de la sécurité du niveau souterrain de la bibliothèque de Veritas — Eloise
 - Chercheur en ingénierie spécialisé dans la Mer d'Albâtre — Frederick
-- Chercheuse en sciences historiques — Medea
 - Chroniqueuse — Rogue
-- Combattante dans l'arène — Malice, dite La Faucheuse
 - Coursier — Zacharie
 
 ## D
@@ -48,7 +43,6 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 ## G
 
 - Garde du Corps de Gabriel — Kerrigan
-- Guitariste de groupe Motherless Behavior — Azur
 
 ## H
 
@@ -66,8 +60,6 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## M
 
-- Mannequin — Azur
-- Marchande de poisons — Maggie
 - Médecin généraliste — Micaiah
 
 ## N
@@ -76,7 +68,6 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## P
 
-- PDG de SEDA Pharma — Carter
 - Policier — Onyx
 - Projectionniste au CinéMaX — Edgar
 
