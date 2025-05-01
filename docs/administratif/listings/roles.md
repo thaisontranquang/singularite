@@ -42,8 +42,6 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 ## G
 
-- Garde du Corps de Gabriel — Kerrigan
-
 ## H
 
 ## I

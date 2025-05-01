@@ -93,8 +93,6 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## W
 
-- Wriothesley, Genshin Impact — Kerrigan
-
 ## X
 
 ## Y
