@@ -22,7 +22,7 @@ Contrairement à la Lignée des Rédemptions, qui se soumet aux instructions d�
 
 Les membres les plus influent·es des Équilibres siègent au sein de l'Assemblée de la Justice, où iels procèdent à une élection semi-démocratique pour désigner lae prochain·e Gouverneur·se. Un·e Gouverneur·se est choisi·e pour succéder à saon prédécesseur·e à la suite de son décès.
 
-Récemment élu, Gabriel est le nouveau Gouverneur des Équilibres.
+~~Récemment élu, Gabriel est le nouveau Gouverneur des Équilibres.~~
 
 ## Méthodes de recrutement
 
@@ -53,13 +53,35 @@ Institutions, gouvernement, justice, communication
 
 **Prénom** : Gabriel
 
-**Titre** : Le Gouverneur
+**Titre** : ~~Le Gouverneur~~
 
-**Statut** : En vie
+**Statut** : ~~Décédé~~ En vie
 
-**Âge** : 28 ans
+**Âge** : ~~28 ans~~ 27 ans
 
 **Description** : Charismatique, souriant, intelligent, Gabriel sait plaire aux foules aussi bien par ses traits physiques presque angéliques que par ses qualités humaines. D'extérieur, Gabriel semble juste, droit et capable de diriger les Équilibres avec impartialité. Pourtant, malgré cette image presque parfaite, sa filiation avec l'ancienne Gouverneuse fait douter certain·es Équilibres de sa capacité de leader.
+</Column>
+</Columns>
+
+<Columns>
+  <Column className='col--4'>
+
+    <img src="/img/lignees/pnj/gabriel.png" alt="Gabriel" width="250"/>
+    *Sunday - HSR*
+
+  </Column>
+  <Column>
+
+**Prénom** : Constance
+
+**Titre** : La Gouverneure
+
+**Statut** : ~~Décédée~~ En vie
+
+**Âge** : 51 ans
+
+**Description** : //
+
 </Column>
 </Columns>
 
