@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Chronologie
+# Les bases
 
 <Timeline horizontal>
 
