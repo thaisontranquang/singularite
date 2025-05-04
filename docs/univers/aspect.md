@@ -83,3 +83,13 @@ Si votre personnage outrepasse ses capacités à plusieurs reprises, des conséq
 n.m.
 1. <span className="italic">Disposition habituelle au mal ; conduite qui en résulte.</span>
 2. <span className="italic">Mauvais penchant, défaut grave que réprouve la morale sociale.</span>
+
+Le Vice est le contrecoup le plus absolu d’un Aspect. Il s’agit d’une imperfection que chaque individu développe malgré soi. Ce Vice peut être en lien avec l’Aspect ou bien totalement autre chose : un souvenir, un trait de caractère, des convictions, des rêves. Un Vice est le revers de la médaille pour les Singularités.
+
+Les Vices sont injustes, ils sont parfois ce qu’il y a de plus douloureux pour une personne, ils représentent une faiblesse pour l’individu·e. De ce fait, et à l’image des Aspects, ils ne sont quasiment jamais dévoilés par les Singularités, sauf nécessité absolue.
+
+:::info
+Les Vices vous sont donnés par l’équipe administrative au moment où votre personnage devient une Singularité. Vous êtes *obligés* de jouer ce Vice, il s’agit d’une facette de votre personnage à part entière.
+
+Plus vous utilisez votre Aspect, plus votre Vice tend vers sa version absolue. Par exemple, un personnage dont le Vice est la paralysie commencera d’abord par avoir des douleurs dans les jambes, puis des difficultés à courir, etc., jusqu’au moment où ses jambes ne lui permettront plus de se lever.
+:::

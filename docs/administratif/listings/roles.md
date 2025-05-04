@@ -30,7 +30,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 - Directeur du Fortuna — James
 - Directeur d'orphelinat — Babylone
 - Ex-Dirigeante de la Lignée des Éclats — Andraste (PNJ)
-- Dirigeant de la Lignée des Équilibres — Gabriel (PNJ)
+- Dirigeant de la Lignée des Équilibres — ~~Gabriel (PNJ)~~ Constance (PNJ)
 - Dirigeante de la Lignée des Parangons — Eleane (PNJ)
 - Dirigeante de la Lignée des Volontés — Frya (PNJ)
 
@@ -41,8 +41,6 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 ## F
 
 ## G
-
-- Garde du Corps de Gabriel — Kerrigan
 
 ## H
 
