@@ -29,8 +29,10 @@
   --ifm-color-primary-light: #5ee7fa;
   --ifm-color-primary-lighter: #6eeafa;
   --ifm-color-primary-lightest: #9bf0fc;
-  --ifm-background-color: #1A1631;
-  --ifm-background-surface-color: #2E274C;
+  --ifm-background-color: #1A1631!important;
+  --ifm-background-surface-color: #2E274C!important;
+  --ifm-footer-background-color: #2E274C!important;
+  --ifm-navbar-search-input-background-color: #1A1631!important;
 }
 
 /* HERO */
