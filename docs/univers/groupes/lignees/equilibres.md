@@ -59,7 +59,7 @@ Institutions, gouvernement, justice, communication
 
 **Âge** : ~~28 ans~~ 27 ans
 
-**Description** : Charismatique, souriant, intelligent, Gabriel sait plaire aux foules aussi bien par ses traits physiques presque angéliques que par ses qualités humaines. D'extérieur, Gabriel semble juste, droit et capable de diriger les Équilibres avec impartialité. Pourtant, malgré cette image presque parfaite, sa filiation avec l'ancienne Gouverneuse fait douter certain·es Équilibres de sa capacité de leader.
+**Description** : Charismatique, souriant, intelligent, Gabriel sait plaire aux foules aussi bien par ses traits physiques presque angéliques que par ses qualités humaines. ~~D'extérieur, Gabriel semble juste, droit et capable de diriger les Équilibres avec impartialité. Pourtant, malgré cette image presque parfaite, sa filiation avec l'ancienne Gouverneuse fait douter certain·es Équilibres de sa capacité de leader.~~ Peu de gens le connaissent vraiment, puisqu'il reste toujours dans l'ombre de sa mère.
 </Column>
 </Columns>
 
@@ -67,7 +67,7 @@ Institutions, gouvernement, justice, communication
   <Column className='col--4'>
 
     <img src="/img/lignees/pnj/gabriel.png" alt="Gabriel" width="250"/>
-    *Sunday - HSR*
+    *Demeter - Hades*
 
   </Column>
   <Column>
@@ -78,9 +78,9 @@ Institutions, gouvernement, justice, communication
 
 **Statut** : ~~Décédée~~ En vie
 
-**Âge** : 51 ans
+**Âge** : 58 ans
 
-**Description** : //
+**Description** : Constance est une femme dont le simple nom inspire respect auprès des habitant·es de l'Arceau. Si beaucoup n'adhèrent pas à sa politique, elle reste malgré tout une personne qui est particulièrement appréciée des Arcéen·nes par son honnêteté.
 
 </Column>
 </Columns>
