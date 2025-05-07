@@ -65,7 +65,9 @@ Institutions, gouvernement, justice, communication
 
 <Columns>
   <Column className='col--4'>
-    *Demeter - Hades*
+
+    <img src="/img/lignees/pnj/constance.png" alt="Constance" width="250"/>
+    *Chaos - Hades*
 
   </Column>
   <Column>
