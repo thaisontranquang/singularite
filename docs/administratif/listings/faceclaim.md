@@ -18,6 +18,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## C
 
+- Chaos, Hades — Constance (PNJ)
 - Columbina, Genshin Impact — Rannie (PNJ)
 
 ## D
