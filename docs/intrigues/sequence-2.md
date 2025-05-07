@@ -98,7 +98,7 @@ sidebar_position: 3
 
 ### Épisode 3 : Son cri pulvérisera sa mémoire cosmique — sécurité
 
-- Siegfried, en charge de la sécurité de l'Arceau suite au décès d'Andraste mène les troupes à la recherche des fugitif·ves.
+- Siegfried, en charge de la sécurité de l'Arceau ~~suite au décès d'Andraste mène les troupes à la recherche des fugitif·ves~~ aux côtés d'Andraste.
 - [Lire le sujet](https://singularite.forumactif.com/t245-sequence-2-episode-3-son-cri-pulverisera-sa-memoire-cosmique-securite#1566)
 
 </TimelineItem>
