@@ -70,7 +70,6 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 ## R
 
 - Reze, Chainsaw Man — Josetta
-- Rensuke Kunigami, Blue Lock — Onyx
 
 ## S
 

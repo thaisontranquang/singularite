@@ -85,7 +85,6 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 - Vendeuse chez Verchères — Josetta
 - Voyante — Astrid
 
-
 ## W
 
 ## X
