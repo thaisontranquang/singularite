@@ -29,6 +29,7 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 
 - Directeur du Fortuna — James
 - Directeur d'orphelinat — Babylone
+- Directrice de la comptabilité du Collégium — Morrigan
 - Ex-Dirigeante de la Lignée des Éclats — Andraste (PNJ)
 - Dirigeant de la Lignée des Équilibres — ~~Gabriel (PNJ)~~ Constance (PNJ)
 - Dirigeante de la Lignée des Parangons — Eleane (PNJ)
@@ -37,6 +38,8 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 ## E
 
 - Employé de supérette — Elliot
+- Escroc — Andréas
+- Etudiant en Pharmacie — Andréas
 
 ## F
 
@@ -47,6 +50,8 @@ Nous nous permettons de réunir sous la même appellation des métiers similaire
 ## I
 
 - Inquisitrice — Luzie
+- Instructeur à l'Institut de conduction — Médor
+- Intérimaire au Fortuna — Andréas
 
 ## J
 

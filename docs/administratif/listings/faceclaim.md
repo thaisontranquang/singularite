@@ -9,6 +9,7 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 
 ## A
 
+- Allen Sugasano, Paradox Live — Andréas
 - Angell, Path to Nowhere — Ace
 - Arlecchino, Genshin Impact — Luzie
 
@@ -49,6 +50,8 @@ Prenez directement contact avec une personne de l’équipe pour toute demande d
 - Jade, Honkai Star Rail — Eleane (PNJ)
 
 ## K
+
+- Kars, JJBA — Médor
 
 ## L
 
